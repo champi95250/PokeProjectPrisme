@@ -65,6 +65,16 @@ LandNight,21
     18,HOOTHOOT,6,8
     12,MORELULL,5,8
     6,PHANTUMP,7,9
+    2,GASTLY,7,9
+LandFog,21
+    15,MORELULL,6,8
+    12,PHANTUMP,7,9
+    5,MISDREAVUS,7,9
+LandNightFog,21
+    15,GASTLY,7,9
+    13,PHANTUMP,7,9
+    8,MISDREAVUS,7,9
+    4,MORELULL,6,8
 PokeRadar,100
     100,SHUPPET,6,9
 #-------------------------------

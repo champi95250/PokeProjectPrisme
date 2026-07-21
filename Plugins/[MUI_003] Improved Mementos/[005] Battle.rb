@@ -6,14 +6,14 @@
 class Battle
   def pbStartBattleSendOut_WithTitles(sendOuts)
     foes = @opponent || pbParty(1)
-    msg = (wildBattle?) ? "Oh! A wild " : "You are challenged by "
+    msg = (wildBattle?) ? "Oh ! Un " : "Vous êtes défié par "
     foes.each_with_index do |foe, i|
       if i > 0
-        msg += (i == foes.length - 1) ? " and " : ", "
+        msg += (i == foes.length - 1) ? " et " : ", "
       end
       msg += (wildBattle?) ? foe.name : foe.full_name
     end
-    msg += (wildBattle?) ? " appeared!" : "!"
+    msg += (wildBattle?) ? " sauvage apparaît !" : "!"
     pbDisplayPaused(_INTL("{1}", msg))
     [1, 0].each do |side|
       next if side == 1 && wildBattle?
@@ -26,12 +26,12 @@ class Battle
           msg += "Go! "
           sent = sendOuts[side][0]
         else
-          msg += "#{t.full_name} sent out "
+          msg += "#{t.full_name} envoie "
           sent = (side == 0) ? sendOuts[0][1] : sendOuts[1][i]
         end
         sent.each_with_index do |idxBattler, j|
           if j > 0
-            msg += (j == sent.length - 1) ? " and " : ", "
+            msg += (j == sent.length - 1) ? " et " : ", "
           end
           msg += @battlers[idxBattler].name_title
         end
@@ -57,17 +57,17 @@ class Battle
     if pbOwnedByPlayer?(idxBattler)
       opposing = @battlers[idxBattler].pbDirectOpposing
       if opposing.fainted? || opposing.hp == opposing.totalhp
-        pbDisplayBrief(_INTL("You're in charge, {1}!", newPkmnName))
+        pbDisplayBrief(_INTL("Je compte sur toi, {1} !", newPkmnName))
       elsif opposing.hp >= opposing.totalhp / 2
-        pbDisplayBrief(_INTL("Go for it, {1}!", newPkmnName))
+        pbDisplayBrief(_INTL("Vas-y, {1} !", newPkmnName))
       elsif opposing.hp >= opposing.totalhp / 4
-        pbDisplayBrief(_INTL("Just a little more! Hang in there, {1}!", newPkmnName))
+        pbDisplayBrief(_INTL("Encore un effort ! Tiens bon, {1} !!", newPkmnName))
       else
-        pbDisplayBrief(_INTL("Your opponent's weak! Get 'em, {1}!", newPkmnName))
+        pbDisplayBrief(_INTL("L'adversaire est affaibli ! Achève-le, {1} !", newPkmnName))
       end
     else
       owner = pbGetOwnerFromBattlerIndex(idxBattler)
-      pbDisplayBrief(_INTL("{1} sent out {2}!", owner.full_name, newPkmnName))
+      pbDisplayBrief(_INTL("{1} envoie {2}!", owner.full_name, newPkmnName))
     end
   end
 end

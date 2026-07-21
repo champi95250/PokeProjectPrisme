@@ -39,9 +39,9 @@ module WeatherConfig
   # The difference between the ID of the tileset defined for an outdoor map and it's season version.
   # The difference has to be the same for any tileset defined in OUTDOOR_TILESETS.
   # Use the same season tileset as the default outdoor map tileset and define the diference for that season as 0.
-  SUMMER_TILESET = 22
-  AUTUMN_TILESET = 24
-  WINTER_TILESET = 26
+  SUMMER_TILESET = 0
+  AUTUMN_TILESET = 0
+  WINTER_TILESET = 0
   SPRING_TILESET = 0
 
 #===============================================================================
@@ -65,7 +65,7 @@ module WeatherConfig
   WEATHER_SUBSTITUTE = [
 	{:None => :None, :Rain => :Rain, :Storm => :Storm, :Snow => :Rain, :Blizzard => :Storm, :Sandstorm => :None, :HeavyRain => :HeavyRain, :Sun => :Sun, :Fog => :Fog},
 	{:Snow => :Rain, :Snow => :Rain, :Blizzard => :Storm, :Sandstorm => :None},
-	{:Snow => :Rain, :Snow => :Rain, :Blizzard => :HeavyRain, :Sandstorm => :None}
+	{:Snow => :Rain, :Snow => :Rain, :Blizzard => :HeavyRain, :Sandstorm => :None, :Fog => :Fog}
   ]
 
 #===============================================================================
@@ -133,32 +133,32 @@ module WeatherConfig
   # Probability of weather in summer.
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_SUMMER = [
-    [50, 20, 3, 0, 0, 0, 5, 0],
-    [70, 20, 2],
-    [60, 0, 0, 0, 0, 0, 0, 5]
+    [65, 12, 3, 0, 0, 0, 0, 20, 0],  # Grande route
+    [68, 10, 2, 0, 0, 0, 0, 20, 0],  # Claircour / Route 3
+    [55, 5, 0, 0, 0, 0, 0, 10, 30]   # Bois des Serments
   ]
 
   # Probability of weather in autumn.
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_AUTUMN = [
-    [50, 20, 3, 0, 0, 0, 5, 0],
-    [70, 20, 2],
-    [60, 0, 0, 0, 0, 0, 0, 5]
+    [58, 30, 5, 0, 0, 0, 0, 5, 2], # Grande route
+    [63, 25, 5, 0, 0, 0, 0, 5, 2], # Claircour / Route 3
+    [40, 0, 0, 0, 0, 0, 0, 5, 55]  # Bois des Serments
   ]
 
   # Probability of weather in winter.
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_WINTER = [
-    [50, 20, 3, 0, 0, 0, 5, 0],
-    [70, 20, 2],
-    [60, 0, 0, 0, 0, 0, 5]
+    [60, 20, 3, 10, 2, 0, 0, 3, 2],   # Grande route
+    [58, 12, 3, 10, 2, 0, 0, 3, 2],   # Claircour / Route 3
+    [37, 0, 0, 12, 0, 0, 0, 0, 51]    # Bois des Serments
   ]
 
   # Probability of weather in spring.
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_SPRING = [
-    [50, 20, 3, 0, 0, 0, 5, 0],
-    [70, 20, 2],
-    [60, 0, 0, 0, 0, 0, 0, 5]
+    [55, 25, 4, 0, 0, 0, 2, 10, 4],  # Grande route
+    [60, 22, 3, 0, 0, 0, 0, 10, 5],  # Claircour / Route 3
+    [40, 15, 2, 0, 0, 0, 0, 5, 38]   # Bois des Serments
   ]
 end

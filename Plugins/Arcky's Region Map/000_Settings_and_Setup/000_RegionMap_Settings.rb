@@ -590,10 +590,78 @@
           :RockSmash => "Rock Smash",
           :HeadbuttLow => "Headbutt (Rare)",
           :HeadbuttHigh => "Headbutt (Common)",
-          :BugContest => "Bug Contest",
-          :LandRain => "Grass (Rain)",
-          :LandNightRain => "Grass (Night - Rain)"
+          :BugContest => "Bug Contest"
         }
+        WeatherEncounterNames = {
+          :Rain      => "Rain",
+          :Storm     => "Storm",
+          :Snow      => "Snow",
+          :Blizzard  => "Blizzard",
+          :Sandstorm => "Sandstorm",
+          :HeavyRain => "Heavy Rain",
+          :Sun       => "Sun",
+          :Fog       => "Fog"
+        }
+
+        WeatherEncounterNames.each do |weather_id, weather_name|
+          # Rencontres dans les herbes
+          EncounterTypes[:"Land#{weather_id}"] =
+            "Grass (#{weather_name})"
+
+          EncounterTypes[:"LandMorning#{weather_id}"] =
+            "Grass (Morning - #{weather_name})"
+
+          EncounterTypes[:"LandDay#{weather_id}"] =
+            "Grass (Day - #{weather_name})"
+
+          EncounterTypes[:"LandAfternoon#{weather_id}"] =
+            "Grass (Afternoon - #{weather_name})"
+
+          EncounterTypes[:"LandEvening#{weather_id}"] =
+            "Grass (Evening - #{weather_name})"
+
+          EncounterTypes[:"LandNight#{weather_id}"] =
+            "Grass (Night - #{weather_name})"
+
+          # Rencontres sur l'eau
+          EncounterTypes[:"Water#{weather_id}"] =
+            "Surfing (#{weather_name})"
+
+          EncounterTypes[:"WaterMorning#{weather_id}"] =
+            "Surfing (Morning - #{weather_name})"
+
+          EncounterTypes[:"WaterDay#{weather_id}"] =
+            "Surfing (Day - #{weather_name})"
+
+          EncounterTypes[:"WaterAfternoon#{weather_id}"] =
+            "Surfing (Afternoon - #{weather_name})"
+
+          EncounterTypes[:"WaterEvening#{weather_id}"] =
+            "Surfing (Evening - #{weather_name})"
+
+          EncounterTypes[:"WaterNight#{weather_id}"] =
+            "Surfing (Night - #{weather_name})"
+
+          # Pêche
+          EncounterTypes[:"OldRod#{weather_id}"] =
+            "Fishing (Old Rod - #{weather_name})"
+
+          EncounterTypes[:"GoodRod#{weather_id}"] =
+            "Fishing (Good Rod - #{weather_name})"
+
+          EncounterTypes[:"SuperRod#{weather_id}"] =
+            "Fishing (Super Rod - #{weather_name})"
+
+          # Autres rencontres
+          EncounterTypes[:"RockSmash#{weather_id}"] =
+            "Rock Smash (#{weather_name})"
+
+          EncounterTypes[:"HeadbuttLow#{weather_id}"] =
+            "Headbutt (Rare - #{weather_name})"
+
+          EncounterTypes[:"HeadbuttHigh#{weather_id}"] =
+            "Headbutt (Common - #{weather_name})"
+        end
 
         # true = enabled: The mapExtBoxMain will be replaced with for ex. mapExtBoxGrass for the Grass Encounter Type.
         # false = disabled: The mapExtBoxMain will remain unchanged.

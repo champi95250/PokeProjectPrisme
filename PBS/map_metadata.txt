@@ -8,7 +8,7 @@ MapPosition = 0,21,12
 BattleBack = field
 Environment = Grass
 #-------------------------------
-[002]   # Debug
+[002]   # Centre
 Name = Debug
 MapPosition = 0,21,12
 #-------------------------------
@@ -22,12 +22,10 @@ MapPosition = 0,21,12
 #-------------------------------
 [005]   # Maison Hero
 Name = Maison
-Outdoor = False
 MapPosition = 0,21,12
 #-------------------------------
 [006]   # Maison Hero Etage
 Name = Maison
-Outdoor = False
 MapPosition = 0,21,12
 #-------------------------------
 [009]   # Route 1
@@ -40,19 +38,16 @@ Environment = TallGrass
 #-------------------------------
 [010]   # Laboratoire
 Name = Laboratoire
-Outdoor = false
 ShowArea = true
-Flags = PowerSpot
 MapPosition = 0,21,12
+Flags = PowerSpot
 #-------------------------------
 [011]   # Maison
 Name = Maison
-Outdoor = False
 MapPosition = 0,21,12
 #-------------------------------
-[012]   # Maison 
+[012]   # Maison
 Name = Maison
-Outdoor = False
 MapPosition = 0,21,12
 #-------------------------------
 [013]   # Rosaville
@@ -82,26 +77,32 @@ Environment = Grass
 Name = Centre Pokémon Rosaville
 MapPosition = 0,19,12
 #-------------------------------
-[017]
+[017]   # House
+Name = House
 MapPosition = 0,19,12
 #-------------------------------
-[018]
+[018]   # Shop
+Name = Shop
 MapPosition = 0,19,12
 #-------------------------------
-[019]   
+[019]   # House
+Name = House
 MapPosition = 0,19,10
 #-------------------------------
-[020]   
+[020]   # CentrePkm
+Name = CentrePkm
 MapPosition = 0,19,10
 #-------------------------------
-[021]   
+[021]   # Shop
+Name = Shop
 MapPosition = 0,19,10
 #-------------------------------
 [022]   # Arène Normal
-MapPosition = 0,19,10
 Name = Arène
+MapPosition = 0,19,10
 #-------------------------------
-[023]   
+[023]   # Passage
+Name = Passage
 MapPosition = 0,19,10
 #-------------------------------
 [024]   # Bois des Serments
