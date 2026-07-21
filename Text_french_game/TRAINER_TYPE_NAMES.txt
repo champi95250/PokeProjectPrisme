@@ -1,0 +1,28 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[TRAINER_TYPE_NAMES]
+Gamin
+Gamin
+Filette
+Filette
+Scout
+Scout
+Dresseuse
+Dresseuse
+Entraineuse
+Entraineuse
+Montagnard
+Montagnard
+Pokefan
+Pokefan
+Canon
+Canon
+Intello
+Intello
+Jardinière
+Jardinière
+Twink
+Twink
+AVENTURIER
+AVENTURIER

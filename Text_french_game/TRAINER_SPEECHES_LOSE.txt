@@ -1,0 +1,26 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[TRAINER_SPEECHES_LOSE]
+C'était trop intense pour moi ...
+C'était trop intense pour moi ...
+J'était sûr de moi ...
+J'était sûr de moi ...
+Mais enfin !!!
+Mais enfin !!!
+Le combat était cool !
+Le combat était cool !
+J'était sûr d'être le plus fort !
+J'était sûr d'être le plus fort !
+Mignon... mais manifestement pas assez pénible.
+Mignon... mais manifestement pas assez pénible.
+Aïe...
+Aïe...
+C’est moi qui viens de perdre mes moyens.
+C’est moi qui viens de perdre mes moyens.
+C’est moi qui devais gagner !
+C’est moi qui devais gagner !
+Mes cours n'ont rien donné ?!
+Mes cours n'ont rien donné ?!
+Où est le soleil ?!
+Où est le soleil ?!

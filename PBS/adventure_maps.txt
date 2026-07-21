@@ -1,0 +1,31 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Name = Caverne 
+Filename = Cave
+Description = A small cavern filled with Raid Pokémon.
+DarknessChance = 5
+Dimensions = 17,28
+PlayerStart = 0827
+Pathways = 0321,0417,0419,0518,0522,0523,0618,0621,0812,0813,0815,0817,0825,0827,1018,1021,1118,1122,1123,1217,1219,1321
+Battles = 0624,1024,1220,0820,0420,0221,1421,1216,0416,0816,0811
+Tile = Crossroad,0418
+Tile = Crossroad,0421
+Tile = Crossroad,0521
+Tile = Crossroad,1218
+Tile = Crossroad,1121
+Tile = Crossroad,0824
+Tile = Crossroad,1221
+Tile = Crossroad,0814
+Tile = Crossroad,0818
+Tile = StartPoint,0826
+Tile = TurnEast,0721
+Tile = TurnEast,0924
+Tile = TurnEast,0718
+Tile = TurnNorth,0821
+Tile = TurnNorth,1124
+Tile = TurnNorth,0524
+Tile = TurnNorth,0819
+Tile = TurnWest,0724
+Tile = TurnWest,0921
+Tile = TurnWest,0918

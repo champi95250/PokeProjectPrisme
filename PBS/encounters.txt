@@ -1,0 +1,83 @@
+﻿# Voir la documentation sur le wiki pour savoir comment éditer ce fichier.
+#-------------------------------
+[009] # Route 1
+Land,21
+    20,FLETCHLING,2,4
+    20,GRUBBIN,2,4
+    20,POOCHYENA,2,4
+LandRain,21
+    20,GRUBBIN,2,4
+    20,POOCHYENA,2,4
+    15,LOTAD,3,4
+LandNight,21
+    20,NICKIT,2,4
+    20,VENIPEDE,2,4
+    20,WATTREL,3,4
+LandNightRain,21
+    20,NICKIT,2,4
+    20,VENIPEDE,2,4
+    20,LOTAD,2,4
+PokeRadar,100
+    100,SHINX,4,6
+#-------------------------------
+[013] # Rosaville
+Land,21
+    20,BUDEW,3,5
+    5,FLABEBE_1,3,5
+    5,FLABEBE_2,3,5
+    5,FLABEBE_3,3,5
+    5,FLABEBE,3,5
+LandNight,21
+    20,ODDISH,4,6
+    7,MORELULL,4,6
+PokeRadar,100
+    100,COMBEE,5,7
+#-------------------------------
+[014] # Route 2
+Land,21
+    20,LILLIPUP,4,6
+    20,SEWADDLE,5,6
+    20,SPEAROW,4,6
+LandNight,21
+    20,HOOTHOOT,4,6
+    20,NICKIT,5,6
+    20,VENIPEDE,4,6
+PokeRadar,100
+    100,MINCCINO,5,7
+#-------------------------------
+[015] # Claircour
+Land,21
+    18,LILLIPUP,4,6
+    11,FRIPICHAT,4,6
+LandNight,21
+    18,ODDISH,4,6
+    11,PURRLOIN,4,6
+    3,FRIPICHAT,5,6
+PokeRadar,100
+    100,NICKIT,5,7
+#-------------------------------
+[024] # Bois Serment
+Land,21
+    18,SEWADDLE,6,8
+    12,MORELULL,5,8
+    7,RALTS,6,8
+LandNight,21
+    18,HOOTHOOT,6,8
+    12,MORELULL,5,8
+    6,PHANTUMP,7,9
+PokeRadar,100
+    100,SHUPPET,6,9
+#-------------------------------
+[025] # Bois Serment
+Land,21
+    18,FLETCHLING,7,9
+    10,MAREEP,9,10
+    10,LITLEO,8,10
+    7,SKIDDO,8,10
+LandNight,21
+    10,MAREEP,7,9
+    10,ODDISH,8,10
+    7,HOUNDOUR,8,10
+    7,MURKROW,7,10
+PokeRadar,100
+    100,ROCKRUFF,8,10

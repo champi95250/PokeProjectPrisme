@@ -1,0 +1,115 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[GAMIN,Marshall]
+LoseText = C'était trop intense pour moi ...
+Pokemon = HOOTHOOT,7
+Pokemon = MEOWTH,8
+#-------------------------------
+[GAMIN,Alfonse]
+LoseText = J'était sûr de moi ...
+Pokemon = PIKACHU,6
+#-------------------------------
+[LADY1,Madeleine]
+LoseText = Mais enfin !!!
+Pokemon = SUNKERN,6
+Pokemon = STARYU,7
+#-------------------------------
+[POKEFAN,Damien]
+LoseText = Le combat était cool !
+Pokemon = TEDDIURSA,9
+	IV = 25,10,15,10,15,8
+    EV = 0,0,0,0,0,0
+Pokemon = GROWLITHE,10
+	Form = 1
+	IV = 25,10,15,10,15,8
+    EV = 0,0,0,0,0,0
+#-------------------------------
+[GAMIN,Hugo]
+LoseText = J'était sûr d'être le plus fort !
+Pokemon = FLETCHLING,6
+#-------------------------------
+[GAMIN,Eliott]
+LoseText = J'était sûr d'être le plus fort !
+Pokemon = POOCHYENA,6
+#-------------------------------
+[TWINK,Kenzo]
+LoseText = J'était sûr d'être le plus fort !
+Pokemon = LILLIPUP,5
+#-------------------------------
+[TWINK,Milan]
+LoseText = J'était sûr d'être le plus fort !
+Pokemon = LILLIPUP,5
+Pokemon = MINCCINO,5
+#-------------------------------ARENE
+[TWINK,Léo]
+LoseText = Mignon... mais manifestement pas assez pénible.
+Pokemon = SENTRET,7
+Pokemon = MINCCINO,7
+#-------------------------------ARENE
+[TWINK,Mathis]
+LoseText = Aïe...
+Pokemon = MEOWTH,7
+Pokemon = LILLIPUP,7
+#-------------------------------ARENE
+[TWINK,Nathan]
+LoseText = C’est moi qui viens de perdre mes moyens.
+Pokemon = FLETCHLING,7
+Pokemon = LILLIPUP,7
+Pokemon = SKWOVET,7
+#-------------------------------ARENE
+[TWINK,Benji]
+LoseText = C’est moi qui viens de perdre mes moyens.
+Pokemon = FLETCHLING,7
+Pokemon = LILLIPUP,7
+Pokemon = SKWOVET,8
+#-------------------------------ARENE
+[TWINK,Tomy]
+LoseText = C’est moi qui devais gagner !
+Pokemon = FLETCHLING,7
+Pokemon = SKITTY,7
+Pokemon = EEVEE,8
+#------------------------------- ARENE 01 CHAMPION
+[TWINK_S1,Pierrot]
+LoseText = J'était sûr d'être le plus fort !
+Pokemon = EEVEE,9
+	Gender = male
+    Moves = SANDATTACK,QUICKATTACK,BITE,ROAR
+    AbilityIndex = 0
+Pokemon = LILLIPUP,9
+	Gender = male
+    Moves = TACKLE,BITE,WORKUP,GROWL
+    AbilityIndex = 0
+Pokemon = FRIPICHAT,11
+	Gender = male
+    Moves = FAKEOUT,FEINT,WORKUP,BITE
+    AbilityIndex = 0
+#------------------------------- BASTIAN VOYAGEUR CLAIRCOUR
+[imp_Bastien,Bastien,1]
+LoseText = 
+Pokemon = MIMIKYU,10
+	Gender = male
+	IV = 22,26,18,5,21,23
+    EV = 12,20,8,0,8,12
+    Moves = SCRATCH,SHADOWSNEAK,BABYDOLLEYES,DOUBLETEAM
+#-------------------------------
+[SCOUT,Fred]
+LoseText = J'était sûr d'être le plus fort !
+Pokemon = SEWADDLE,8
+#-------------------------------
+[SCOUT,Jammy]
+LoseText = J'était pas prêt pour ça moi !
+Pokemon = SEWADDLE,9
+#-------------------------------
+[CANONH,Enzo]
+LoseText = Même quand je perds, je reste magnifique.
+Pokemon = FLABEBE_2,9
+Pokemon = FRIPICHAT,10
+#-------------------------------
+[TWINK,Loan]
+LoseText = Maintenant, la nature m’a forcément remarqué !
+Pokemon = TEDDIURSA,10
+#-------------------------------
+[CANONH,Esteban]
+LoseText = Tu as réussi à rester concentré.
+Pokemon = FLETCHLING,10
+Pokemon = LITLEO,11

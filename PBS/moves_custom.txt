@@ -1,0 +1,14 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[SPOOKYHUG]
+Name = Spooky hug
+Type = GHOST
+Category = Physical
+Power = 90
+Accuracy = 90
+TotalPP = 10
+Target = NearOther
+FunctionCode = FlinchTarget
+Flags = Contact,CanProtect,CanMirrorMove
+EffectChance = 30
+Description = The user gives the target a creepy hug. This may also make the target flinch.

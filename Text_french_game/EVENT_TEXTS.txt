@@ -1,0 +1,2224 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map000]
+\bHello, \PN!\nI can see you calling me over there!
+\bHello, \PN!\nI can see you calling me over there!
+\bCome over and talk to me.
+\bCome over and talk to me.
+\bHello, this is Professor Oak...\nOh, hello, \PN!
+\bHello, this is Professor Oak...\nOh, hello, \PN!
+\bSo, how's your Pokédex coming along?
+\bSo, how's your Pokédex coming along?
+\bHmm, let's see..\nYou've seen \v[1] Pokémon, and \nyou've caught \v[2] Pokémon!\nI see!
+\bHmm, let's see..\nYou've seen \v[1] Pokémon, and \nyou've caught \v[2] Pokémon!\nI see!
+\bHmm, you still have a long journey ahead of you! \nKeep on going!
+\bHmm, you still have a long journey ahead of you! \nKeep on going!
+\bHmm, you're catching Pokémon at a decent pace!
+\bHmm, you're catching Pokémon at a decent pace!
+\bYou've caught a lot of Pokémon, but make sure you're raising them carefully!
+\bYou've caught a lot of Pokémon, but make sure you're raising them carefully!
+\bI didn't even know that many Pokémon existed!
+\bI didn't even know that many Pokémon existed!
+\bShow me your Pokédex again anytime!
+\bShow me your Pokédex again anytime!
+\bShow me your Pokédex anytime!
+\bShow me your Pokédex anytime!
+\rDo you want me to stop following you?
+\rDo you want me to stop following you?
+\rI'll just vanish, then.
+\rI'll just vanish, then.
+\rLet's keep going!
+\rLet's keep going!
+Evaluate Pokédex
+Evaluate Pokédex
+Quit
+Quit
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map001]
+Bourg-Prisme
+Bourg-Prisme
+#-------------------------------
+[Map002]
+\rBonjour !
+\rBonjour !
+\rNous rétablissons la santé de vos Pokémon fatigués.
+\rNous rétablissons la santé de vos Pokémon fatigués.
+\rVoulez-vous soigner vos Pokémon ?
+\rVoulez-vous soigner vos Pokémon ?
+\rOK, je vais prendre votre Pokémon pendant quelques secondes.
+\rOK, je vais prendre votre Pokémon pendant quelques secondes.
+\rVotre Pokémon peut être infecté par Pokérus.
+\rVotre Pokémon peut être infecté par Pokérus.
+\rOn sait peu de choses sur les Pokérus, si ce n'est qu'il s'agit de formes de vie microscopiques qui s'attachent aux Pokémon.
+\rOn sait peu de choses sur les Pokérus, si ce n'est qu'il s'agit de formes de vie microscopiques qui s'attachent aux Pokémon. 
+\rLorsqu'ils sont infectés, les Pokémon grandissent exceptionnellement bien.
+\rLorsqu'ils sont infectés, les Pokémon grandissent exceptionnellement bien. 
+\rMerci d'avoir attendu.
+\rMerci d'avoir attendu.
+\rNous avons rétabli la santé de votre Pokémon.
+\rNous avons rétabli la santé de votre Pokémon.
+\rNous espérons vous revoir !
+\rNous espérons vous revoir !
+\rTout d'abord, vous devez rétablir la santé de votre Pokémon santé.
+\rTout d'abord, vous devez rétablir la santé de votre Pokémon santé.
+\rNous espérons que vous reviendrez !
+\rNous espérons que vous reviendrez !
+Avant de partir à l'aventure. Tu te doit d'avoir un pokémon ! Lequel veux tu ?
+Avant de partir à l'aventure.  Tu te doit d'avoir un pokémon ! Lequel veux tu ? 
+Prend aussi ce Pokedex.
+Prend aussi ce Pokedex.
+\PN recoit un Pokédex!
+\PN recoit un Pokédex!
+\PN recoit 10 Pokéball !
+\PN recoit 10 Pokéball !
+Tu n'as pas de pokémon. Il serai dangereux de sortir d'ici.
+Tu n'as pas de pokémon. Il serai dangereux de sortir d'ici.
+\rJe peux donner un beau ruban à ton pokémon pour 250$ !
+\rJe peux donner un beau ruban à ton pokémon pour 250$ ! 
+\rTu n'as pas assez d'argent !
+\rTu n'as pas assez d'argent ! 
+\rYou cancelled the choice.
+\rYou cancelled the choice.
+\rYou chose an egg.
+\rYou chose an egg.
+\r\v[3] à déjà le ruban !
+\r\v[3] à déjà le ruban ! 
+\bJ’aime tant .... investir dans les belles promesses telle que toi !
+\bJ’aime tant .... investir dans les belles promesses telle que toi ! 
+\bOh ! Je me suis pas présenter, je suis \c[4]Sugar Daddy !
+\bOh ! Je me suis pas présenter, je suis \c[4]Sugar Daddy !
+\bA chaque fois que je vois une beauté comme toi, je ne peux m'empecher de donner un petit quelque chose.
+\bA chaque fois que je vois une beauté comme toi, je ne peux m'empecher de donner un petit quelque chose.
+\PN reçoit 500$ !
+\PN reçoit 500$ !
+\bConsidère ça comme ... un encouragement très personnel. ;)
+\bConsidère ça comme ... un encouragement très personnel. ;)
+Oui
+Oui
+Non
+Non
+#-------------------------------
+[Map003]
+\bBonjour, bonjour ! Te voilà enfin !
+\bBonjour, bonjour !  Te voilà enfin ! 
+\bJe suis le Professeur Quercus. Oui, Quercus. Comme le chêne.
+\bJe suis le Professeur Quercus.  Oui, Quercus. Comme le chêne.
+\bEt pas Queer-cus, et puis, ça fait croire aux gens que je sais exactement ce que je fait !
+\bEt pas Queer-cus, et puis, ça fait croire aux gens que je sais exactement ce que je fait ! 
+\bMais parlons plutôt du monde, là où humains vivent aux côtés de créatures appelées Pokémon.
+\bMais parlons plutôt du monde, là où humains vivent aux côtés de créatures appelées Pokémon.
+\bLes Pokémon sont partout.
+\bLes Pokémon sont partout.
+\bDans les hautes herbes. Dans les grottes. Dans les mers.
+\bDans les hautes herbes. Dans les grottes. Dans les mers.
+\bCertains Pokémon sont mignons. Certains sont puissants. Certains sont mystérieux.
+\bCertains Pokémon sont mignons. Certains sont puissants. Certains sont mystérieux.
+\bEt certains ressemblent clairement à une erreur administrative, mais nous les aimons quand même.
+\bEt certains ressemblent clairement à une erreur administrative, mais nous les aimons quand même.
+\bMoi, mon travail consiste à étudier les Pokémons et répondre aux question scientifique les plus demandé !
+\bMoi, mon travail consiste à étudier les Pokémons et répondre aux question scientifique les plus demandé ! 
+\bPourquoi un Pokémon peut évoluer en plein combat, mais certains dresseurs n’arrivent toujours pas à évoluer émotionnellement ?
+\bPourquoi un Pokémon peut évoluer en plein combat, mais certains dresseurs n’arrivent toujours pas à évoluer émotionnellement ?
+\bBref, Avant que ton aventure commence, j’ai besoin de te connaître un peu mieux.
+\bBref, Avant que ton aventure commence, j’ai besoin de te connaître un peu mieux.
+\bQui est-tu ?
+\bQui est-tu ?
+\bTrès bien, et ton nom de gagnant ?
+\bTrès bien, et ton nom de gagnant ?
+\bUn prénom m'as foi ... hum ... qui sonne comme quelqu’un qui peut sauver une région entière avec ses 2 Poké Ball.
+\bUn prénom m'as foi ... hum ... qui sonne comme quelqu’un qui peut sauver une région entière avec ses 2 Poké Ball.
+\bBientôt, tu va quitter ton chez toi, et partir à l'aventure ! Ca sera ton moment ! Donc une chose à dire ...
+\bBientôt, tu va quitter ton chez toi, et partir à l'aventure ! Ca sera ton moment ! Donc une chose à dire ... 
+\bLe moment est venu… pour toi de quitter ta chambre… POUR. TA. VIE.
+\bLe moment est venu… pour toi de quitter ta chambre… POUR. TA. VIE.
+\bBonne chance… et essaie de ne pas te faire humilier par le premier Chenipan venu.
+\bBonne chance… et essaie de ne pas te faire humilier par le premier Chenipan venu.
+#-------------------------------
+[Map004]
+\rHey !
+\rHey ! 
+Tu dois être en ligne pour interragir avec moi !
+Tu dois être en ligne pour interragir avec moi ! 
+\bHey !
+\bHey ! 
+#-------------------------------
+[Map005]
+\bIci, on est au Relais Rouge. Viens avec un ami pour y faire des quêtes en multi joueur.
+\bIci, on est au Relais Rouge.  Viens avec un ami pour y faire des quêtes en multi joueur.
+\rVotre coéquipier à choisi une faction. Vous êtes donc attribué à l'autre faction par automatisme.
+\rVotre coéquipier à choisi une faction. Vous êtes donc attribué à l'autre faction par automatisme. 
+\rVotre Faction sera Lune.
+\rVotre Faction sera Lune.
+\rVotre Faction sera Soleil
+\rVotre Faction sera Soleil
+\rVous n'avez pas de faction, ni votre ami. Laquel choisisez vous ?
+\rVous n'avez pas de faction, ni votre ami. Laquel choisisez vous ? 
+\rRevenez nous voir plus tard !
+\rRevenez nous voir plus tard ! 
+\rVous devez jouer avec quelqu'un pour profiter de nos services !
+\rVous devez jouer avec quelqu'un pour profiter de nos services ! 
+\rVous devez être connecter pour profiter de nos services !
+\rVous devez être connecter pour profiter de nos services ! 
+Soleil
+Soleil
+Lune
+Lune
+Retour
+Retour
+#-------------------------------
+[Map006]
+\bVous pouvez entrer !
+\bVous pouvez entrer ! 
+\bVous devez jouer avec quelqu'un pour pouvoir entré dans la grotte.
+\bVous devez jouer avec quelqu'un pour pouvoir entré dans la grotte.
+\bCette entré n'est pas accesible solo !
+\bCette entré n'est pas accesible solo ! 
+#-------------------------------
+[Map007]
+\bJe suis ici pour m'entraîner. Je ne sais pas pourquoi étant donner que je ne possède pas de pokémon.
+\bJe suis ici pour m'entraîner. Je ne sais pas pourquoi étant donner que je ne possède pas de pokémon.
+Map d'entrainement
+Map d'entrainement
+\rJe peux augmenter le bonheur de ton pokémon pour seulement 200$ !
+\rJe peux augmenter le bonheur de ton pokémon pour seulement 200$ ! 
+\rTu n'as pas assez d'argent !
+\rTu n'as pas assez d'argent ! 
+\rYou cancelled the choice.
+\rYou cancelled the choice.
+\rYou chose an egg.
+\rYou chose an egg.
+\r\v[3] est déjà heureux !
+\r\v[3] est déjà heureux ! 
+\rYou chose a \v[3].
+\rYou chose a \v[3].  
+\bJe suis l'assistant du Professeur.
+\bJe suis l'assistant du Professeur.
+\bNous suivons les dresseurs qui remplissent leur Pokédex.
+\bNous suivons les dresseurs qui remplissent leur Pokédex.
+\bAs tu capturé 10 Pokémons ou plus ?
+\bAs tu capturé 10 Pokémons ou plus ?
+\bOh ! Tu as déjà capturé au moins 10 Pokémon.
+\bOh ! Tu as déjà capturé au moins 10 Pokémon.
+\bC'est un excellent début.
+\bC'est un excellent début.
+\bPrend ceci !
+\bPrend ceci ! 
+\bOn ne dirai pas ! \nReviens me voir après
+\bOn ne dirai pas ! \nReviens me voir après
+\rOn m’a dit ‘connais tes faiblesses’. Du coup j’évite tout le monde.
+\rOn m’a dit ‘connais tes faiblesses’. Du coup j’évite tout le monde.
+#-------------------------------
+[Map008]
+\bTu veux un combat intense ?!
+\bTu veux un combat intense ?!
+\bPas si intense que ça ...
+\bPas si intense que ça ... 
+\bHey ! Viens te battre toi !
+\bHey ! Viens te battre toi ! 
+\bJe devrai peut être retourné au Centre d'entrainement !
+\bJe devrai peut être retourné au Centre d'entrainement !
+\rJe suis vraiment trop belle ! Tu risque de rester sans voix !
+\rJe suis vraiment trop belle !  Tu risque de rester sans voix ! 
+\rNe me parler plus !
+\rNe me parler plus ! 
+\bJ'aime les pierres ! Je mine tout le temps ! Je les vend aussi ! Tu veux quoi ?
+\bJ'aime les pierres ! Je mine tout le temps ! Je les vend aussi !  Tu veux quoi ?
+\bHéhé ! Ma p'tit fille adore se balader sur mon dos ! Mais elle adore encore plus les combats pokémon !
+\bHéhé ! Ma p'tit fille adore se balader sur mon dos !  Mais elle adore encore plus les combats pokémon ! 
+\bJ'suis épuiser !
+\bJ'suis épuiser ! 
+\bJe suis le gardin de la route 1 !
+\bJe suis le gardin de la route 1 ! 
+\bPour seulement 200$ ! Je te vend un Raid Bait !
+\bPour seulement 200$ !  Je te vend un Raid Bait ! 
+\bTu n'as pas assez d'argent !
+\bTu n'as pas assez d'argent ! 
+Oui
+Oui
+Non
+Non
+#-------------------------------
+[Map009]
+\bLe choix de votre faction vous empeche de rentré ici.
+\bLe choix de votre faction vous empeche de rentré ici.
+#-------------------------------
+[Map010]
+Une belle pokéball. Il y a surement un pokémon dedans.
+Une belle pokéball. Il y a surement un pokémon dedans. 
+\bProf Quercus: Oh \PN ! C'est toi !
+\bProf Quercus: Oh \PN ! C'est toi !
+\bTiens, Voici un Pokédex. C'est un outil indispensable pour tout dresseur. Il te permettra de documenter chaque Pokémon que tu rencontres. Fais-en bon usage.
+\bTiens, Voici un Pokédex. C'est un outil indispensable pour tout dresseur. Il te permettra de documenter chaque Pokémon que tu rencontres. Fais-en bon usage.
+\PN recoit un Pokédex!
+\PN recoit un Pokédex!
+\bEt bien sûr, tu auras besoin d'un Pokémon à tes côtés pour commencer.
+\bEt bien sûr, tu auras besoin d'un Pokémon à tes côtés pour commencer.
+\bEt enfin, des pokéballs. Elle permets de capturer des pokémon sauvage.
+\bEt enfin, des pokéballs. Elle permets de capturer des pokémon sauvage. 
+\bBon .... Bonne chance, \PN. N'oublie jamais que le monde Pokémon est aussi plein de mystères que de merveilles.
+\bBon .... Bonne chance, \PN. N'oublie jamais que le monde Pokémon est aussi plein de mystères que de merveilles.
+\bProf : Comment va tu aujourd'hui ?
+\bProf : Comment va tu aujourd'hui ?
+\bJe suis l'assistant du prof ! Tu devrai déjà voir le prof Quercus !
+\bJe suis l'assistant du prof !  Tu devrai déjà voir le prof Quercus !
+\bJe suis l'assistant du prof ! Je peux t'aider ?
+\bJe suis l'assistant du prof !  Je peux t'aider ?
+\bTu connais le Multi Exp ? Grâce à mon génie, j'ai crée le Multi Exp. Un item que tu donne à un pokémon pour qu'il gagne de l'xp sans faire d'effort !
+\bTu connais le Multi Exp ? Grâce à mon génie, j'ai crée le Multi Exp. Un item que tu donne à un pokémon pour qu'il gagne de l'xp sans faire d'effort ! 
+\bTiens, essaye le lors de ton aventure.
+\bTiens, essaye le lors de ton aventure.
+#-------------------------------
+[Map011]
+Voulez vous touché la Pierre Soleil ?
+Voulez vous touché la Pierre Soleil ?
+Oui
+Oui
+Non
+Non
+#-------------------------------
+[Map012]
+\rHello! I'm a Move Tutor!
+\rHello! I'm a Move Tutor!
+\rI can teach a special and powerful move to your Pokémon.
+\rI can teach a special and powerful move to your Pokémon.
+\rWhich special move would you like me to teach?
+\rWhich special move would you like me to teach?
+\rWould you like me to teach another Pokémon a special move?
+\rWould you like me to teach another Pokémon a special move?
+\rCome back any time!
+\rCome back any time!
+\bUh...\nOh, yes, I'm the Move Deleter.
+\bUh...\nOh, yes, I'm the Move Deleter.
+\bI can make Pokémon forget their moves.
+\bI can make Pokémon forget their moves.
+\bWould you like me to do that?
+\bWould you like me to do that?
+\bWhich Pokémon should forget a move?
+\bWhich Pokémon should forget a move?
+\bCome again if there are moves that need to be forgotten.
+\bCome again if there are moves that need to be forgotten.
+\bWhat? No Egg should know any moves.
+\bWhat? No Egg should know any moves.
+\bWhat? I can't make a Shadow Pokémon forget a move.
+\bWhat? I can't make a Shadow Pokémon forget a move.
+\b\v[3] seems to know only one move...
+\b\v[3] seems to know only one move...
+\bWhich move should be forgotten?
+\bWhich move should be forgotten?
+\bHm! \v[3]'s \v[4]? That move should be forgotten?
+\bHm! \v[3]'s \v[4]? That move should be forgotten?
+\bIt worked to perfection!
+\bIt worked to perfection!
+\b\v[3] has forgotten \v[4] completely.
+\b\v[3] has forgotten \v[4] completely.
+\bI'm the Pokémon Move Maniac.
+\bI'm the Pokémon Move Maniac.
+\bI know every single move that Pokémon learn growing up.
+\bI know every single move that Pokémon learn growing up.
+\bI'm also a collector of Heart Scales.
+\bI'm also a collector of Heart Scales.
+\bIf you bring me one, I'll teach a move to one of your Pokémon.
+\bIf you bring me one, I'll teach a move to one of your Pokémon.
+\bOh! That's it! That's an honest to goodness Heart Scale!
+\bOh! That's it! That's an honest to goodness Heart Scale!
+\bLet me guess, you want me to teach one of your Pokémon a move?
+\bLet me guess, you want me to teach one of your Pokémon a move?
+\bWhich Pokémon needs tutoring?
+\bWhich Pokémon needs tutoring?
+\bIf your Pokémon need to learn a move, come back with a Heart Scale.
+\bIf your Pokémon need to learn a move, come back with a Heart Scale.
+\bHunh? There isn't a single move that I can teach an Egg.
+\bHunh? There isn't a single move that I can teach an Egg.
+\bNo way, I don't want to go near a Shadow Pokémon.
+\bNo way, I don't want to go near a Shadow Pokémon.
+\bSorry...
+\bSorry...
+\bIt doesn't appear as if I have any move I can teach to your \v[3].
+\bIt doesn't appear as if I have any move I can teach to your \v[3].
+\bWhich move should I teach to your \v[3]?
+\bWhich move should I teach to your \v[3]?
+\PN handed over one Heart Scale in exchange.
+\PN handed over one Heart Scale in exchange.
+\bHello, hello!\nI am the official Name Rater!
+\bHello, hello!\nI am the official Name Rater!
+\bWant me to rate the nicknames of your Pokémon?
+\bWant me to rate the nicknames of your Pokémon?
+\bWhich Pokémon's nickname should I critique?
+\bWhich Pokémon's nickname should I critique?
+\bI see.\nDo come visit again.
+\bI see.\nDo come visit again.
+\bNow, now... That is merely an Egg!
+\bNow, now... That is merely an Egg!
+\bI wouldn't dare critique a Shadow Pokémon's name!
+\bI wouldn't dare critique a Shadow Pokémon's name!
+\bHmmm... \v[3] it is!
+\bHmmm... \v[3] it is!
+\bThis is a magnificent nickname! It is impeccably beyond reproach!
+\bThis is a magnificent nickname! It is impeccably beyond reproach!
+\bYou'll do well to cherish your \v[3] now and beyond.
+\bYou'll do well to cherish your \v[3] now and beyond.
+\b\v[3], is it?\nThat is a decent nickname!
+\b\v[3], is it?\nThat is a decent nickname!
+\bBut, would you like me to give it a nicer name?
+\bBut, would you like me to give it a nicer name?
+\bHow about it?
+\bHow about it?
+\bAh, good. Then, what shall the new nickname be?
+\bAh, good. Then, what shall the new nickname be?
+{1}'s nickname?
+{1}'s nickname?
+\bI see. You're right, there's no need to change this Pokémon's nickname.
+\bI see. You're right, there's no need to change this Pokémon's nickname.
+\bIt already had a superb name!
+\bIt already had a superb name!
+\bDone! From now on, this Pokémon shall be known as \v[3]!
+\bDone! From now on, this Pokémon shall be known as \v[3]!
+\bIt looks no different from before, and yet, this is vastly superior!
+\bIt looks no different from before, and yet, this is vastly superior!
+\bHow fortunate for you!
+\bHow fortunate for you!
+\bDone! From now on, this Pokémon shall be known as \v[5]!
+\bDone! From now on, this Pokémon shall be known as \v[5]!
+\bIt is a better name than before!\nHow fortunate for you!
+\bIt is a better name than before!\nHow fortunate for you!
+Frenzy Plant
+Frenzy Plant
+Blast Burn
+Blast Burn
+Hydro Cannon
+Hydro Cannon
+Exit
+Exit
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map013]
+Rosélia !
+Rosélia !
+\bJe traverse Rosaville tous les matins pour entretenir ma forme…
+\bJe traverse Rosaville tous les matins pour entretenir ma forme…
+\bEt observer le jardinier.
+\bEt observer le jardinier.
+\b??? : Hey ! Tout doux… Personne ne va te faire de mal.
+\b??? : Hey ! Tout doux… Personne ne va te faire de mal.
+\b??? : Oh… Je comprends. Tu t’es perdu en cherchant de quoi soigner ta fleur, c’est ça ?
+\b??? : Oh… Je comprends. Tu t’es perdu en cherchant de quoi soigner ta fleur, c’est ça ?
+\b??? : Tiens, prend cette baie. Sa ira mieux.
+\b??? : Tiens, prend cette baie. Sa ira mieux. 
+\b??? : Oh pardon, je te géne le passage ?
+\b??? : Oh pardon, je te géne le passage ?
+\bFélicien: Je suis Félicien, botaniste Pokémon et responsable des jardins de la région
+\bFélicien: Je suis Félicien, botaniste Pokémon et responsable des jardins de la région
+\bFélicien: Enfin, “responsable”… Disons surtout que je suis le seul ici à comprendre ce que disent les pokémon plante et les fleurs de la région haha !
+\bFélicien: Enfin, “responsable”… Disons surtout que je suis le seul ici à comprendre ce que disent les pokémon plante et les fleurs de la région haha ! 
+\bFélicien: D'ailleurs, à Prisméa, certains Dresseurs passent plus de temps à assortir leur tenue à leur équipe qu’à préparer leurs Baies.
+\bFélicien: D'ailleurs, à Prisméa, certains Dresseurs passent plus de temps à assortir leur tenue à leur équipe qu’à préparer leurs Baies.
+\bFélicien: Mais bon, L’un n’empêche pas l’autre.
+\bFélicien: Mais bon, L’un n’empêche pas l’autre.
+\bFélicien: Tiens, prends-en quelques-unes. Elles te seront certainement utiles comme à se Rosélia.
+\bFélicien: Tiens, prends-en quelques-unes. Elles te seront certainement utiles comme à se Rosélia.
+\bFélicien: Bref ! Ravie de t'avoir rencontré !
+\bFélicien: Bref ! Ravie de t'avoir rencontré ! 
+\bFélicien: Au plaisir de te revoir qui sait. Et n'oublie pas de prendre soin de la nature qui t'entoure ! Elle te le rendera.
+\bFélicien: Au plaisir de te revoir qui sait.  Et n'oublie pas de prendre soin de la nature qui t'entoure ! Elle te le rendera. 
+Flaaa !
+Flaaa !
+Rosaville
+Rosaville
+\bTon Pokémon est parfait… Toi, par contre...
+\bTon Pokémon est parfait… Toi, par contre...
+\bLes plantes ont besoin d’eau, de soleil et d’attention. Comme les hommes.
+\bLes plantes ont besoin d’eau, de soleil et d’attention. Comme les hommes.
+\bJe ne touche pas aux fleurs !
+\bJe ne touche pas aux fleurs !
+\bJe cherche simplement la meilleure lumière pour ma photo.
+\bJe cherche simplement la meilleure lumière pour ma photo.
+#-------------------------------
+[Map014]
+\bHey ! Je suis si fort ! Tu veux voir ?! Je m'entraine tout le temps malgrès mon jeune âge !
+\bHey ! Je suis si fort ! Tu veux voir ?! Je m'entraine tout le temps malgrès mon jeune âge ! 
+\bMon rêve de devenir un Jim Queen plus tard.
+\bMon rêve de devenir un Jim Queen plus tard. 
+\bJ'aime venir ici pour hurler le plus fort possible !
+\bJ'aime venir ici pour hurler le plus fort possible ! 
+#-------------------------------
+[Map015]
+Claircour
+Claircour
+Ponchiot !
+Ponchiot !
+#-------------------------------
+[Map016]
+\rBonjour !
+\rBonjour !
+\rNous rétablissons la santé de vos Pokémon fatigués.
+\rNous rétablissons la santé de vos Pokémon fatigués.
+\rVoulez-vous soigner vos Pokémon ?
+\rVoulez-vous soigner vos Pokémon ?
+\rOK, je vais prendre votre Pokémon pendant quelques secondes.
+\rOK, je vais prendre votre Pokémon pendant quelques secondes.
+\rVotre Pokémon peut être infecté par Pokérus.
+\rVotre Pokémon peut être infecté par Pokérus.
+\rOn sait peu de choses sur les Pokérus, si ce n'est qu'il s'agit de formes de vie microscopiques qui s'attachent aux Pokémon.
+\rOn sait peu de choses sur les Pokérus, si ce n'est qu'il s'agit de formes de vie microscopiques qui s'attachent aux Pokémon. 
+\rLorsqu'ils sont infectés, les Pokémon grandissent exceptionnellement bien.
+\rLorsqu'ils sont infectés, les Pokémon grandissent exceptionnellement bien. 
+\rMerci d'avoir attendu.
+\rMerci d'avoir attendu.
+\rNous avons rétabli la santé de votre Pokémon.
+\rNous avons rétabli la santé de votre Pokémon.
+\rNous espérons vous revoir !
+\rNous espérons vous revoir !
+\rTout d'abord, vous devez rétablir la santé de votre Pokémon santé.
+\rTout d'abord, vous devez rétablir la santé de votre Pokémon santé.
+\rNous espérons que vous reviendrez !
+\rNous espérons que vous reviendrez !
+\bJe lui ai demandé s’il voulait du sérieux. Il m'as répondu avec une photo de ses abdos ?!
+\bJe lui ai demandé s’il voulait du sérieux. Il m'as répondu avec une photo de ses abdos ?!
+\bJe doit en déduire quoi ?!
+\bJe doit en déduire quoi ?!
+Oui
+Oui
+Non
+Non
+#-------------------------------
+[Map017]
+\bMes rosiers, ils m’écoutent quand je leur parle.
+\bMes rosiers, ils m’écoutent quand je leur parle.
+\bJe n’ai rien à me mettre… Ne regarde surtout pas les deux armoires derrière moi.
+\bJe n’ai rien à me mettre… Ne regarde surtout pas les deux armoires derrière moi.
+\bMon copain dit que le fleuriste est très sympathique.
+\bMon copain dit que le fleuriste est très sympathique.
+\bEnfin, Il lui offre quand même beaucoup de fleurs…
+\bEnfin, Il lui offre quand même beaucoup de fleurs…
+\bMon mari dit que je passe trop de temps à tailler ma moustache.
+\bMon mari dit que je passe trop de temps à tailler ma moustache. 
+\bLui parle à ses rosiers, mais c’est moi le problème.
+\bLui parle à ses rosiers, mais c’est moi le problème.
+#-------------------------------
+[Map018]
+\sign[signskin]5F: Drugstore
+\sign[signskin]5F: Drugstore
+#-------------------------------
+[Map019]
+\sign[signskin]Rooftop Square: Vending Machines
+\sign[signskin]Rooftop Square: Vending Machines
+It's a vending machine.\nWhich drink would you like? \G
+It's a vending machine.\nWhich drink would you like? \G
+\GA Fresh Water dropped down!
+\GA Fresh Water dropped down!
+\GBonus! Another Fresh Water dropped down.
+\GBonus! Another Fresh Water dropped down.
+\GYou have no room left in the Bag.
+\GYou have no room left in the Bag.
+\GYou don't have enough money.
+\GYou don't have enough money.
+\GA Soda Pop dropped down!
+\GA Soda Pop dropped down!
+\GBonus! Another Soda Pop dropped down.
+\GBonus! Another Soda Pop dropped down.
+\GA Lemonade dropped down!
+\GA Lemonade dropped down!
+\GBonus! Another Lemonade dropped down.
+\GBonus! Another Lemonade dropped down.
+\GDecided not to buy a drink.
+\GDecided not to buy a drink.
+Fresh Water - $200
+Fresh Water - $200
+Soda Pop - $300
+Soda Pop - $300
+Lemonade - $350
+Lemonade - $350
+Cancel
+Cancel
+#-------------------------------
+[Map020]
+\rBonjour !
+\rBonjour !
+\rNous rétablissons la santé de vos Pokémon fatigués.
+\rNous rétablissons la santé de vos Pokémon fatigués.
+\rVoulez-vous soigner vos Pokémon ?
+\rVoulez-vous soigner vos Pokémon ?
+\rOK, je vais prendre votre Pokémon pendant quelques secondes.
+\rOK, je vais prendre votre Pokémon pendant quelques secondes.
+\rVotre Pokémon peut être infecté par Pokérus.
+\rVotre Pokémon peut être infecté par Pokérus.
+\rOn sait peu de choses sur les Pokérus, si ce n'est qu'il s'agit de formes de vie microscopiques qui s'attachent aux Pokémon.
+\rOn sait peu de choses sur les Pokérus, si ce n'est qu'il s'agit de formes de vie microscopiques qui s'attachent aux Pokémon. 
+\rLorsqu'ils sont infectés, les Pokémon grandissent exceptionnellement bien.
+\rLorsqu'ils sont infectés, les Pokémon grandissent exceptionnellement bien. 
+\rMerci d'avoir attendu.
+\rMerci d'avoir attendu.
+\rNous avons rétabli la santé de votre Pokémon.
+\rNous avons rétabli la santé de votre Pokémon.
+\rNous espérons vous revoir !
+\rNous espérons vous revoir !
+\rTout d'abord, vous devez rétablir la santé de votre Pokémon santé.
+\rTout d'abord, vous devez rétablir la santé de votre Pokémon santé.
+\rNous espérons que vous reviendrez !
+\rNous espérons que vous reviendrez !
+Oui
+Oui
+Non
+Non
+#-------------------------------
+[Map022]
+\bLe Champion est juste derrière moi. Mais pour l’approcher, il faudra d’abord réussir à ne pas perdre tes moyens devant moi.
+\bLe Champion est juste derrière moi. Mais pour l’approcher, il faudra d’abord réussir à ne pas perdre tes moyens devant moi.
+\bTu peux passer. Mais si le Champion demande, je t’ai laissé gagner parce que je te trouvais mignon.
+\bTu peux passer. Mais si le Champion demande, je t’ai laissé gagner parce que je te trouvais mignon.
+\bJe suis le plus mignon !
+\bJe suis le plus mignon !
+\bJ’était le plus mignon ....
+\bJ’était le plus mignon ....
+\bBravo, voilà le badge !
+\bBravo, voilà le badge !
+\b??? : Hé ! Tu doit être un nouveau dresseur ?
+\b??? : Hé ! Tu doit être un nouveau dresseur ?
+\bChampi : Moi, c’est Champi. J’accueille et je conseille les Dresseurs qui découvrent les Arènes de Prisméa.
+\bChampi : Moi, c’est Champi. J’accueille et je conseille les Dresseurs qui découvrent les Arènes de Prisméa.
+\bChampi : Enfin, je me balade un peu partout quoi ! Hahaha !
+\bChampi : Enfin, je me balade un peu partout quoi !  Hahaha ! 
+\bChampi : Tu viens tenter ta chance contre le Champion, j’imagine ? Ou profiter du chauffage gratuit.
+\bChampi : Tu viens tenter ta chance contre le Champion, j’imagine ? Ou profiter du chauffage gratuit.
+\bChampi : En tout cas, Les Arènes servent à évaluer les Dresseurs et leurs Pokémon.
+\bChampi : En tout cas, Les Arènes servent à évaluer les Dresseurs et leurs Pokémon.
+\bChampi : Chacune possède un Champion spécialisé. En type ? Peut être plus maintenant.
+\bChampi : Chacune possède un Champion spécialisé. En type ? Peut être plus maintenant. 
+\bChampi : En tout cas, si tu bats le Champion, tu recevras un Badge. Il prouvera officiellement ta victoire.
+\bChampi : En tout cas, si tu bats le Champion, tu recevras un Badge. Il prouvera officiellement ta victoire.
+\bChampi : Réunis les huit Badges de Prisméa et tu pourras participer à la Ligue Pokémon, où t’attend le Conseil 4.
+\bChampi : Réunis les huit Badges de Prisméa et tu pourras participer à la Ligue Pokémon, où t’attend le Conseil 4.
+\bChampi : Je pense t'avoir tout dit.
+\bChampi : Je pense t'avoir tout dit. 
+\bChampi :Maintenant, à toi de jouer. Montre-leur que tu n’es pas venu uniquement pour faire de la figuration.
+\bChampi :Maintenant, à toi de jouer. Montre-leur que tu n’es pas venu uniquement pour faire de la figuration.
+\bChampi : Enfin si tu es venue pour ça...
+\bChampi : Enfin si tu es venue pour ça...
+\bNe te fie pas à mon air innocent. Je suis mignon, mais pénible à battre !
+\bNe te fie pas à mon air innocent. Je suis mignon, mais pénible à battre !
+\bJ’ai peut-être perdu, mais entre nous deux, c’est quand même moi qui porte le mieux cette tenue.
+\bJ’ai peut-être perdu, mais entre nous deux, c’est quand même moi qui porte le mieux cette tenue.
+\bIci, on sort les griffes, les crocs…Graouu !
+\bIci, on sort les griffes, les crocs…Graouu !
+\bMon équipe et moi devons encore travailler notre instinct sauvage.
+\bMon équipe et moi devons encore travailler notre instinct sauvage.
+#-------------------------------
+[Map023]
+\bAssistant : Bonjour ! Je suis l’un des assistants du Professeur Quercus.
+\bAssistant : Bonjour ! Je suis l’un des assistants du Professeur Quercus.
+\bTu as déjà capturé cinq espèces différentes ? Parfait !
+\bTu as déjà capturé cinq espèces différentes ? Parfait !
+\bTiens, ce Poké Radar t’aidera à trouver des Pokémon peu communs dans les hautes herbes.
+\bTiens, ce Poké Radar t’aidera à trouver des Pokémon peu communs dans les hautes herbes.
+\bReviens me voir quand tu auras capturé au moins cinq espèces différentes. J’aurai quelque chose pour toi !
+\bReviens me voir quand tu auras capturé au moins cinq espèces différentes. J’aurai quelque chose pour toi !
+\bObserve bien les herbes qui bougent. Bonne chasse !
+\bObserve bien les herbes qui bougent. Bonne chasse !
+#-------------------------------
+[Map024]
+Mimi !
+Mimi !
+À celui qui tint sa promesse jusqu’au bout.
+À celui qui tint sa promesse jusqu’au bout.
+\b??? : Mimikyu... T’embete pas les gens !
+\b??? : Mimikyu... T’embete pas les gens ! 
+\b??? : Désoler, mon Mimikyu adore cette endroit et se l’appropri un peu trop haha.
+\b??? : Désoler, mon Mimikyu adore cette endroit et se l’appropri un peu trop haha. 
+\bBastian : Oh, enfaite, je suis Bastian ! Mais je doit retrouver mon partenaire !
+\bBastian : Oh, enfaite, je suis Bastian !  Mais je doit retrouver mon partenaire ! 
+\bBastian : Au plaisir que tu puisse profiter du lieu !
+\bBastian : Au plaisir que tu puisse profiter du lieu !
+#-------------------------------
+[Map025]
+There is a questionnaire.\nWould you like to fill it out?
+There is a questionnaire.\nWould you like to fill it out?
+\PN filled in the questionnaire.
+\PN filled in the questionnaire.
+\bOh, hello!\nYou filled in the questionnaire?
+\bOh, hello!\nYou filled in the questionnaire?
+\bThat means you must know about the Mystery Gift.
+\bThat means you must know about the Mystery Gift.
+\bFrom now on, you should be receiving Mystery Gifts!
+\bFrom now on, you should be receiving Mystery Gifts!
+\w[signskin]Once you save your game, you can access the Mystery Gift.
+\w[signskin]Once you save your game, you can access the Mystery Gift.
+\bHello. You must be \PN.
+\bHello. You must be \PN.
+\bI've received a gift for you.\nHere you go!
+\bI've received a gift for you.\nHere you go!
+\bI haven't received any other gifts for you.
+\bI haven't received any other gifts for you.
+\bWe look forward to your next visit.
+\bWe look forward to your next visit.
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map026]
+\rI'm looking for a female Dragonair.
+\rI'm looking for a female Dragonair.
+\rWant to trade it for my Dodrio?
+\rWant to trade it for my Dodrio?
+\rYou don't want to trade? Aww...
+\rYou don't want to trade?  Aww...
+\rOK, let's get started.
+\rOK, let's get started.
+Doris
+Doris
+Ayana
+Ayana
+\PN traded Dragonair for Dodrio!
+\PN traded Dragonair for Dodrio!
+\rThanks!
+\rThanks!
+\rAre you taking good care of Doris?
+\rAre you taking good care of Doris?
+\bMy Shuckie is a great Pokémon, but I can't train it anymore.
+\bMy Shuckie is a great Pokémon, but I can't train it anymore.
+\bWould you take Shuckie and raise it like it deserves?
+\bWould you take Shuckie and raise it like it deserves?
+Kirk
+Kirk
+Shuckie
+Shuckie
+\bTake good care of Shuckie!
+\bTake good care of Shuckie!
+\bOh, you don't have any space for it.
+\bOh, you don't have any space for it.
+\bOh, that's a shame.
+\bOh, that's a shame.
+\bAre you raising my Shuckie well?
+\bAre you raising my Shuckie well?
+\bOh, hi!
+\bOh, hi!
+\bWould you like this Pokémon Egg?
+\bWould you like this Pokémon Egg?
+Fan Club President
+Fan Club President
+\me[Egg get]\PN received the Egg from the Fan Club President.
+\me[Egg get]\PN received the Egg from the Fan Club President.
+\bTake good care of it!
+\bTake good care of it!
+\bOh, you can't carry it with you.
+\bOh, you can't carry it with you.
+\bMake some space in your party and come back.
+\bMake some space in your party and come back.
+\bOh. Will I ever find someone to take this Egg?
+\bOh. Will I ever find someone to take this Egg?
+\bI wonder what that Egg will hatch into?
+\bI wonder what that Egg will hatch into?
+\bI'm looking for a Rattata.
+\bI'm looking for a Rattata.
+\bWant to trade it for my Haunter?
+\bWant to trade it for my Haunter?
+\bYou don't want to trade? Aww...
+\bYou don't want to trade? Aww...
+\bOK, let's get started.
+\bOK, let's get started.
+HaHa
+HaHa
+Andy
+Andy
+\PN traded Rattata for Haunter!
+\PN traded Rattata for Haunter!
+\bThanks!
+\bThanks!
+\bThanks for trading with me!
+\bThanks for trading with me!
+There's no more room for Pokémon!
+There's no more room for Pokémon!
+The Pokémon Boxes are full and can't accept any more!
+The Pokémon Boxes are full and can't accept any more!
+\rI have a rather special Bulbasaur! Its ability is something I could only dream of.
+\rI have a rather special Bulbasaur! Its ability is something I could only dream of.
+\rI can't look after it, though. Would you like Bulbasaur?
+\rI can't look after it, though. Would you like Bulbasaur?
+Dorima
+Dorima
+Sauri
+Sauri
+\rTake good care of Sauri!
+\rTake good care of Sauri!
+\rOh, you don't have any space.
+\rOh, you don't have any space.
+\rOh, that's a shame.
+\rOh, that's a shame.
+\rI hope you're taking good care of my Sauri!
+\rI hope you're taking good care of my Sauri!
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map027]
+\rAh, there you are! My husband was looking for you.
+\rAh, there you are! My husband was looking for you.
+\rI'm the Day-Care Lady. We can raise Pokémon for you.
+\rI'm the Day-Care Lady. We can raise Pokémon for you.
+\rWould you like us to raise your Pokémon?
+\rWould you like us to raise your Pokémon?
+\rOh? But you only have one Pokémon with you.
+\rOh? But you only have one Pokémon with you.
+\rYou can't go off without a Pokémon. Come back another time.
+\rYou can't go off without a Pokémon. Come back another time.
+\rWhich Pokémon should we raise for you?
+\rWhich Pokémon should we raise for you?
+\rOh, fine, then.\nCome again.
+\rOh, fine, then.\nCome again.
+\rIf you leave me that Pokémon, what are you gonna battle with?
+\rIf you leave me that Pokémon, what are you gonna battle with?
+\rCome back another time.
+\rCome back another time.
+\rFine, we'll raise your \v[3] for a while.
+\rFine, we'll raise your \v[3] for a while.
+\rCome back for it later.
+\rCome back for it later.
+\rWe can raise two of your Pokémon. Would you like us to raise another?
+\rWe can raise two of your Pokémon. Would you like us to raise another?
+\rVery good. Come again.
+\rVery good. Come again.
+\rThat Pokémon looks like it would rather stay with you.
+\rThat Pokémon looks like it would rather stay with you.
+\rAh, it's you! Good to see you. Now, about your Pokémon...
+\rAh, it's you! Good to see you. Now, about your Pokémon...
+\rBy level, your \v[3] has grown by about \v[4].
+\rBy level, your \v[3] has grown by about \v[4].
+\rDo you want your Pokémon back?
+\rDo you want your Pokémon back?
+\rYour Pokémon team is full. Make room, then come see me.
+\rYour Pokémon team is full. Make room, then come see me.
+Which one do you want back?
+Which one do you want back?
+\G\rIf you want your \v[3] back, it will cost $\v[4].
+\G\rIf you want your \v[3] back, it will cost $\v[4].
+\G\rYou don't have enough money...
+\G\rYou don't have enough money...
+\G\rExcellent\nHere's your Pokémon.
+\G\rExcellent\nHere's your Pokémon.
+\PN took \v[3] back from the Day-Care Lady.
+\PN took \v[3] back from the Day-Care Lady.
+\G\rDo you want to take back the other one, too?
+\G\rDo you want to take back the other one, too?
+\bI'll tell you what type your Pokémon's Hidden Power will be.
+\bI'll tell you what type your Pokémon's Hidden Power will be.
+\bMy own hidden power lets me do that.
+\bMy own hidden power lets me do that.
+\bOh, no. This Pokémon can't learn the move Hidden Power in the first place.
+\bOh, no. This Pokémon can't learn the move Hidden Power in the first place.
+\bThis Pokémon's Hidden Power is the \v[2] type.
+\bThis Pokémon's Hidden Power is the \v[2] type.
+\bIf this Pokémon were to learn Hidden Power, the move's type would be \v[2].
+\bIf this Pokémon were to learn Hidden Power, the move's type would be \v[2].
+\bIf you want to know, ask me, and I'll activate my hidden power for you.
+\bIf you want to know, ask me, and I'll activate my hidden power for you.
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map029]
+\bWe hope you'll take part in a Bug-Catching Contest in the future!
+\bWe hope you'll take part in a Bug-Catching Contest in the future!
+\bToday's \v[1].
+\bToday's \v[1].
+\bThat means the Bug-Catching Contest is on today.
+\bThat means the Bug-Catching Contest is on today.
+\bThe rules are simple.
+\bThe rules are simple.
+\bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.
+\bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.
+\bWould you like to give it a try?
+\bWould you like to give it a try?
+\bSorry, your PC boxes are full.
+\bSorry, your PC boxes are full.
+\bYou are only allowed to take 1 Pokémon into the Contest.
+\bYou are only allowed to take 1 Pokémon into the Contest.
+\bPlease choose which Pokémon you want to enter with.
+\bPlease choose which Pokémon you want to enter with.
+\bOK. We hope you'll take part in the future.
+\bOK. We hope you'll take part in the future.
+\bYou will be entering with \v[2], then.
+\bYou will be entering with \v[2], then.
+\bWe'll hold your other Pokémon while you compete.
+\bWe'll hold your other Pokémon while you compete.
+\PN's Pokémon were left with the Contest Helper.\se[Pkmn exp full]\wtnp[20]
+\PN's Pokémon were left with the Contest Helper.\se[Pkmn exp full]\wtnp[20]
+\bHere are the Sport Balls for the Contest.
+\bHere are the Sport Balls for the Contest.
+\PN received 20 Sport Balls.\me[Item get]\wtnp[40]
+\PN received 20 Sport Balls.\me[Item get]\wtnp[40]
+\bThe person who gets the strongest bug Pokémon is the winner.
+\bThe person who gets the strongest bug Pokémon is the winner.
+\bYou have 20 minutes.
+\bYou have 20 minutes.
+\bIf you run out of Sport Balls, you're done.
+\bIf you run out of Sport Balls, you're done.
+\bYou can keep the last Pokémon you catch as your own.
+\bYou can keep the last Pokémon you catch as your own.
+\bGo out and catch the strongest Bug-type Pokémon you can find!
+\bGo out and catch the strongest Bug-type Pokémon you can find!
+\bWe hold contests regularly in the Park. You should give it a shot.
+\bWe hold contests regularly in the Park. You should give it a shot.
+\bYou still have some time left. Do you want to finish now?
+\bYou still have some time left. Do you want to finish now?
+\bOK. Please wait in the pavillion for the announcement of the winners.
+\bOK. Please wait in the pavillion for the announcement of the winners.
+\bOK. Please go back outside and finish up.
+\bOK. Please go back outside and finish up.
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map030]
+Barry: \bI work a lot, but that's not good enough to win.
+Barry: \bI work a lot, but that's not good enough to win.
+Samuel: \bI put lots of effort in, but that's not good enough to win.
+Samuel: \bI put lots of effort in, but that's not good enough to win.
+Abby: \rI try my best, but that's not good enough to win.
+Abby: \rI try my best, but that's not good enough to win.
+\bWe hope you'll take part in a Bug-Catching Contest in the future!
+\bWe hope you'll take part in a Bug-Catching Contest in the future!
+\bToday's \v[1].
+\bToday's \v[1].
+\bThat means the Bug-Catching Contest is on today.
+\bThat means the Bug-Catching Contest is on today.
+\bThe rules are simple.
+\bThe rules are simple.
+\bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.
+\bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.
+\bWould you like to give it a try?
+\bWould you like to give it a try?
+\bSorry, your PC boxes are full.
+\bSorry, your PC boxes are full.
+\bYou are only allowed to take 1 Pokémon into the Contest.
+\bYou are only allowed to take 1 Pokémon into the Contest.
+\bPlease choose which Pokémon you want to enter with.
+\bPlease choose which Pokémon you want to enter with.
+\bOK. We hope you'll take part in the future.
+\bOK. We hope you'll take part in the future.
+\bYou will be entering with \v[2], then.
+\bYou will be entering with \v[2], then.
+\bWe'll hold your other Pokémon while you compete.
+\bWe'll hold your other Pokémon while you compete.
+\PN's Pokémon were left with the Contest Helper.\se[Pkmn exp full]\wtnp[20]
+\PN's Pokémon were left with the Contest Helper.\se[Pkmn exp full]\wtnp[20]
+\bHere are the Sport Balls for the Contest.
+\bHere are the Sport Balls for the Contest.
+\PN received 20 Sport Balls.\me[Item get]\wtnp[40]
+\PN received 20 Sport Balls.\me[Item get]\wtnp[40]
+\bThe person who gets the strongest bug Pokémon is the winner.
+\bThe person who gets the strongest bug Pokémon is the winner.
+\bYou have 20 minutes.
+\bYou have 20 minutes.
+\bIf you run out of Sport Balls, you're done.
+\bIf you run out of Sport Balls, you're done.
+\bYou can keep the last Pokémon you catch as your own.
+\bYou can keep the last Pokémon you catch as your own.
+\bGo out and catch the strongest Bug-type Pokémon you can find!
+\bGo out and catch the strongest Bug-type Pokémon you can find!
+\bWe hold contests regularly in the Park. You should give it a shot.
+\bWe hold contests regularly in the Park. You should give it a shot.
+\bYou still have some time left. Do you want to finish now?
+\bYou still have some time left. Do you want to finish now?
+\bPlease wait here for the announcement of the winners.
+\bPlease wait here for the announcement of the winners.
+\bOK. Please go back outside and finish up.
+\bOK. Please go back outside and finish up.
+\bWe will now judge the Pokémon you've caught.
+\bWe will now judge the Pokémon you've caught.
+......\wt[10]\n......
+......\wt[10]\n......
+\bWe have chosen the winners!\nAre you ready for this?
+\bWe have chosen the winners!\nAre you ready for this?
+\bPlacing third is \v[1], who caught a writhing \v[2]!
+\bPlacing third is \v[1], who caught a writhing \v[2]!
+\bThe score was \v[3] points!
+\bThe score was \v[3] points!
+\bPlacing second is \v[1], who caught a wriggling \v[2]!
+\bPlacing second is \v[1], who caught a wriggling \v[2]!
+\bThis Bug-Catching Contest winner is...
+\bThis Bug-Catching Contest winner is...
+\b\v[1], who caught a whopping \v[2]!
+\b\v[1], who caught a whopping \v[2]!
+\me[Bug contest 1st]\b\PN, the First Place finisher, wins the \v[3]!
+\me[Bug contest 1st]\b\PN, the First Place finisher, wins the \v[3]!
+\me[Bug contest 1st]\b\PN, the First Place finisher, wins the Sun Stone!
+\me[Bug contest 1st]\b\PN, the First Place finisher, wins the Sun Stone!
+\me[Bug contest 2nd]\b\PN, the Second Place finisher, wins the Everstone!
+\me[Bug contest 2nd]\b\PN, the Second Place finisher, wins the Everstone!
+\me[Bug contest 3rd]\b\PN, the Third Place finisher, wins the Sitrus Berry!
+\me[Bug contest 3rd]\b\PN, the Third Place finisher, wins the Sitrus Berry!
+\bEveryone else gets a Shed Shell as a consolation prize!
+\bEveryone else gets a Shed Shell as a consolation prize!
+\bWe'll return the Pokémon we kept for you. Here you go!\se[Pkmn exp full]
+\bWe'll return the Pokémon we kept for you. Here you go!\se[Pkmn exp full]
+Josh: \bI study a lot, but that's not good enough to win.
+Josh: \bI study a lot, but that's not good enough to win.
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map031]
+\bDid I notice you, or did you notice me?
+\bDid I notice you, or did you notice me?
+\bShall we exchange numbers, so we can have a rematch?
+\bShall we exchange numbers, so we can have a rematch?
+\bLet's have a rematch!
+\bLet's have a rematch!
+\bI'll get even stronger, and beat you next time!
+\bI'll get even stronger, and beat you next time!
+\bI don't think I'll ever be able to beat you.
+\bI don't think I'll ever be able to beat you.
+\rI'll wait here, then.
+\rI'll wait here, then.
+\rYou'll need at least two Pokémon or a partner if you want to battle us.
+\rYou'll need at least two Pokémon or a partner if you want to battle us.
+\rAh, looks like a challenging trainer. Ready, Bob?
+\rAh, looks like a challenging trainer. Ready, Bob?
+\rOur events weren't created by comments, because we need to check how many Pokémon you had.
+\rOur events weren't created by comments, because we need to check how many Pokémon you had.
+\rDo you want to team up with me again?
+\rDo you want to team up with me again?
+\PN teamed up with May!\me[Item get]\wtnp[40]
+\PN teamed up with May!\me[Item get]\wtnp[40]
+\rOK then.
+\rOK then.
+\rBattle me now!
+\rBattle me now!
+\rCan I add you to my contacts list?
+\rCan I add you to my contacts list?
+\rI say the same thing after every battle. Why? Just because.
+\rI say the same thing after every battle. Why? Just because.
+Something unseeable is in the way. Want to use the Silph Scope?
+Something unseeable is in the way. Want to use the Silph Scope?
+Something unseeable is in the way. Want to use the Devon Scope?
+Something unseeable is in the way. Want to use the Devon Scope?
+Something unseeable is in the way.
+Something unseeable is in the way.
+The invisible Pokémon became completely visible!
+The invisible Pokémon became completely visible!
+The startled Pokémon attacked!
+The startled Pokémon attacked!
+\bYou'll need at least two Pokémon or a partner if you want to battle us.
+\bYou'll need at least two Pokémon or a partner if you want to battle us.
+\bAh, looks like a challenging trainer. Ready, Alice?
+\bAh, looks like a challenging trainer. Ready, Alice?
+\bOur events weren't created by comments, because we need to check how many Pokémon you had.
+\bOur events weren't created by comments, because we need to check how many Pokémon you had.
+\rI've brought my own special backdrop!
+\rI've brought my own special backdrop!
+\rIf exactly 2 trainers notice you at the same time, they become a double battle.
+\rIf exactly 2 trainers notice you at the same time, they become a double battle.
+\rHere, though, 3 trainers noticed you at once, so I battled you by myself. Then the 2 remaining trainers noticing you at the same time became a double battle.
+\rHere, though, 3 trainers noticed you at once, so I battled you by myself. Then the 2 remaining trainers noticing you at the same time became a double battle.
+\rI battled you first because my event's ID number (7) comes before the Hiker's and Fisherman's event ID numbers (8 and 9).
+\rI battled you first because my event's ID number (7) comes before the Hiker's and Fisherman's event ID numbers (8 and 9).
+\rDo you want to team up with me?
+\rDo you want to team up with me?
+\bThis battle will go without a hitch!
+\bThis battle will go without a hitch!
+\bHow did you manage to face all three of us?
+\bHow did you manage to face all three of us?
+\bI'll get my tackle out for you!
+\bI'll get my tackle out for you!
+\bI don't understand why my Magikarp couldn't beat you.
+\bI don't understand why my Magikarp couldn't beat you.
+\bHi \PN! I'm your Rival!
+\bHi \PN! I'm your Rival!
+\bDo you want to name me, or leave me with my default name as defined in trainers.txt?
+\bDo you want to name me, or leave me with my default name as defined in trainers.txt?
+Rival's name?
+Rival's name?
+\bSo my name is \v[12], huh? Okay then.
+\bSo my name is \v[12], huh? Okay then.
+\bLet's get down to the battle!
+\bLet's get down to the battle!
+\bI'm going to leave now. Smell you later!
+\bI'm going to leave now. Smell you later!
+\bHi! I like shorts! They're comfy and easy to wear!
+\bHi! I like shorts! They're comfy and easy to wear!
+\bYou can't get a trainer event simpler than me!
+\bYou can't get a trainer event simpler than me!
+\rGet ready for a double battle!
+\rGet ready for a double battle!
+\rMake sure all double battle opponents have at least 2 Pokémon!
+\rMake sure all double battle opponents have at least 2 Pokémon!
+Yes
+Yes
+No
+No
+Rename
+Rename
+Cancel
+Cancel
+#-------------------------------
+[Map034]
+This is another boulder-down-hole puzzle.
+This is another boulder-down-hole puzzle.
+It is identical to the regular kind, except the boulder downstairs is just a regular immovable event rather than a boulder itself.
+It is identical to the regular kind, except the boulder downstairs is just a regular immovable event rather than a boulder itself.
+On the right is an example of a cracked ice tile. You can walk over it once, but step on it again and you'll fall through to another map.
+On the right is an example of a cracked ice tile.  You can walk over it once, but step on it again and you'll fall through to another map.
+Ice you slide around on has terrain tag 12.
+Ice you slide around on has terrain tag 12.
+#-------------------------------
+[Map035]
+\bI stopped you as you walked past.
+\bI stopped you as you walked past.
+\bHaving "Sight(3)" as my event's name, and the "Event Touch" trigger, tells me to activate whenever you enter any of the three tiles in front of me.
+\bHaving "Sight(3)" as my event's name, and the "Event Touch" trigger, tells me to activate whenever you enter any of the three tiles in front of me.
+\bpbExclaim makes me exclaim. pbNoticePlayer does the same thing, as well as make me approach you.
+\bpbExclaim makes me exclaim. pbNoticePlayer does the same thing, as well as make me approach you.
+\bTrainers use these features by default, but other NPCs like me can use them too. Roadblock events in particular love to use them.
+\bTrainers use these features by default, but other NPCs like me can use them too. Roadblock events in particular love to use them.
+\bShall I turn you back like a real roadblock, or should I deactivate myself?
+\bShall I turn you back like a real roadblock, or should I deactivate myself?
+\bCome back when Game Switch 5 is ON.
+\bCome back when Game Switch 5 is ON.
+\bOkay. I'll fulfil my roadblock condition myself, by turning the Game Switch I depend on (5) to ON.
+\bOkay. I'll fulfil my roadblock condition myself, by turning the Game Switch I depend on (5) to ON.
+\bBecause I was moved by pbNoticePlayer and then moved again by a Move Route, I need to update my current location in memory.
+\bBecause I was moved by pbNoticePlayer and then moved again by a Move Route, I need to update my current location in memory.
+\bThis matters if you save and reload the game on this map after I've moved. See my event for the command you need to use.
+\bThis matters if you save and reload the game on this map after I've moved. See my event for the command you need to use.
+\bI'm keeping guard here as a trusted roadblock event.
+\bI'm keeping guard here as a trusted roadblock event.
+\bRoadblock events don't normally set the conditions they wait for (Game Switch 5 in my case), but I did.
+\bRoadblock events don't normally set the conditions they wait for (Game Switch 5 in my case), but I did.
+Roadblock
+Roadblock
+Deactivate
+Deactivate
+#-------------------------------
+[Map036]
+\bBill: Hello! I'm \v[2].
+\bBill: Hello! I'm \v[2].
+\bI invented the Pokémon Storage System.
+\bI invented the Pokémon Storage System.
+\bWhat do you want to know?
+\bWhat do you want to know?
+\bAll storage box wallpapers need to be listed in class PokemonStorage, in def allWallpapers.
+\bAll storage box wallpapers need to be listed in class PokemonStorage, in def allWallpapers.
+\bThey correspond to box_0.png, box_1.png, etc. in order without gaps. These images are in the folder Graphics/Pictures/Storage.
+\bThey correspond to box_0.png, box_1.png, etc. in order without gaps. These images are in the folder Graphics/Pictures/Storage.
+\bStorage wallpapers are split into two categories: basic and special.All basic wallpapers are listed before the special wallpapers.
+\bStorage wallpapers are split into two categories: basic and special.All basic wallpapers are listed before the special wallpapers.
+\bBasic wallpapers are always accessible, and boxes use these wallpapers by default. Numbers 0 to 15 inclusive are basic wallpapers.
+\bBasic wallpapers are always accessible, and boxes use these wallpapers by default. Numbers 0 to 15 inclusive are basic wallpapers.
+\bSpecial wallpapers start off locked and unavailable. You can unlock them with pbUnlockWallpaper(id), where id is the wallpaper's number.
+\bSpecial wallpapers start off locked and unavailable.  You can unlock them with pbUnlockWallpaper(id), where id is the wallpaper's number.
+\rHello, and welcome to the Pokémon Center.
+\rHello, and welcome to the Pokémon Center.
+\rWe restore your tired Pokémon to full health.
+\rWe restore your tired Pokémon to full health.
+\rWould you like to rest your Pokémon?
+\rWould you like to rest your Pokémon?
+\rOK, I'll take your Pokémon for a few seconds.
+\rOK, I'll take your Pokémon for a few seconds.
+\rYour Pokémon may be infected by Pokérus.
+\rYour Pokémon may be infected by Pokérus.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rThank you for waiting.
+\rThank you for waiting.
+\rWe've restored your Pokémon to full health.
+\rWe've restored your Pokémon to full health.
+\rWe hope to see you again!
+\rWe hope to see you again!
+\rFirst, you should restore your Pokémon to full health.
+\rFirst, you should restore your Pokémon to full health.
+\rYour Pokémon have been healed to perfect health.
+\rYour Pokémon have been healed to perfect health.
+\rWe hope you excel!
+\rWe hope you excel!
+Wallpapers
+Wallpapers
+Cancel
+Cancel
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map037]
+\bEverything in here uses a temporary switch to decide what to do, rather than a Self Switch, because it all needs to reset each time you enter.
+\bEverything in here uses a temporary switch to decide what to do, rather than a Self Switch, because it all needs to reset each time you enter.
+\bYou beat me! Go on to the Hall of Fame.
+\bYou beat me! Go on to the Hall of Fame.
+#-------------------------------
+[Map046]
+\bSorry, you can't enter Cycle Road without a Bicycle.
+\bSorry, you can't enter Cycle Road without a Bicycle.
+\bCycling Road is a great ride.
+\bCycling Road is a great ride.
+#-------------------------------
+[Map047]
+\bI'm a basic trainer with a Shadow Pokémon.
+\bI'm a basic trainer with a Shadow Pokémon.
+\bDid you manage to snag my Shadow Pokémon? Because you can't battle me again for another chance.
+\bDid you manage to snag my Shadow Pokémon?  Because you can't battle me again for another chance.
+\rYou can battle me repeatedly, and have unlimited attempts to snag my Shadow Pokémon.
+\rYou can battle me repeatedly, and have unlimited attempts to snag my Shadow Pokémon.
+\rYou've managed to snag my Shadow Electabuzz. I'm not going to do anything now.
+\rYou've managed to snag my Shadow Electabuzz.  I'm not going to do anything now.
+\bI can tell you some things about Shadow Pokémon in Essentials. However, the wiki has far more information about them.
+\bI can tell you some things about Shadow Pokémon in Essentials. However, the wiki has far more information about them.
+\bWhat do you want to know?
+\bWhat do you want to know?
+\bShadow Pokémon are a special kind of Pokémon which appeared in Pokémon Colosseum and Pokémon XD.
+\bShadow Pokémon are a special kind of Pokémon which appeared in Pokémon Colosseum and Pokémon XD.
+\bThey can be included in Essentials as well. See the wiki for information on how to do this.
+\bThey can be included in Essentials as well. See the wiki for information on how to do this.
+\bTrainers with Shadow Pokémon are set up in exactly the same way as any other trainer.
+\bTrainers with Shadow Pokémon are set up in exactly the same way as any other trainer.
+\bAny Poké Ball can be defined as a Snag Ball in items.txt. If $player.has_snag_machine is TRUE, all types of Poké Ball will be Snag Balls automatically.
+\bAny Poké Ball can be defined as a Snag Ball in items.txt. If $player.has_snag_machine is TRUE, all types of Poké Ball will be Snag Balls automatically.
+\b$player.pokedex.owned_shadow is an array that keeps track of which Shadow Pokémon species have been caught.
+\b$player.pokedex.owned_shadow is an array that keeps track of which Shadow Pokémon species have been caught.
+\bYou can purify Shadow Pokémon in two ways.
+\bYou can purify Shadow Pokémon in two ways.
+\bThe first is by bringing them to the Relic Stone here, as in Pokémon Colosseum.
+\bThe first is by bringing them to the Relic Stone here, as in Pokémon Colosseum.
+\bThe second is by placing them in the Purify Chamber, as in Pokémon XD. You can access it from the PC in Poké Centers.
+\bThe second is by placing them in the Purify Chamber, as in Pokémon XD. You can access it from the PC in Poké Centers.
+\bI've now given you access to the Purify Chamber.
+\bI've now given you access to the Purify Chamber.
+\bThe effects of Heart Gauge-lowering items are already in Essentials. You just need to add the items themselves via a PBS file.
+\bThe effects of Heart Gauge-lowering items are already in Essentials. You just need to add the items themselves via a PBS file.
+\bI can control the weather. Which weather would you like to see?
+\bI can control the weather. Which weather would you like to see?
+\bThis weather can occur even at night, but doesn't negate the day/night shading. It's better if you don't use it.
+\bThis weather can occur even at night, but doesn't negate the day/night shading. It's better if you don't use it.
+\bNote that the weather metadata for this map is set, even though its probability is 0. This prevents the weather from lingering when you leave this map.
+\bNote that the weather metadata for this map is set, even though its probability is 0. This prevents the weather from lingering when you leave this map.
+\bHaiiiii-yaaaaaah!
+\bHaiiiii-yaaaaaah!
+Nothing can pierce my armor!
+Nothing can pierce my armor!
+Behold my dodging skills!
+Behold my dodging skills!
+I'll deliver a perfect blow!
+I'll deliver a perfect blow!
+Feel my power!
+Feel my power!
+AAAAHHHH!
+AAAAHHHH!
+Face my secret technique!
+Face my secret technique!
+This is my secret technique!
+This is my secret technique!
+Evil Blade Strike!
+Evil Blade Strike!
+\bYou won, good job.
+\bYou won, good job.
+You lost, too bad.
+You lost, too bad.
+\bHello. This is what I say if you talk to me during the day.
+\bHello. This is what I say if you talk to me during the day.
+\bHalt! Who goes there?
+\bHalt! Who goes there?
+\bThis is what I say if you talk to me at night.
+\bThis is what I say if you talk to me at night.
+\bI could battle you... but I won't.
+\bI could battle you... but I won't.
+Information
+Information
+Shadow Pokémon battles
+Shadow Pokémon battles
+Purifying Pokémon
+Purifying Pokémon
+Exit
+Exit
+None
+None
+Rain
+Rain
+Heavy rain
+Heavy rain
+Storm
+Storm
+Snow
+Snow
+Blizzard
+Blizzard
+Sandstorm
+Sandstorm
+Sun
+Sun
+Fog
+Fog
+#-------------------------------
+[Map049]
+\bCan you push that boulder onto the switch?
+\bCan you push that boulder onto the switch?
+\bOh! The boulder has been moved onto the switch!
+\bOh! The boulder has been moved onto the switch!
+\bWell done!
+\bWell done!
+\bOh. The boulder is not on the switch.
+\bOh. The boulder is not on the switch.
+This ladder leads to a random dungeon.
+This ladder leads to a random dungeon.
+The levels of Pokémon within are based on the levels of Pokémon in the player's party.
+The levels of Pokémon within are based on the levels of Pokémon in the player's party.
+This is because the dungeon map's metadata gives it the "ScaleWildEncounterLevels" flag.
+This is because the dungeon map's metadata gives it the "ScaleWildEncounterLevels" flag.
+The positions of the boulders are checked by a Parallel Process event.
+The positions of the boulders are checked by a Parallel Process event.
+The hole event must have its "Through" option set, to allow boulder events to be pushed onto it.
+The hole event must have its "Through" option set, to allow boulder events to be pushed onto it.
+Which tile puzzle do you want to play?
+Which tile puzzle do you want to play?
+Puzzle solved!
+Puzzle solved!
+Gave up...
+Gave up...
+Alph
+Alph
+Alph Rotator
+Alph Rotator
+Mystic Square
+Mystic Square
+Tile Swap
+Tile Swap
+Tile Swap Rotator
+Tile Swap Rotator
+Rubik's Square
+Rubik's Square
+Star Rotator
+Star Rotator
+Cancel
+Cancel
+#-------------------------------
+[Map050]
+When pushing a boulder down a hole, make sure it doesn't appear in the same place as the player does when they drop down.
+When pushing a boulder down a hole, make sure it doesn't appear in the same place as the player does when they drop down.
+\bHello! I'm the Ruin Maniac!
+\bHello! I'm the Ruin Maniac!
+\bDo you want to dig for buried treasure?
+\bDo you want to dig for buried treasure?
+\bGrand! Let's dig into this wall.
+\bGrand! Let's dig into this wall.
+\bNo? Alright then.
+\bNo? Alright then.
+\bWhen using this mining minigame, it is recommended that you limit how often the player can play it, to prevent them gaining lots of items for free.
+\bWhen using this mining minigame, it is recommended that you limit how often the player can play it, to prevent them gaining lots of items for free.
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map053]
+\bBill: Hello! I'm \v[2].
+\bBill: Hello! I'm \v[2].
+\bI invented the Pokémon Storage System.
+\bI invented the Pokémon Storage System.
+\bWhat do you want to know?
+\bWhat do you want to know?
+\bAll storage box wallpapers need to be listed in class PokemonStorage, in def allWallpapers.
+\bAll storage box wallpapers need to be listed in class PokemonStorage, in def allWallpapers.
+\bThey correspond to box_0.png, box_1.png, etc. in order without gaps. These images are in the folder Graphics/Pictures/Storage.
+\bThey correspond to box_0.png, box_1.png, etc. in order without gaps. These images are in the folder Graphics/Pictures/Storage.
+\bStorage wallpapers are split into two categories: basic and special.All basic wallpapers are listed before the special wallpapers.
+\bStorage wallpapers are split into two categories: basic and special.All basic wallpapers are listed before the special wallpapers.
+\bBasic wallpapers are always accessible, and boxes use these wallpapers by default. Numbers 0 to 15 inclusive are basic wallpapers.
+\bBasic wallpapers are always accessible, and boxes use these wallpapers by default. Numbers 0 to 15 inclusive are basic wallpapers.
+\bSpecial wallpapers start off locked and unavailable. You can unlock them with pbUnlockWallpaper(id), where id is the wallpaper's number.
+\bSpecial wallpapers start off locked and unavailable.  You can unlock them with pbUnlockWallpaper(id), where id is the wallpaper's number.
+\rHello, and welcome to the Pokémon Center.
+\rHello, and welcome to the Pokémon Center.
+\rWe restore your tired Pokémon to full health.
+\rWe restore your tired Pokémon to full health.
+\rWould you like to rest your Pokémon?
+\rWould you like to rest your Pokémon?
+\rOK, I'll take your Pokémon for a few seconds.
+\rOK, I'll take your Pokémon for a few seconds.
+\rYour Pokémon may be infected by Pokérus.
+\rYour Pokémon may be infected by Pokérus.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rThank you for waiting.
+\rThank you for waiting.
+\rWe've restored your Pokémon to full health.
+\rWe've restored your Pokémon to full health.
+\rWe hope to see you again!
+\rWe hope to see you again!
+\rFirst, you should restore your Pokémon to full health.
+\rFirst, you should restore your Pokémon to full health.
+\rYour Pokémon have been healed to perfect health.
+\rYour Pokémon have been healed to perfect health.
+\rWe hope you excel!
+\rWe hope you excel!
+Wallpapers
+Wallpapers
+Cancel
+Cancel
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map054]
+There is a questionnaire.\nWould you like to fill it out?
+There is a questionnaire.\nWould you like to fill it out?
+\PN filled in the questionnaire.
+\PN filled in the questionnaire.
+\bOh, hello!\nYou filled in the questionnaire?
+\bOh, hello!\nYou filled in the questionnaire?
+\bThat means you must know about the Mystery Gift.
+\bThat means you must know about the Mystery Gift.
+\bFrom now on, you should be receiving Mystery Gifts!
+\bFrom now on, you should be receiving Mystery Gifts!
+\w[signskin]Once you save your game, you can access the Mystery Gift.
+\w[signskin]Once you save your game, you can access the Mystery Gift.
+\bHello. You must be \PN.
+\bHello. You must be \PN.
+\bI've received a gift for you.\nHere you go!
+\bI've received a gift for you.\nHere you go!
+\bI haven't received any other gifts for you.
+\bI haven't received any other gifts for you.
+\bWe look forward to your next visit.
+\bWe look forward to your next visit.
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map055]
+Check results for which challenge?
+Check results for which challenge?
+\PN's Battle Tower Level 50 Single Battle results:
+\PN's Battle Tower Level 50 Single Battle results:
+Last win streak: \v[1]\nRecord win streak: \v[2]
+Last win streak: \v[1]\nRecord win streak: \v[2]
+\PN's Battle Tower Open Level Single Battle results:
+\PN's Battle Tower Open Level Single Battle results:
+\rHello, and welcome to the Pokémon Center.
+\rHello, and welcome to the Pokémon Center.
+\rWe restore your tired Pokémon to full health.
+\rWe restore your tired Pokémon to full health.
+\rWould you like to rest your Pokémon?
+\rWould you like to rest your Pokémon?
+\rOK, I'll take your Pokémon for a few seconds.
+\rOK, I'll take your Pokémon for a few seconds.
+\rYour Pokémon may be infected by Pokérus.
+\rYour Pokémon may be infected by Pokérus.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rThank you for waiting.
+\rThank you for waiting.
+\rWe've restored your Pokémon to full health.
+\rWe've restored your Pokémon to full health.
+\rWe hope to see you again!
+\rWe hope to see you again!
+\rFirst, you should restore your Pokémon to full health.
+\rFirst, you should restore your Pokémon to full health.
+\rYour Pokémon have been healed to perfect health.
+\rYour Pokémon have been healed to perfect health.
+\rWe hope you excel!
+\rWe hope you excel!
+\PN's Battle Tower Level 50 Double Battle results:
+\PN's Battle Tower Level 50 Double Battle results:
+\PN's Battle Tower Open Level Double Battle results:
+\PN's Battle Tower Open Level Double Battle results:
+There is no battle recorded.
+There is no battle recorded.
+\rWelcome to the Battle Tower.
+\rWelcome to the Battle Tower.
+\rWould you like to participate in a single battle?
+\rWould you like to participate in a single battle?
+\rDo you want to take the Level 50 challenge, or the Open Level challenge?
+\rDo you want to take the Level 50 challenge, or the Open Level challenge?
+\rSorry, you can't participate. You need three different Pokémon to enter.
+\rSorry, you can't participate. You need three different Pokémon to enter.
+\rThey must be of a different species and hold different items.
+\rThey must be of a different species and hold different items.
+\rCertain exotic species, as well as eggs, are ineligible.
+\rCertain exotic species, as well as eggs, are ineligible.
+\rPlease choose the three Pokémon that will enter.
+\rPlease choose the three Pokémon that will enter.
+\rPlease come this way.
+\rPlease come this way.
+\rCome back another time.
+\rCome back another time.
+\rCongratulations for winning.
+\rCongratulations for winning.
+\rPlease accept these Battle Point(s).
+\rPlease accept these Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\rWould you like to record your last battle?
+\rWould you like to record your last battle?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]The battle was recorded.
+Your results will be recorded.\wtnp[15]
+Your results will be recorded.\wtnp[15]
+\rThanks for playing.
+\rThanks for playing.
+\rWe've been waiting for you. Please come this way.
+\rWe've been waiting for you. Please come this way.
+\rExcuse me, but you didn't save before finishing your challenge last time.
+\rExcuse me, but you didn't save before finishing your challenge last time.
+\rSorry, but your challenge has been canceled.
+\rSorry, but your challenge has been canceled.
+\rWould you like to participate in a double battle?
+\rWould you like to participate in a double battle?
+\rPlease choose the four Pokémon that will enter.
+\rPlease choose the four Pokémon that will enter.
+Level 50
+Level 50
+Open Level
+Open Level
+Cancel
+Cancel
+Yes
+Yes
+No
+No
+Play recorded battle
+Play recorded battle
+Exit
+Exit
+#-------------------------------
+[Map056]
+\v[1]
+\v[1]
+\rThanks for playing. Let me heal your party.
+\rThanks for playing. Let me heal your party.
+\rBattle number \v[1] is next. Are you ready?
+\rBattle number \v[1] is next. Are you ready?
+\rWould you like to save the game and continue later?
+\rWould you like to save the game and continue later?
+Your game has been saved.
+Your game has been saved.
+\rAre you sure you want to quit your challenge?
+\rAre you sure you want to quit your challenge?
+\rWould you like to record your last battle?
+\rWould you like to record your last battle?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]The battle was recorded.
+Go on
+Go on
+Rest
+Rest
+Retire
+Retire
+Record
+Record
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map057]
+Check results for which singles challenge?
+Check results for which singles challenge?
+\PN's Battle Tower Pika Cup Single Battle results:
+\PN's Battle Tower Pika Cup Single Battle results:
+Last win streak: \v[1]\nRecord win streak: \v[2]
+Last win streak: \v[1]\nRecord win streak: \v[2]
+\PN's Battle Tower Fancy Cup Single Battle results:
+\PN's Battle Tower Fancy Cup Single Battle results:
+\PN's Battle Tower Poké Cup Single Battle results:
+\PN's Battle Tower Poké Cup Single Battle results:
+\PN's Battle Tower Little Cup Single Battle results:
+\PN's Battle Tower Little Cup Single Battle results:
+\rHello, and welcome to the Pokémon Center.
+\rHello, and welcome to the Pokémon Center.
+\rWe restore your tired Pokémon to full health.
+\rWe restore your tired Pokémon to full health.
+\rWould you like to rest your Pokémon?
+\rWould you like to rest your Pokémon?
+\rOK, I'll take your Pokémon for a few seconds.
+\rOK, I'll take your Pokémon for a few seconds.
+\rYour Pokémon may be infected by Pokérus.
+\rYour Pokémon may be infected by Pokérus.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rThank you for waiting.
+\rThank you for waiting.
+\rWe've restored your Pokémon to full health.
+\rWe've restored your Pokémon to full health.
+\rWe hope to see you again!
+\rWe hope to see you again!
+\rFirst, you should restore your Pokémon to full health.
+\rFirst, you should restore your Pokémon to full health.
+\rYour Pokémon have been healed to perfect health.
+\rYour Pokémon have been healed to perfect health.
+\rWe hope you excel!
+\rWe hope you excel!
+Check results for which doubles challenge?
+Check results for which doubles challenge?
+\PN's Battle Tower Pika Cup Double Battle results:
+\PN's Battle Tower Pika Cup Double Battle results:
+\PN's Battle Tower Fancy Cup Double Battle results:
+\PN's Battle Tower Fancy Cup Double Battle results:
+\PN's Battle Tower Poké Cup Double Battle results:
+\PN's Battle Tower Poké Cup Double Battle results:
+\PN's Battle Tower Little Cup Double Battle results:
+\PN's Battle Tower Little Cup Double Battle results:
+Which heading would you like to read?
+Which heading would you like to read?
+This facility lets you conduct battles similar to Stadium championships.
+This facility lets you conduct battles similar to Stadium championships.
+This facility holds battles for Pika Cup, Fancy Cup, Poké Cup, and Little Cup. Each cup has its own rules and restrictions.
+This facility holds battles for Pika Cup, Fancy Cup, Poké Cup, and Little Cup. Each cup has its own rules and restrictions.
+The Pika Cup is open to Pokémon level 15 to 20.
+The Pika Cup is open to Pokémon level 15 to 20.
+Choose three Pokémon to enter.\n However, the total level of all three can't be higher than 50.
+Choose three Pokémon to enter.\n However, the total level of all three can't be higher than 50.
+Also, certain exotic kinds of Pokémon may not enter.
+Also, certain exotic kinds of Pokémon may not enter.
+The Fancy Cup is open to baby Pokémon level 25 to 30.
+The Fancy Cup is open to baby Pokémon level 25 to 30.
+Choose three Pokémon to enter.\n However, the total level of all three can't be higher than 80.
+Choose three Pokémon to enter.\n However, the total level of all three can't be higher than 80.
+Also, very huge or very tall Pokémon may not enter the Fancy Cup.
+Also, very huge or very tall Pokémon may not enter the Fancy Cup.
+The height limit is 2 meters, and the weight limit is 20 kilograms for the Fancy Cup.
+The height limit is 2 meters, and the weight limit is 20 kilograms for the Fancy Cup.
+The Poké Cup is open to Pokémon level 50 to 55.
+The Poké Cup is open to Pokémon level 50 to 55.
+Choose three Pokémon to enter.\n However, the total level of all three can't be higher than 155.
+Choose three Pokémon to enter.\n However, the total level of all three can't be higher than 155.
+The Little Cup is open to baby Pokémon at level 5 that are capable of evolving.
+The Little Cup is open to baby Pokémon at level 5 that are capable of evolving.
+Choose three Pokémon to enter a single battle, or four for a double battle.
+Choose three Pokémon to enter a single battle, or four for a double battle.
+Also, in the Little Cup, moves that deal a set amount of damage, like Dragon Rage and SonicBoom, will always miss.
+Also, in the Little Cup, moves that deal a set amount of damage, like Dragon Rage and SonicBoom, will always miss.
+In Stadium Cups, there are several rules to keep in mind.
+In Stadium Cups, there are several rules to keep in mind.
+First, two Pokémon in the same team can't be both asleep or both frozen at the same time.
+First, two Pokémon in the same team can't be both asleep or both frozen at the same time.
+Also, you can't choose two of the same kind of Pokémon, or two Pokémon holding the same item.
+Also, you can't choose two of the same kind of Pokémon, or two Pokémon holding the same item.
+Finally, if a Pokémon uses Selfdestruct or Explosion to make all remaining Pokémon faint at the same time, that Pokémon's trainer loses.
+Finally, if a Pokémon uses Selfdestruct or Explosion to make all remaining Pokémon faint at the same time, that Pokémon's trainer loses.
+There is no battle recorded.
+There is no battle recorded.
+\rWelcome to the Battle Tower's Stadium Cup Division.
+\rWelcome to the Battle Tower's Stadium Cup Division.
+\rWould you like to participate in a single battle?
+\rWould you like to participate in a single battle?
+\rWhich Stadium Cup would you like to enter?
+\rWhich Stadium Cup would you like to enter?
+\rSorry, you can't participate. You need three different Pokémon level 15 to 20 to enter.
+\rSorry, you can't participate. You need three different Pokémon level 15 to 20 to enter.
+\rThey must be of a different species and hold different items.
+\rThey must be of a different species and hold different items.
+\rCertain exotic species, as well as eggs, are ineligible.
+\rCertain exotic species, as well as eggs, are ineligible.
+\rSorry, you can't participate. You need three different Pokémon level 25 to 30 to enter.
+\rSorry, you can't participate. You need three different Pokémon level 25 to 30 to enter.
+\rThey also must be baby Pokémon, and can't be too tall or too heavy.
+\rThey also must be baby Pokémon, and can't be too tall or too heavy.
+\rEggs are ineligible.
+\rEggs are ineligible.
+\rSorry, you can't participate. You need three different Pokémon level 50 to 55 to enter.
+\rSorry, you can't participate. You need three different Pokémon level 50 to 55 to enter.
+\rSorry, you can't participate. You need three different baby Pokémon at level 5 to enter.
+\rSorry, you can't participate. You need three different baby Pokémon at level 5 to enter.
+\rThey also must be baby Pokémon that are capable of evolving.
+\rThey also must be baby Pokémon that are capable of evolving.
+\rPlease choose the three Pokémon that will enter.
+\rPlease choose the three Pokémon that will enter.
+\rPlease come this way.
+\rPlease come this way.
+\rCome back another time.
+\rCome back another time.
+\rCongratulations for winning.
+\rCongratulations for winning.
+\rPlease accept these Battle Point(s).
+\rPlease accept these Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\rWould you like to record your last battle?
+\rWould you like to record your last battle?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]The battle was recorded.
+Your results will be recorded.\wtnp[15]
+Your results will be recorded.\wtnp[15]
+\rThanks for playing.
+\rThanks for playing.
+\rWe've been waiting for you. Please come this way.
+\rWe've been waiting for you. Please come this way.
+\rExcuse me, but you didn't save before finishing your challenge last time.
+\rExcuse me, but you didn't save before finishing your challenge last time.
+\rSorry, but your challenge has been canceled.
+\rSorry, but your challenge has been canceled.
+\rWould you like to participate in a double battle?
+\rWould you like to participate in a double battle?
+\rPlease choose the Pokémon that will enter.
+\rPlease choose the Pokémon that will enter.
+Pika Cup
+Pika Cup
+Fancy Cup
+Fancy Cup
+Poké Cup
+Poké Cup
+Little Cup
+Little Cup
+Cancel
+Cancel
+Yes
+Yes
+No
+No
+Stadium Cup rules
+Stadium Cup rules
+Play recorded battle
+Play recorded battle
+Stadium Cups
+Stadium Cups
+Battle rules
+Battle rules
+Exit
+Exit
+#-------------------------------
+[Map058]
+Check results for which challenge?
+Check results for which challenge?
+\PN's Battle Palace Level 50 Single Battle results:
+\PN's Battle Palace Level 50 Single Battle results:
+Last win streak: \v[1]\nRecord win streak: \v[2]
+Last win streak: \v[1]\nRecord win streak: \v[2]
+\PN's Battle Palace Open Level Single Battle results:
+\PN's Battle Palace Open Level Single Battle results:
+\PN's Battle Palace Level 50 Double Battle results:
+\PN's Battle Palace Level 50 Double Battle results:
+\PN's Battle Palace Open Level Double Battle results:
+\PN's Battle Palace Open Level Double Battle results:
+Which heading do you want to read?
+Which heading do you want to read?
+In the Battle Palace, Pokémon are required to think by themselves.
+In the Battle Palace, Pokémon are required to think by themselves.
+Unlike in the wild, Pokémon that live with people behave differently depending on their nature.
+Unlike in the wild, Pokémon that live with people behave differently depending on their nature.
+Depending on its nature, a Pokémon may prefer to attack no matter what.
+Depending on its nature, a Pokémon may prefer to attack no matter what.
+Another Pokémon may prefer to protect itself from harm.
+Another Pokémon may prefer to protect itself from harm.
+Yet another may enjoy vexing or confounding its foes.
+Yet another may enjoy vexing or confounding its foes.
+A Pokémon's nature determines which moves it is good at using, and which moves it has trouble using.
+A Pokémon's nature determines which moves it is good at using, and which moves it has trouble using.
+There are offensive moves that deal direct damage on the foe.
+There are offensive moves that deal direct damage on the foe.
+There are defensive moves that are used to prepare for enemy attacks or used to heal HP and so on.
+There are defensive moves that are used to prepare for enemy attacks or used to heal HP and so on.
+And there are other somewhat-odd moves that may enfeeble the foe with status problems including poison and paralysis.
+And there are other somewhat-odd moves that may enfeeble the foe with status problems including poison and paralysis.
+Pokémon will consider using moves in these three categories.
+Pokémon will consider using moves in these three categories.
+When not taking commands from its Trainer, a Pokémon may be unable to effectively use certain kinds of moves.
+When not taking commands from its Trainer, a Pokémon may be unable to effectively use certain kinds of moves.
+A Pokémon is not good at using any move that it dislikes.
+A Pokémon is not good at using any move that it dislikes.
+If a Pokémon only knows moves that don't conform to its nature, it will often be unable to live up to its potential.
+If a Pokémon only knows moves that don't conform to its nature, it will often be unable to live up to its potential.
+Depending on its nature, a Pokémon may start using moves that don't match its nature when it is in trouble.
+Depending on its nature, a Pokémon may start using moves that don't match its nature when it is in trouble.
+If a Pokémon begins behaving oddly in a pinch, watch it carefully.
+If a Pokémon begins behaving oddly in a pinch, watch it carefully.
+There is no battle recorded.
+There is no battle recorded.
+\bWelcome to the Battle Palace.
+\bWelcome to the Battle Palace.
+\bWould you like to participate in a single battle?
+\bWould you like to participate in a single battle?
+\bDo you want to take the Level 50 challenge, or the Open Level challenge?
+\bDo you want to take the Level 50 challenge, or the Open Level challenge?
+\bSorry, you can't participate. You need three different Pokémon to enter.
+\bSorry, you can't participate. You need three different Pokémon to enter.
+\bThey must be of a different species and hold different items.
+\bThey must be of a different species and hold different items.
+\bCertain exotic species, as well as eggs, are ineligible.
+\bCertain exotic species, as well as eggs, are ineligible.
+\bPlease choose the three Pokémon that will enter.
+\bPlease choose the three Pokémon that will enter.
+\bPlease come this way.
+\bPlease come this way.
+\bCome back another time.
+\bCome back another time.
+\bCongratulations for winning.
+\bCongratulations for winning.
+\bPlease accept these Battle Point(s).
+\bPlease accept these Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\bWould you like to record your last battle?
+\bWould you like to record your last battle?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]The battle was recorded.
+Your results will be recorded.\wtnp[15]
+Your results will be recorded.\wtnp[15]
+\bThanks for playing.
+\bThanks for playing.
+\bWe've been waiting for you. Please come this way.
+\bWe've been waiting for you. Please come this way.
+\bExcuse me, but you didn't save before finishing your challenge last time.
+\bExcuse me, but you didn't save before finishing your challenge last time.
+\bSorry, but your challenge has been canceled.
+\bSorry, but your challenge has been canceled.
+\bWould you like to participate in a double battle?
+\bWould you like to participate in a double battle?
+\bPlease choose the four Pokémon that will enter.
+\bPlease choose the four Pokémon that will enter.
+Level 50
+Level 50
+Open Level
+Open Level
+Cancel
+Cancel
+Battle Palace rules
+Battle Palace rules
+Play recorded battle
+Play recorded battle
+Battle basics
+Battle basics
+Pokémon nature
+Pokémon nature
+Pokémon moves
+Pokémon moves
+Underpowered
+Underpowered
+When in danger
+When in danger
+Exit
+Exit
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map059]
+\v[1]
+\v[1]
+\bThanks for playing. Let me heal your party.
+\bThanks for playing. Let me heal your party.
+\bBattle number \v[1] is next. Are you ready?
+\bBattle number \v[1] is next. Are you ready?
+\bWould you like to save the game and continue later?
+\bWould you like to save the game and continue later?
+Your game has been saved.
+Your game has been saved.
+\bAre you sure you want to quit your challenge?
+\bAre you sure you want to quit your challenge?
+\bWould you like to record your last battle?
+\bWould you like to record your last battle?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]The battle was recorded.
+Go on
+Go on
+Rest
+Rest
+Retire
+Retire
+Record
+Record
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map060]
+There is no battle recorded.
+There is no battle recorded.
+\bWelcome to the Battle Arena.
+\bWelcome to the Battle Arena.
+\bWould you like to participate in a battle?
+\bWould you like to participate in a battle?
+\bDo you want to take the Level 50 challenge, or the Open Level challenge?
+\bDo you want to take the Level 50 challenge, or the Open Level challenge?
+\bSorry, you can't participate. You need three different Pokémon to enter.
+\bSorry, you can't participate. You need three different Pokémon to enter.
+\bThey must be of a different species and hold different items.
+\bThey must be of a different species and hold different items.
+\bCertain exotic species, as well as eggs, are ineligible.
+\bCertain exotic species, as well as eggs, are ineligible.
+\bPlease choose the three Pokémon that will enter.
+\bPlease choose the three Pokémon that will enter.
+\bPlease come this way.
+\bPlease come this way.
+\bCome back another time.
+\bCome back another time.
+\bCongratulations for winning.
+\bCongratulations for winning.
+\bPlease accept these Battle Point(s).
+\bPlease accept these Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\bWould you like to record your last battle?
+\bWould you like to record your last battle?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]The battle was recorded.
+Your results will be recorded.\wtnp[15]
+Your results will be recorded.\wtnp[15]
+\bThanks for playing.
+\bThanks for playing.
+\bWe've been waiting for you. Please come this way.
+\bWe've been waiting for you. Please come this way.
+\bExcuse me, but you didn't save before finishing your challenge last time.
+\bExcuse me, but you didn't save before finishing your challenge last time.
+\bSorry, but your challenge has been canceled.
+\bSorry, but your challenge has been canceled.
+Check results for which challenge?
+Check results for which challenge?
+\PN's Battle Arena Level 50 results:
+\PN's Battle Arena Level 50 results:
+Last win streak: \v[1]\nRecord win streak: \v[2]
+Last win streak: \v[1]\nRecord win streak: \v[2]
+\PN's Battle Arena Open Level results:
+\PN's Battle Arena Open Level results:
+Play recorded battle
+Play recorded battle
+Exit
+Exit
+Yes
+Yes
+No
+No
+Level 50
+Level 50
+Open Level
+Open Level
+Cancel
+Cancel
+#-------------------------------
+[Map061]
+\v[1]
+\v[1]
+\bThanks for playing. Let me heal your party.
+\bThanks for playing.  Let me heal your party.
+\bBattle number \v[1] is next. Are you ready?
+\bBattle number \v[1] is next. Are you ready?
+\bWould you like to save the game and continue later?
+\bWould you like to save the game and continue later?
+Your game has been saved.
+Your game has been saved.
+\bAre you sure you want to quit your challenge?
+\bAre you sure you want to quit your challenge?
+\bWould you like to record your last battle?
+\bWould you like to record your last battle?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]The battle was recorded.
+Go on
+Go on
+Rest
+Rest
+Retire
+Retire
+Record
+Record
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map062]
+\bWelcome to the Battle Factory.
+\bWelcome to the Battle Factory.
+\bWould you like to participate in a double battle?
+\bWould you like to participate in a double battle?
+\bDo you want to take the Level 50 challenge, or the Open Level challenge?
+\bDo you want to take the Level 50 challenge, or the Open Level challenge?
+\bPlease come this way.
+\bPlease come this way.
+\bCome back another time.
+\bCome back another time.
+\bCongratulations for winning.
+\bCongratulations for winning.
+\bI will take your rental Pokémon back and return your own Pokémon.
+\bI will take your rental Pokémon back and return your own Pokémon.
+\bPlease accept these Battle Point(s).
+\bPlease accept these Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\bWould you like to record your last battle?
+\bWould you like to record your last battle?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]The battle was recorded.
+\bYour results will be recorded.\wtnp[15]
+\bYour results will be recorded.\wtnp[15]
+\bThanks for playing.
+\bThanks for playing.
+\bWe've been waiting for you. Please come this way.
+\bWe've been waiting for you. Please come this way.
+\bExcuse me, but you didn't save before finishing your challenge last time.
+\bExcuse me, but you didn't save before finishing your challenge last time.
+\bSorry, but your challenge has been canceled.
+\bSorry, but your challenge has been canceled.
+Check results for which challenge?
+Check results for which challenge?
+\PN's Battle Factory Level 50 Single Battle results:
+\PN's Battle Factory Level 50 Single Battle results:
+Last win streak: \v[1]\nRecord win streak: \v[2]
+Last win streak: \v[1]\nRecord win streak: \v[2]
+\PN's Battle Factory Open Level Single Battle results:
+\PN's Battle Factory Open Level Single Battle results:
+\PN's Battle Factory Level 50 Double Battle results:
+\PN's Battle Factory Level 50 Double Battle results:
+\PN's Battle Factory Open Level Double Battle results:
+\PN's Battle Factory Open Level Double Battle results:
+Which heading do you want to read?
+Which heading do you want to read?
+In the Battle Factory, you fight using Pokémon provided for you. You must use three Pokémon out of a choice of six.
+In the Battle Factory, you fight using Pokémon provided for you. You must use three Pokémon out of a choice of six.
+Pokémon in later rounds will be stronger than in earlier rounds, both yours and your opponents'.
+Pokémon in later rounds will be stronger than in earlier rounds, both yours and your opponents'.
+When you defeat a Trainer, you may swap one of your Pokémon for one of theirs.
+When you defeat a Trainer, you may swap one of your Pokémon for one of theirs.
+You can't check the details of the Trainer's Pokémon before you choose one to gain in a swap. You will have to remember what it was like from the battle.
+You can't check the details of the Trainer's Pokémon before you choose one to gain in a swap. You will have to remember what it was like from the battle.
+Your team will remain in the same order even after a swap. For example, if you swap away your second Pokémon, the new Pokémon will now be second.
+Your team will remain in the same order even after a swap. For example, if you swap away your second Pokémon, the new Pokémon will now be second.
+There is no battle recorded.
+There is no battle recorded.
+\bWould you like to participate in a single battle?
+\bWould you like to participate in a single battle?
+Yes
+Yes
+No
+No
+Level 50
+Level 50
+Open Level
+Open Level
+Cancel
+Cancel
+Battle Factory rules
+Battle Factory rules
+Play recorded battle
+Play recorded battle
+Basic Rules
+Basic Rules
+Swapping
+Swapping
+Exit
+Exit
+#-------------------------------
+[Map063]
+\bI'll take your party for safekeeping.
+\bI'll take your party for safekeeping.
+\bThen you may choose from our selection of Pokémon.
+\bThen you may choose from our selection of Pokémon.
+\bCome with me.
+\bCome with me.
+\bBattle number \v[1] is next. Are you ready?
+\bBattle number \v[1] is next. Are you ready?
+\bWould you like to swap a Pokémon first?
+\bWould you like to swap a Pokémon first?
+\bOK, the Pokémon swap is complete.
+\bOK, the Pokémon swap is complete.
+\bWould you like to save the game and continue later?
+\bWould you like to save the game and continue later?
+Your game has been saved.
+Your game has been saved.
+\bAre you sure you want to quit your challenge?
+\bAre you sure you want to quit your challenge?
+\bWould you like to record your last battle?
+\bWould you like to record your last battle?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]The battle was recorded.
+Go on
+Go on
+Rest
+Rest
+Retire
+Retire
+Record
+Record
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map064]
+\v[1]
+\v[1]
+#-------------------------------
+[Map065]
+\bThanks for competing.\nLet me heal your party.
+\bThanks for competing.\nLet me heal your party.
+\bBattle number \v[1] is next. Are you ready?
+\bBattle number \v[1] is next. Are you ready?
+\bWould you like to swap a Pokémon first?
+\bWould you like to swap a Pokémon first?
+\bOK, the Pokémon swap is complete.
+\bOK, the Pokémon swap is complete.
+\bCome with me.
+\bCome with me.
+\bWould you like to save the game and continue later?
+\bWould you like to save the game and continue later?
+Your game has been saved.
+Your game has been saved.
+\bAre you sure you want to quit your challenge?
+\bAre you sure you want to quit your challenge?
+\bWould you like to record your last battle?
+\bWould you like to record your last battle?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]The battle was recorded.
+Go on
+Go on
+Rest
+Rest
+Retire
+Retire
+Record
+Record
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map067]
+\bWelcome to the Safari Zone!
+\bWelcome to the Safari Zone!
+\G\bFor just $500, you can play the Safari Game.
+\G\bFor just $500, you can play the Safari Game.
+\G\bYou can roam the wide-open Safari Zone and catch whatever you like.
+\G\bYou can roam the wide-open Safari Zone and catch whatever you like.
+\G\bWould you like to play?
+\G\bWould you like to play?
+\G\bSorry, your PC boxes are full.
+\G\bSorry, your PC boxes are full.
+\G\bOops!\nNot enough money!
+\G\bOops!\nNot enough money!
+\G\bCome again.
+\G\bCome again.
+\G\bThat'll be $500, please!\1
+\G\bThat'll be $500, please!\1
+\G\bWe only use a special kind of Poké Ball here.
+\G\bWe only use a special kind of Poké Ball here.
+\G\PN received 30 Safari Balls from the attendant. \me[Item get]\wtnp[40]
+\G\PN received 30 Safari Balls from the attendant. \me[Item get]\wtnp[40]
+\G\bWe'll call you on the PA when you run out of time or Safari Balls.
+\G\bWe'll call you on the PA when you run out of time or Safari Balls.
+\G\bWell, I'll wish you the best of luck!
+\G\bWell, I'll wish you the best of luck!
+\G\bOkay.\nPlease come again!
+\G\bOkay.\nPlease come again!
+\bAre you going to leave the Safari Zone early?
+\bAre you going to leave the Safari Zone early?
+\bPlease return any Safari Balls you may have left.
+\bPlease return any Safari Balls you may have left.
+\bGood luck!
+\bGood luck!
+\bDid you catch your fair share? Come again!
+\bDid you catch your fair share? Come again!
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map069]
+\rI'm a swimming trainer, just like any other trainer!
+\rI'm a swimming trainer, just like any other trainer!
+\rJust make sure swimming trainers don't try to swim over land to get to the player when they spot them.
+\rJust make sure swimming trainers don't try to swim over land to get to the player when they spot them.
+\bI'm just swimming around in this 5x5 area.
+\bI'm just swimming around in this 5x5 area.
+\bMy custom autonomous movement calls a method which makes me move randomly, but not further than 2 tiles horizontally or vertically from my initial position.
+\bMy custom autonomous movement calls a method which makes me move randomly, but not further than 2 tiles horizontally or vertically from my initial position.
+\bOther scripts that could be called here are move_random_UD(range) for up/down only and move_random_LR(range) for left/right only.
+\bOther scripts that could be called here are move_random_UD(range) for up/down only and move_random_LR(range) for left/right only.
+#-------------------------------
+[Map071]
+\bAhoy, there!\nWhere do you want to sail?
+\bAhoy, there!\nWhere do you want to sail?
+\bThe Tiall Region it is. All aboard!
+\bThe Tiall Region it is. All aboard!
+\bBerth Island it is. All aboard!
+\bBerth Island it is. All aboard!
+\bFaraday Island it is. All aboard!
+\bFaraday Island it is. All aboard!
+\bLet me know if you want to set sail.
+\bLet me know if you want to set sail.
+\bI've already given you an Aurora Ticket. Have you gone to Berth Island yet?
+\bI've already given you an Aurora Ticket. Have you gone to Berth Island yet?
+\bHere, have this Aurora Ticket.
+\bHere, have this Aurora Ticket.
+\bYou can use that to sail to Berth Island.
+\bYou can use that to sail to Berth Island.
+\bOh, you don't have any space in your Bag for it.
+\bOh, you don't have any space in your Bag for it.
+\bI've already given you an Old Sea Map. Have you gone to Faraday Island yet?
+\bI've already given you an Old Sea Map. Have you gone to Faraday Island yet?
+\bHere, have this Old Sea Map.
+\bHere, have this Old Sea Map.
+\bYou can use that to sail to Faraday Island.
+\bYou can use that to sail to Faraday Island.
+Tiall Region
+Tiall Region
+Berth Island
+Berth Island
+Faraday Island
+Faraday Island
+Exit
+Exit
+#-------------------------------
+[Map072]
+Deoxys is reacting to the meteor...
+Deoxys is reacting to the meteor...
+Would you like to bring the Deoxys in your party closer to the meteor?
+Would you like to bring the Deoxys in your party closer to the meteor?
+\v[1] has changed to have superior stats for attacking!
+\v[1] has changed to have superior stats for attacking!
+Left the meteor alone.
+Left the meteor alone.
+It's a vicious-looking rock.
+It's a vicious-looking rock.
+\v[1] has changed to have superior stats when defending!
+\v[1] has changed to have superior stats when defending!
+It's a sturdy-looking rock.
+It's a sturdy-looking rock.
+\v[1] has changed to have increased speed!
+\v[1] has changed to have increased speed!
+It's a smooth-looking rock.
+It's a smooth-looking rock.
+\v[1] has changed to have balanced stats!
+\v[1] has changed to have balanced stats!
+It's a regular-looking rock.
+It's a regular-looking rock.
+Yes
+Yes
+No
+No
+#-------------------------------
+[Map074]
+\bSorry, you can't enter Cycle Road without a Bicycle.
+\bSorry, you can't enter Cycle Road without a Bicycle.
+\bCycling Road is a great ride.
+\bCycling Road is a great ride.
+#-------------------------------
+[Map075]
+\bThis is the Tiall Region.
+\bThis is the Tiall Region.
+\bDo you want to go back to the Essen Region?
+\bDo you want to go back to the Essen Region?
+\bLet me know if you do.
+\bLet me know if you do.
+Yes
+Yes
+No
+No

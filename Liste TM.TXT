@@ -1,0 +1,183 @@
+D’après ta liste, tu as TM01 à TM100, avec notamment TM13 = ICEBEAM, TM24 = THUNDERBOLT, TM26 = EARTHQUAKE, TM35 = FLAMETHROWER, etc.
+
+Je te fais un tri pour un jeu Pokémon classique à 8 badges.
+
+Légende d’importance
+Niveau	Sens
+S	Très forte / à donner tard ou comme grosse récompense
+A	Bonne CT importante, mais pas forcément cassée
+B	Utile, correcte, bien pour milieu de jeu
+C	Situationnelle / fun / pas dangereuse pour l’équilibrage
+1. Début du jeu
+
+Route 1 → Route 2 → avant ou juste après le 1er badge
+
+Ces CT peuvent être données tôt sans casser le jeu.
+
+TM	Move	Importance	Placement conseillé
+----TM10	WORKUP	B	Très tôt, Route 1/2 ou premier dresseur
+----TM09	BULLETSEED	B	Début, surtout si zone Plante
+TM27	LOWSWEEP	B	1er badge ou route juste après
+TM39	ROCKTOMB	B	Récompense de mini-grotte / 1er badge Roche
+----TM88	PLUCK	B	Route avec oiseaux PICORE
+TM46	THIEF	B	Ville ou route de début, bon mais pas abusé
+----TM58	ENDURE	C	Objet caché ou PNJ
+----TM05	ROAR	C	Très tôt, filler utile
+TM12	TAUNT	C/B	Début ou 2e ville
+----TM41	TORMENT	C	Très tôt, objet secondaire
+TM32	DOUBLETEAM	C	Début, mais attention si tu n’aimes pas l’évasion
+TM87	SWAGGER	C	Début/milieu, plutôt PNJ blague
+----TM54	FALSESWIPE	A	Très utile capture, à donner tôt mais pas route 1
+TM93	CUT	Progression	Après 1er badge si tu gardes l’esprit CS
+TM98	ROCKSMASH	Progression	Début/milieu, après 1er ou 2e badge
+TM70	FLASH	Progression/C	Avant une première grotte sombre
+Bon repère
+
+Pour les routes 1-2, évite les grosses attaques 80/90 de puissance.
+Le joueur doit plutôt trouver des CT comme LOWSWEEP, BULLETSEED, ROCKTOMB, THIEF, WORKUP.
+
+2. Début avancé
+
+Après badge 1 → badge 2 / 3
+
+Là tu peux commencer à donner des attaques fiables, mais pas encore les gros lasers.
+
+TM	Move	Importance	Placement conseillé
+TM03	WATERPULSE	B	2e ville, route aquatique légère ou arène Eau
+TM34	SHOCKWAVE	B	Après badge 1/2, bonne CT Électrik faible
+TM40	AERIALACE	B	Récompense d’arène Vol ou route haute
+TM83	BULLDOZE	B	Grotte ou arène Sol début/milieu
+TM28	DIG	B/A	Grotte après badge 2, utile mais pas abusé
+TM42	FACADE	B	Ville normale / Claircour
+TM55	BRINE	B	Route côtière début/milieu
+TM57	CHARGEBEAM	B	Alternative faible à Thunderbolt
+TM66	PAYBACK	B	Route sombre / grotte
+TM78	SNARL	B	Début/milieu, bon contre spéciaux
+TM47	STEELWING	B	Route Vol / pont / zone acier légère
+TM16	LIGHTSCREEN	B	Boutique ou PNJ stratégique
+TM33	REFLECT	B	Avec Light Screen
+TM20	SAFEGUARD	C	PNJ ou boutique
+TM17	PROTECT	A	Début/milieu, mais plutôt boutique chère
+TM44	REST	B	PNJ ou ville calme
+TM82	SLEEPTALK	C/B	À côté de Rest
+TM07	HAIL	C	Zone froide, pas forcément tôt sauf si neige
+TM11	SUNNYDAY	C/B	Zone chaude ou PNJ météo
+TM18	RAINDANCE	C/B	Zone pluie/eau
+TM37	SANDSTORM	C/B	Désert ou canyon
+Claircour
+
+Pour ta ville Claircour, très type Normal / ville pavée propre, je mettrais :
+
+TM42 FACADE
+TM10 WORKUP
+TM54 FALSESWIPE
+TM44 REST
+TM17 PROTECT
+
+Pas toutes en même temps, mais ce sont les plus cohérentes.
+
+3. Milieu de jeu
+
+Badge 3 → badge 4 / 5
+
+Là tu peux donner les CT qui deviennent vraiment intéressantes.
+
+TM	Move	Importance	Placement conseillé
+TM31	BRICKBREAK	A	Arène Combat / dojo / ville moyenne
+TM80	ROCKSLIDE	A	Grotte importante ou montagne
+TM84	POISONJAB	A	Marais, égouts, zone Poison
+TM65	SHADOWCLAW	A	Manoir, cimetière, zone Spectre
+TM72	AVALANCHE	B	Première zone froide
+TM86	GRASSKNOT	B/A	Ville Plante ou route forestière
+TM89	UTURN	A	Très bonne CT, milieu de jeu minimum
+TM43	VOLTSWITCH	A	Comme U-Turn, pas trop tôt
+TM21	DAZZLINGGLEAM	A	Ville rose/fée, Rosaville, arène Fée
+TM19	GIGADRAIN	A	Forêt avancée / arène Plante
+TM49	SCALD	S/A	Très forte à cause de la brûlure, badge 4/5 minimum
+TM60	DRAINPUNCH	A	Dojo / arène Combat, milieu ou milieu tardif
+TM61	WILLOWISP	A	Très fort défensivement, badge 4/5
+TM76	STEALTHROCK	A	Grotte/montagne, pas trop tôt
+TM90	SUBSTITUTE	A	Boutique chère ou récompense stratégique
+TM08	BULKUP	A	Badge Combat ou salle d’entraînement
+TM51	ROOST	A	Très utile, badge 3/4 minimum
+TM73	THUNDERWAVE	A	Bonne utilitaire, badge 3/4
+TM56	FLING	C	Objet secondaire
+TM48	SKILLSWAP	C/B	Ville Psy ou labo
+TM67	RECYCLE	C	PNJ gadget
+TM77	PSYCHUP	C	PNJ stratégique
+4. Milieu tardif
+
+Badge 5 → badge 6
+
+Ici tu peux commencer à donner les bonnes attaques de couverture, mais pas encore tout le trio Ice Beam / Thunderbolt / Flamethrower trop facilement.
+
+TM	Move	Importance	Placement conseillé
+TM53	ENERGYBALL	A/S	Badge 5/6, bonne attaque Plante spéciale
+TM91	FLASHCANNON	A	Zone Acier / usine / ville moderne
+TM79	DARKPULSE	A	Zone Ténèbres / repaire rival
+TM62	BUGBUZZ	A	Zone Insecte avancée
+TM81	XSCISSOR	A	Forêt avancée ou grotte Insecte
+TM59	DRAGONPULSE	A	Tardif, avant zone Dragon
+TM02	DRAGONCLAW	A	Tardif, grotte Dragon/montagne
+TM23	IRONTAIL	B/A	Milieu tardif, pas trop grave car précision moyenne
+TM36	SLUDGEBOMB	S/A	Très bonne CT Poison, badge 5/6
+TM29	PSYCHIC	S/A	Très forte, badge 6 ou plus
+TM30	SHADOWBALL	S/A	Très forte, badge 6 ou plus
+TM04	CALMMIND	A	Badge Psy / ville spirituelle
+TM63	NASTYPLOT	A	Assez fort, badge 5/6
+TM75	SWORDSDANCE	S/A	Très fort, badge 6 minimum
+TM74	GYROBALL	B/A	Zone Acier ou montagne
+TM85	DREAMEATER	C/B	Ville rêve/Psy, plutôt bonus
+TM92	TRICKROOM	A	Très stratégique, badge 6 ou zone Psy
+5. Fin de jeu
+
+Badge 7 → badge 8 → Route Victoire
+
+Là tu places les grosses CT. C’est ici que ton exemple Laser Glace est correct.
+
+TM	Move	Importance	Placement conseillé
+TM13	ICEBEAM	S	Fin de jeu, zone glace, grotte finale ou avant Ligue
+TM24	THUNDERBOLT	S	Fin de jeu ou grosse récompense Électrik
+TM35	FLAMETHROWER	S	Fin de jeu ou arène Feu tardive
+TM26	EARTHQUAKE	S	Très tard, Route Victoire ou donjon final
+TM71	STONEEDGE	S/A	Très tard, montagne finale
+TM06	TOXIC	S/A	Badge 6-8, car très fort en stall
+TM22	SOLARBEAM	A	Tardif, souvent avec Sunny Day
+TM52	FOCUSBLAST	A	Tardif, grosse couverture spéciale
+TM50	OVERHEAT	A	Tardif, arène Feu ou centrale
+TM38	FIREBLAST	A	Tardif ou boutique finale
+TM25	THUNDER	A	Tardif ou boutique finale
+TM14	BLIZZARD	A	Tardif ou boutique finale
+TM01	FOCUSPUNCH	B/A	Tardif, dojo ou récompense cachée
+TM64	EXPLOSION	B/A	Tardif, labo, centrale, postgame
+TM15	HYPERBEAM	B/A	Boutique finale chère
+TM68	GIGAIMPACT	B/A	Boutique finale chère
+Très important
+
+Je mettrais ces CT jamais avant badge 6 :
+
+TM13 ICEBEAM
+TM24 THUNDERBOLT
+TM35 FLAMETHROWER
+TM26 EARTHQUAKE
+TM29 PSYCHIC
+TM30 SHADOWBALL
+TM36 SLUDGEBOMB
+TM71 STONEEDGE
+
+Sauf si tu veux volontairement que le joueur devienne fort tôt.
+
+6. CT de progression / anciennes CS
+
+À placer selon ton level design, pas seulement selon la puissance.
+
+TM	Move	Placement conseillé
+TM93	CUT	Après badge 1
+TM98	ROCKSMASH	Après badge 1 ou 2
+TM70	FLASH	Avant première vraie grotte
+TM97	DEFOG	Avant marais / brouillard / route spéciale
+TM94	FLY	Après badge 3 ou 4
+TM96	STRENGTH	Après badge 4 ou 5
+TM95	SURF	Après badge 5
+TM99	WATERFALL	Après badge 7 ou 8
+TM100	ROCKCLIMB	Très fin de jeu / Route Victoire

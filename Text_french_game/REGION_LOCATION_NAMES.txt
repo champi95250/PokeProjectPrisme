@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[REGION_LOCATION_NAMES]
+Bourg-Prisme
+Bourg-Prisme
+Route 1
+Route 1
+Rosaville
+Rosaville
+Route 2
+Route 2
+Clairecour
+Clairecour

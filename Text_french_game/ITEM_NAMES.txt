@@ -1,0 +1,442 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_NAMES]
+EXP All
+EXP All
+Black Augurite
+Black Augurite
+Peat Block
+Peat Block
+Linking Cord
+Linking Cord
+Adamant Crystal
+Adamant Crystal
+Lustrous Globe
+Lustrous Globe
+Legend Plate
+Legend Plate
+Blank Plate
+Blank Plate
+Hopo Berry
+Hopo Berry
+Griseous Core
+Griseous Core
+Feather Ball
+Feather Ball
+Wing Ball
+Wing Ball
+Jet Ball
+Jet Ball
+Leaden Ball
+Leaden Ball
+Gigaton Ball
+Gigaton Ball
+Origin Ball
+Origin Ball
+Strange Ball
+Strange Ball
+Auspicious Armor
+Auspicious Armor
+Malicious Armor
+Malicious Armor
+Scroll of Darkness
+Scroll of Darkness
+Scroll of Waters
+Scroll of Waters
+Leader's Crest
+Leader's Crest
+Booster Energy
+Booster Energy
+Ability Shield
+Ability Shield
+Clear Amulet
+Clear Amulet
+Mirror Herb
+Mirror Herb
+Punching Glove
+Punching Glove
+Covert Cloak
+Covert Cloak
+Loaded Dice
+Loaded Dice
+Gimmighoul Coin
+Gimmighoul Coin
+Tiny Bamboo Shoot
+Tiny Bamboo Shoot
+Big Bamboo Shoot
+Big Bamboo Shoot
+Rotom Phone
+Rotom Phone
+Scarlet Book
+Scarlet Book
+Violet Book
+Violet Book
+Health Mochi
+Health Mochi
+Muscle Mochi
+Muscle Mochi
+Resist Mochi
+Resist Mochi
+Genius Mochi
+Genius Mochi
+Clever Mochi
+Clever Mochi
+Swift Mochi
+Swift Mochi
+Fresh-Start Mochi
+Fresh-Start Mochi
+Fairy Feather
+Fairy Feather
+Syrupy Apple
+Syrupy Apple
+Unremarkable Teacup
+Unremarkable Teacup
+Masterpiece Teacup
+Masterpiece Teacup
+Wellspring Mask
+Wellspring Mask
+Hearthflame Mask
+Hearthflame Mask
+Cornerstone Mask
+Cornerstone Mask
+Teal Mask
+Teal Mask
+Metal Alloy
+Metal Alloy
+Indigo Disk
+Indigo Disk
+Mythical Pecha Berry
+Mythical Pecha Berry
+Synchro Machine
+Synchro Machine
+Meteorite
+Meteorite
+Briar's Book
+Briar's Book
+Clefablite
+Clefablite
+Victreebelite
+Victreebelite
+Starminite
+Starminite
+Dragoninite
+Dragoninite
+Meganiumite
+Meganiumite
+Feraligite
+Feraligite
+Skarmorite
+Skarmorite
+Froslassite
+Froslassite
+Emboarite
+Emboarite
+Excadrite
+Excadrite
+Scolipite
+Scolipite
+Scraftinite
+Scraftinite
+Eelektrossite
+Eelektrossite
+Chandelurite
+Chandelurite
+Chesnaughtite
+Chesnaughtite
+Delphoxite
+Delphoxite
+Greninjite
+Greninjite
+Pyroarite
+Pyroarite
+Floettite
+Floettite
+Malamarite
+Malamarite
+Barbaracite
+Barbaracite
+Dragalgite
+Dragalgite
+Hawluchanite
+Hawluchanite
+Zygardite
+Zygardite
+Drampanite
+Drampanite
+Falinksite
+Falinksite
+Mega Shard
+Mega Shard
+Red Canari Plush
+Red Canari Plush
+Gold Canari Plush
+Gold Canari Plush
+Pink Canari Plush
+Pink Canari Plush
+Green Canari Plush
+Green Canari Plush
+Blue Canari Plush
+Blue Canari Plush
+Heatranite
+Heatranite
+Darkranite
+Darkranite
+Zeraorite
+Zeraorite
+Raichunite X
+Raichunite X
+Raichunite Y
+Raichunite Y
+Chimechite
+Chimechite
+Absolite Z
+Absolite Z
+Staraptite
+Staraptite
+Garchompite Z
+Garchompite Z
+Lucarionite Z
+Lucarionite Z
+Golurkite
+Golurkite
+Meowsticite
+Meowsticite
+Crabominite
+Crabominite
+Golisopite
+Golisopite
+Magearnite
+Magearnite
+Scovillainite
+Scovillainite
+Baxcalibrite
+Baxcalibrite
+Tatsugirinite
+Tatsugirinite
+Glimmoranite
+Glimmoranite
+Hyper Cheri Berry
+Hyper Cheri Berry
+Hyper Chesto Berry
+Hyper Chesto Berry
+Hyper Pecha Berry
+Hyper Pecha Berry
+Hyper Rawst Berry
+Hyper Rawst Berry
+Hyper Aspear Berry
+Hyper Aspear Berry
+Hyper Oran Berry
+Hyper Oran Berry
+Hyper Persim Berry
+Hyper Persim Berry
+Hyper Lum Berry
+Hyper Lum Berry
+Hyper Sitrus Berry
+Hyper Sitrus Berry
+Hyper Pomeg Berry
+Hyper Pomeg Berry
+Hyper Kelpsy Berry
+Hyper Kelpsy Berry
+Hyper Qualot Berry
+Hyper Qualot Berry
+Hyper Hondew Berry
+Hyper Hondew Berry
+Hyper Grepa Berry
+Hyper Grepa Berry
+Hyper Tamato Berry
+Hyper Tamato Berry
+Hyper Occa Berry
+Hyper Occa Berry
+Hyper Passho Berry
+Hyper Passho Berry
+Hyper Wacan Berry
+Hyper Wacan Berry
+Hyper Rindo Berry
+Hyper Rindo Berry
+Hyper Yache Berry
+Hyper Yache Berry
+Hyper Chople Berry
+Hyper Chople Berry
+Hyper Kebia Berry
+Hyper Kebia Berry
+Hyper Shuca Berry
+Hyper Shuca Berry
+Hyper Coba Berry
+Hyper Coba Berry
+Hyper Payapa Berry
+Hyper Payapa Berry
+Hyper Tanga Berry
+Hyper Tanga Berry
+Hyper Charti Berry
+Hyper Charti Berry
+Hyper Kasib Berry
+Hyper Kasib Berry
+Hyper Haban Berry
+Hyper Haban Berry
+Hyper Colbur Berry
+Hyper Colbur Berry
+Hyper Babiri Berry
+Hyper Babiri Berry
+Hyper Chilan Berry
+Hyper Chilan Berry
+Hyper Roseli Berry
+Hyper Roseli Berry
+Canari Bread
+Canari Bread
+Lumiosian Butter
+Lumiosian Butter
+Nice Butter
+Nice Butter
+Great Butter
+Great Butter
+Amazing Butter
+Amazing Butter
+Supreme Butter
+Supreme Butter
+Hyperspace Butter
+Hyperspace Butter
+Hoennian Salt
+Hoennian Salt
+Épice Noire
+Épice Noire
+Arboliva Oil
+Arboliva Oil
+Dynamax Band
+Dynamax Band
+Wishing Star
+Wishing Star
+Dynamax Candy
+Dynamax Candy
+Dynamax Candy XL
+Dynamax Candy XL
+Max Soup
+Max Soup
+Mark Charm
+Mark Charm
+Raid Bait
+Raid Bait
+Tera Orb
+Tera Orb
+Normal Tera Shard
+Normal Tera Shard
+Fire Tera Shard
+Fire Tera Shard
+Water Tera Shard
+Water Tera Shard
+Electric Tera Shard
+Electric Tera Shard
+Grass Tera Shard
+Grass Tera Shard
+Ice Tera Shard
+Ice Tera Shard
+Fighting Tera Shard
+Fighting Tera Shard
+Poison Tera Shard
+Poison Tera Shard
+Ground Tera Shard
+Ground Tera Shard
+Flying Tera Shard
+Flying Tera Shard
+Psychic Tera Shard
+Psychic Tera Shard
+Bug Tera Shard
+Bug Tera Shard
+Rock Tera Shard
+Rock Tera Shard
+Ghost Tera Shard
+Ghost Tera Shard
+Dragon Tera Shard
+Dragon Tera Shard
+Dark Tera Shard
+Dark Tera Shard
+Steel Tera Shard
+Steel Tera Shard
+Fairy Tera Shard
+Fairy Tera Shard
+Stellar Tera Shard
+Stellar Tera Shard
+Mystery Tera Jewel
+Mystery Tera Jewel
+Master Tera Jewel
+Master Tera Jewel
+Radiant Tera Jewel
+Radiant Tera Jewel
+Glimmering Charm
+Glimmering Charm
+Z-Ring
+Z-Ring
+Z-Power Ring
+Z-Power Ring
+Z-Booster
+Z-Booster
+Normalium Z
+Normalium Z
+Fightinium Z
+Fightinium Z
+Flyinium Z
+Flyinium Z
+Poisonium Z
+Poisonium Z
+Groundium Z
+Groundium Z
+Rockium Z
+Rockium Z
+Buginium Z
+Buginium Z
+Ghostium Z
+Ghostium Z
+Steelium Z
+Steelium Z
+Firium Z
+Firium Z
+Waterium Z
+Waterium Z
+Grassium Z
+Grassium Z
+Electrium Z
+Electrium Z
+Psychium Z
+Psychium Z
+Icium Z
+Icium Z
+Dragonium Z
+Dragonium Z
+Darkinium Z
+Darkinium Z
+Fairium Z
+Fairium Z
+Pikanium Z
+Pikanium Z
+Pikashunium Z
+Pikashunium Z
+Aloraichium Z
+Aloraichium Z
+Eevium Z
+Eevium Z
+Snorlium Z
+Snorlium Z
+Mewnium Z
+Mewnium Z
+Decidium Z
+Decidium Z
+Incinium Z
+Incinium Z
+Primarium Z
+Primarium Z
+Lycanium Z
+Lycanium Z
+Mimikium Z
+Mimikium Z
+Kommonium Z
+Kommonium Z
+Tapunium Z
+Tapunium Z
+Solganium Z
+Solganium Z
+Lunalium Z
+Lunalium Z
+Marshadium Z
+Marshadium Z
+Ultranecrozium Z
+Ultranecrozium Z

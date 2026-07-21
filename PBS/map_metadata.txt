@@ -1,0 +1,120 @@
+﻿# Voir la documentation sur le wiki pour savoir comment éditer ce fichier.
+#-------------------------------
+[001]   # Bourg-Prisme
+Name = Bourg-Prisme
+Outdoor = true
+ShowArea = true
+MapPosition = 0,21,12
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[002]   # Debug
+Name = Debug
+MapPosition = 0,21,12
+#-------------------------------
+[003]   # Intro
+Name = Intro
+MapPosition = 0,21,12
+#-------------------------------
+[004]   # Debug
+Name = Debug
+MapPosition = 0,21,12
+#-------------------------------
+[005]   # Maison Hero
+Name = Maison
+Outdoor = False
+MapPosition = 0,21,12
+#-------------------------------
+[006]   # Maison Hero Etage
+Name = Maison
+Outdoor = False
+MapPosition = 0,21,12
+#-------------------------------
+[009]   # Route 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,20,12
+BattleBack = field
+Environment = TallGrass
+#-------------------------------
+[010]   # Laboratoire
+Name = Laboratoire
+Outdoor = false
+ShowArea = true
+Flags = PowerSpot
+MapPosition = 0,21,12
+#-------------------------------
+[011]   # Maison
+Name = Maison
+Outdoor = False
+MapPosition = 0,21,12
+#-------------------------------
+[012]   # Maison 
+Name = Maison
+Outdoor = False
+MapPosition = 0,21,12
+#-------------------------------
+[013]   # Rosaville
+Name = Rosaville
+Outdoor = true
+ShowArea = true
+HealingSpot = 13,35,20
+MapPosition = 0,19,12
+Environment = Grass
+#-------------------------------
+[014]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+MapPosition = 0,19,11
+BattleBack = field
+Environment = TallGrass
+#-------------------------------
+[015]   # Clairecour
+Name = Claircour
+Outdoor = true
+ShowArea = true
+MapPosition = 0,19,10
+Environment = Grass
+#-------------------------------
+[016]   # CentrePkm
+Name = Centre Pokémon Rosaville
+MapPosition = 0,19,12
+#-------------------------------
+[017]
+MapPosition = 0,19,12
+#-------------------------------
+[018]
+MapPosition = 0,19,12
+#-------------------------------
+[019]   
+MapPosition = 0,19,10
+#-------------------------------
+[020]   
+MapPosition = 0,19,10
+#-------------------------------
+[021]   
+MapPosition = 0,19,10
+#-------------------------------
+[022]   # Arène Normal
+MapPosition = 0,19,10
+Name = Arène
+#-------------------------------
+[023]   
+MapPosition = 0,19,10
+#-------------------------------
+[024]   # Bois des Serments
+Name = Bois des Serments
+Outdoor = true
+MapPosition = 0,19,9
+BattleBack = forest
+Environment = Forest
+#-------------------------------
+[025]   # Route 3
+Name = Route 3
+Outdoor = true
+MapPosition = 0,18,10
+BattleBack = field
+MapSize = 2,11
+Environment = TallGrass

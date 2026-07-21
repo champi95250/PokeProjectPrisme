@@ -1,0 +1,30 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[MAP_NAMES]
+Bourg-en-fleur
+Bourg-en-fleur
+Centre D'entrainement
+Centre D'entrainement
+Boutique
+Boutique
+Maison du héro
+Maison du héro
+Centre d'entrainement
+Centre d'entrainement
+Route 01
+Route 01
+Route 1
+Route 1
+Route 02
+Route 02
+Rosaville
+Rosaville
+Route 2
+Route 2
+Claircour
+Claircour
+Centre Pokémon Rosaville
+Centre Pokémon Rosaville
+Arène
+Arène
