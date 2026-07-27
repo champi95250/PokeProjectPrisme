@@ -106,7 +106,7 @@ module WeatherConfig
   MAPS_POSITIONS = [
     #{"Map Name" => Map ID},
     {"Bourg-Prisme" => 1,"Route 1" => 5,"Rosaville" => 13,"Route 2" => 21},
-    {"Claircour" => 15,"Route 3" => 25},
+    {"Claircour" => 15,"Route 3" => 25,"Caldéon" => 26},
     {"Bois des Serments" => 24}
   ]
 
@@ -134,7 +134,7 @@ module WeatherConfig
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_SUMMER = [
     [65, 12, 3, 0, 0, 0, 0, 20, 0],  # Grande route
-    [68, 10, 2, 0, 0, 0, 0, 20, 0],  # Claircour / Route 3
+    [68, 10, 2, 0, 0, 0, 0, 25, 0],  # Claircour / Route 3
     [55, 5, 0, 0, 0, 0, 0, 10, 30]   # Bois des Serments
   ]
 
@@ -142,7 +142,7 @@ module WeatherConfig
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_AUTUMN = [
     [58, 30, 5, 0, 0, 0, 0, 5, 2], # Grande route
-    [63, 25, 5, 0, 0, 0, 0, 5, 2], # Claircour / Route 3
+    [63, 25, 5, 0, 0, 0, 0, 10, 2], # Claircour / Route 3
     [40, 0, 0, 0, 0, 0, 0, 5, 55]  # Bois des Serments
   ]
 
@@ -150,7 +150,7 @@ module WeatherConfig
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_WINTER = [
     [60, 20, 3, 10, 2, 0, 0, 3, 2],   # Grande route
-    [58, 12, 3, 10, 2, 0, 0, 3, 2],   # Claircour / Route 3
+    [58, 12, 3, 10, 2, 0, 0, 5, 2],   # Claircour / Route 3
     [37, 0, 0, 12, 0, 0, 0, 0, 51]    # Bois des Serments
   ]
 
@@ -158,7 +158,7 @@ module WeatherConfig
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_SPRING = [
     [55, 25, 4, 0, 0, 0, 2, 10, 4],  # Grande route
-    [60, 22, 3, 0, 0, 0, 0, 10, 5],  # Claircour / Route 3
+    [60, 22, 3, 0, 0, 0, 0, 15, 5],  # Claircour / Route 3
     [40, 15, 2, 0, 0, 0, 0, 5, 38]   # Bois des Serments
   ]
 end

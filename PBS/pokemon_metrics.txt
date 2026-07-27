@@ -4747,3 +4747,21 @@ DmaxFrontSprite = 0,0
 ShadowSprite = 0,0,6
 AnimationSpeed = 1
 SuperShinyHue = 130
+#-------------------------------
+[KAMENKI]
+BackSprite = 0,14
+FrontSprite = -5,7
+DmaxBackSprite = 0,0
+DmaxFrontSprite = 0,0
+ShadowSprite = 0,0,0
+AnimationSpeed = 1
+SuperShinyHue = 28
+#-------------------------------
+[KAMENTETSU]
+BackSprite = 0,34
+FrontSprite = 0,18
+DmaxBackSprite = 0,0
+DmaxFrontSprite = 0,0
+ShadowSprite = 0,0,-4
+AnimationSpeed = 1
+SuperShinyHue = 25

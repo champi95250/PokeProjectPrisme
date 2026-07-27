@@ -70,22 +70,22 @@ Pokemon = SKITTY,7
 Pokemon = EEVEE,8
 #------------------------------- ARENE 01 CHAMPION
 [TWINK_S1,Pierrot]
-LoseText = J'était sûr d'être le plus fort !
+LoseText = Alors là ! Tu viens de me voler la vedette !
 Pokemon = EEVEE,9
 	Gender = male
-    Moves = SANDATTACK,QUICKATTACK,BITE,ROAR
+    Moves = SANDATTACK,QUICKATTACK,BITE,SWIFT
     AbilityIndex = 0
 Pokemon = LILLIPUP,9
 	Gender = male
-    Moves = TACKLE,BITE,WORKUP,GROWL
+    Moves = TACKLE,BITE,SWIFT,GROWL
     AbilityIndex = 0
 Pokemon = FRIPICHAT,11
 	Gender = male
-    Moves = FAKEOUT,FEINT,WORKUP,BITE
+    Moves = FAKEOUT,FEINT,SWIFT,BITE
     AbilityIndex = 0
 #------------------------------- BASTIAN VOYAGEUR CLAIRCOUR
 [imp_Bastien,Bastien,1]
-LoseText = 
+LoseText = Mimikyu avait raison ! Tu es fort ! 
 Pokemon = MIMIKYU,10
 	Gender = male
 	IV = 22,26,18,5,21,23
@@ -113,3 +113,65 @@ Pokemon = TEDDIURSA,10
 LoseText = Tu as réussi à rester concentré.
 Pokemon = FLETCHLING,10
 Pokemon = LITLEO,11
+#-------------------------------
+[TWINK,Michel]
+LoseText = He bah !
+Pokemon = LITLEO,12
+Pokemon = HOUNDOUR,12
+#-------------------------------
+[CANONH,Yann]
+LoseText = Je suis en réalité perdu ...
+Pokemon = HOUNDOUR,12
+Pokemon = GROWLITHE,13
+#-------------------------------
+[CANONH,Sacha]
+LoseText = Je crois que je me suis échauffé pour rien !
+Pokemon = PANSEAR,13
+#-------------------------------
+[CANONH,Nino]
+LoseText = Tu as éteint ma flamme en plein élan !
+Pokemon = LITLEO,13
+#-------------------------------
+[CANONH,Glenn]
+LoseText = Même mon sourire a pris un coup de froid !
+Pokemon = PANSEAR,12
+Pokemon = GROWLITHE,12
+#------------------------------- ARENE 01 CHAMPION
+[CHAMPION2,Romain]
+LoseText = Tu viens clairement de faire monter la température !
+Pokemon = CYNDAQUIL,13
+	Gender = male
+    Moves = EMBER,QUICKATTACK,SMOKESCREEN,DEFENSECURL
+    AbilityIndex = 0
+Pokemon = NUMEL,14
+	Gender = male
+    Moves = EMBER,MAGNITUDE,FOCUSENERGY,GROWL
+    AbilityIndex = 0
+Pokemon = GROWLITHE,14
+	Gender = male
+    Moves = EMBER,BITE,LEER,HOWL
+    AbilityIndex = 0
+Pokemon = QUILAVA,15
+	Gender = male
+    Moves = FLAMEWHEEL,QUICKATTACK,SMOKESCREEN,FLAMECHARGE
+    AbilityIndex = 0
+#-------------------------------
+[MONTAGNARD2,Mikael]
+LoseText = Là, j’ai vraiment besoin de me délasser !
+Pokemon = NUMEL,15
+Pokemon = PANCHAM,15
+#-------------------------------
+[MONTAGNARD2,Anthony]
+LoseText = C’est officiellement moi qui me suis fait attraper !
+Pokemon = ROGGENROLA,15
+Pokemon = STUFFUL,16
+#-------------------------------
+[CANONH,Martin]
+LoseText = Je me suis peut-être perdu pendant ce combat.
+Pokemon = VOLTARYX,15
+Pokemon = ROCKRUFF,16
+#-------------------------------
+[MONTAGNARD2,Alban]
+LoseText = Epuisant dit donc !
+Pokemon = ROGGENROLA,15
+Pokemon = STUFFUL,16

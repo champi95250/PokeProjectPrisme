@@ -115,7 +115,53 @@ Environment = Forest
 [025]   # Route 3
 Name = Route 3
 Outdoor = true
-MapPosition = 0,18,10
+MapPosition = 0,17,10
 BattleBack = field
 MapSize = 2,11
 Environment = TallGrass
+#-------------------------------
+[026]   # Caldéon
+Name = Caldéon
+Outdoor = true
+HealingSpot = 26,28,31
+MapPosition = 0,15,10
+BattleBack = field
+MapSize = 2,11
+Environment = Grass
+#-------------------------------
+[027]   # CentrePkm
+Name = CentrePkm
+MapPosition = 0,15,10
+#-------------------------------
+[028]   # Shop
+Name = Shop
+MapPosition = 0,15,10
+#-------------------------------
+[029]   # Arène Feu
+Name = Arène
+MapPosition = 0,15,10
+#-------------------------------
+[030]   # Grotte délasuée
+Name = Grotte Délasuée
+ShowArea = true
+HealingSpot = 25,23,41
+MapPosition = 0,16,11
+DarkMap = true
+MapSize = 2,0110
+#-------------------------------
+[031]   # Grotte délasuée SS1
+Name = Grotte Délasuée
+ShowArea = true
+HealingSpot = 25,23,41
+MapPosition = 0,16,11
+DarkMap = true
+MapSize = 2,0110
+#-------------------------------
+[032]   # Route 4
+Name = Route 4
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,13
+BattleBack = 
+MapSize = 2,11
+Environment = Grass

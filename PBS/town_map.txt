@@ -11,4 +11,7 @@ Point = 19,10,Claircour,,15,25,29,,
 Point = 19,9,Bois des Serments,,,,,,
 Point = 18,10,Route 3,,,,,,
 Point = 17,10,Route 3,Grotte,,,,,
-
+Point = 16,10,Caldéon,Lac,,,,,
+Point = 15,10,Caldéon,,,,,,
+Point = 17,11,Grotte Délasuée,,,,,,
+Point = 16,12,Grotte Délasuée,,,,,,

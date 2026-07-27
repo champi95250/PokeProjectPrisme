@@ -69,4 +69,17 @@ module ARMLocationPreview
       "Une grotte mystérieuse se trouve à son extrémité, mais son accès semble condamné.</ac>"
     )
   }
+
+  Caldéon = {
+    description: _INTL(
+      "<ac>Une Ville thermale baignée de soleil<br>" \
+      "Sa chaleur attire de nombreux Pokémon et abrite l’Arène de type Feu.</ac>"
+    )
+  }
+  GrotteDélasuée = {
+    description: _INTL(
+      "<ac>Une Grotte Chaude baignée d'humidité<br>" \
+      "Sa chaleur et son humidité sont un lieu unique a Prisméa.</ac>"
+    )
+  }
 end

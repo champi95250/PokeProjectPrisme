@@ -1,5 +1,9 @@
 ﻿# Voir la documentation sur le wiki pour savoir comment éditer ce fichier.
 #-------------------------------
+[001] # BourgePrisme
+OldRod,50
+    100,MAGIKARP,4,5
+#-------------------------------
 [009] # Route 1
 Land,21
     20,FLETCHLING,2,4
@@ -67,18 +71,22 @@ LandNight,21
     6,PHANTUMP,7,9
     2,GASTLY,7,9
 LandFog,21
+    15,MYCIFLOW,6,8
     15,MORELULL,6,8
     12,PHANTUMP,7,9
     5,MISDREAVUS,7,9
 LandNightFog,21
+    11,MYCIFLOW,6,8
     15,GASTLY,7,9
     13,PHANTUMP,7,9
     8,MISDREAVUS,7,9
     4,MORELULL,6,8
 PokeRadar,100
     100,SHUPPET,6,9
+OldRod,20
+    100,MAGIKARP,5,8
 #-------------------------------
-[025] # Bois Serment
+[025] # ROUTE 3
 Land,21
     18,FLETCHLING,7,9
     10,MAREEP,9,10
@@ -91,3 +99,88 @@ LandNight,21
     7,MURKROW,7,10
 PokeRadar,100
     100,ROCKRUFF,8,10
+#-------------------------------
+[026] # Caldéon
+Land,21
+    20,SEWADDLE,9,12
+    15,LITLEO,9,12
+    7,SKIDDO,10,12
+LandNight,21
+    20,HOOTHOOT,9,12
+    15,LITLEO,9,12
+    7,SALANDIT,9,12
+OldRod,35
+    70,MAGIKARP,6,9
+    20,LOTAD,8,11
+LandSun,21
+    20,SEWADDLE,9,12
+    15,HELIOPTILE,9,12
+    10,SKIDDO,10,12
+LandNightSun,21
+    20,HOOTHOOT,9,12
+    15,HELIOPTILE,9,12
+    10,SALANDIT,9,12
+PokeRadar,100
+    100,GROWLITHE,10,13
+HeadbuttLow,20
+    40,BURMY,10,12
+    12,COMBEE,10,12
+    5,PINECO,11,13
+HeadbuttHigh,10
+    30,PINECO,11,13
+    12,COMBEE,10,12
+#-------------------------------
+[030] # Grotte Entré 1
+Cave,21
+    25,ROGGENROLA,13,15
+    20,WOOBAT,13,15
+    15,NUMEL,14,16
+    12,WOOPER_1,13,15
+    8,SALANDIT,15,16
+    2,MAGBY,16,16
+#-------------------------------
+[031] # Grotte Entré 1
+Cave,21
+    25,ROGGENROLA,13,15
+    20,WOOBAT,13,15
+    15,NUMEL,14,16
+    12,WOOPER_1,13,15
+    8,SALANDIT,15,16
+    2,MAGBY,16,16
+#-------------------------------
+[032] # Route 4
+Land,21
+    20,BUNEARY,14,16
+    15,VOLTARYX,14,16
+    11,SKIDDO,15,17
+    7,DEERLING,14,17
+    5,CHERUBI,13,15
+LandNight,21
+    20,SPRITZEE,14,16
+    12,DROWZEE,14,16
+    8,NYMBLE,12,14
+OldRod,35
+    44,MAGIKARP,12,15
+    8,SURSKIT,13,15
+LandSun,21
+    17,BUNEARY,12,16
+    15,VOLTARYX,14,16
+    10,CHERUBI,14,16
+    18,SKIDDO,15,17
+    12,DEERLING,14,17
+    7,HELIOPTILE,13,16
+LandNightSun,21
+    20,ILLUMISE,12,15
+    20,VOLBEAT,12,15
+    5,HELIOPTILE,13,16
+    5,DROWZEE,14,16
+PokeRadar,100
+    100,KAMENKI,14,17
+HeadbuttLow,20
+    30,BURMY,12,14
+    24,COMBEE,11,15
+    5,PINECO,13,16
+HeadbuttHigh,10
+    30,PINECO,12,16
+    20,COMBEE,13,15
+    4,BURMY,12,14

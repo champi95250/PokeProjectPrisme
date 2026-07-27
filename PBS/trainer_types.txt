@@ -191,14 +191,50 @@ IntroBGM = trTwink
 BattleBGM = 030 - Battle 01
 VictoryBGM = 031 - Victory 01
 #-------------------------------
-[TWINK_S1]
-Name = Twink
+[ENTRAINEUR]
+Name = Entraineur
 Gender = Male
-BaseMoney = 25
+BaseMoney = 24
 SkillLevel = 100
 IntroBGM = 013 - Meet kid
 BattleBGM = 030 - Battle 01
 VictoryBGM = 031 - Victory 01
+#-------------------------------
+[ENTRAINEUR2]
+Name = Entraineur
+Gender = Male
+BaseMoney = 24
+SkillLevel = 100
+IntroBGM = 013 - Meet kid
+BattleBGM = 030 - Battle 01
+VictoryBGM = 031 - Victory 01
+#-------------------------------
+[MONTAGNARD2]
+Name = Bear
+Gender = Male
+BaseMoney = 24
+SkillLevel = 100
+IntroBGM = 013 - Meet kid
+BattleBGM = 030 - Battle 01
+VictoryBGM = 031 - Victory 01
+#-------------------------------
+[TWINK_S1]
+Name = Champion
+Gender = Male
+BaseMoney = 41
+SkillLevel = 100
+IntroBGM = 012 - Gym Leader Meet
+BattleBGM = 010 - Gym Battle
+VictoryBGM = 011 - Victory Gym Leader
+#-------------------------------
+[CHAMPION2]
+Name = Champion
+Gender = Male
+BaseMoney = 40
+SkillLevel = 100
+IntroBGM = 012 - Gym Leader Meet
+BattleBGM = 010 - Gym Battle
+VictoryBGM = 011 - Victory Gym Leader
 #-------------------------------
 [imp_Bastien]
 Name = AVENTURIER

@@ -5135,6 +5135,28 @@ Flags = Fling_90
 Move = ROCKCLIMB
 Description = A charging attack that may also leave the foe confused.
 #-------------------------------
+[TM101]
+Name = TM101
+NamePlural = TM101s
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_90
+Move = SWIFT
+Description = Le lanceur envoie des rayons en forme d’étoile qui n’échouent jamais.
+#-------------------------------
+[TM102]
+Name = TM102
+NamePlural = TM102s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_90
+Move = FLAMECHARGE
+Description = Le lanceur s'entoure de flammes pour attaquer. Cela augmente aussi sa Vitesse.
+#-------------------------------
 [HM01]
 Name = HM01
 NamePlural = HM01s
