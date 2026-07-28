@@ -162,6 +162,26 @@ Name = Route 4
 Outdoor = true
 ShowArea = true
 MapPosition = 0,15,13
-BattleBack = 
 MapSize = 2,11
 Environment = Grass
+#-------------------------------
+[033]   # Relais Amiral
+Name = Relais Amiral
+Outdoor = true
+ShowArea = true
+HealingSpot = 33,33,17
+MapPosition = 0,14,13
+#-------------------------------
+[034]   # House
+Name = Maison
+MapPosition = 0,15,10
+#-------------------------------
+[035]   # Relais
+Name = Relais
+MapPosition = 0,14,13
+#-------------------------------
+[036]   # Jardin Relais
+Name = Jardin Relais
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,13

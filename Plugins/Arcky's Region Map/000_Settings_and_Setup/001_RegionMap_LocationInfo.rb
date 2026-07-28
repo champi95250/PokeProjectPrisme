@@ -76,16 +76,26 @@ module ARMLocationPreview
       "Sa chaleur attire de nombreux Pokémon et abrite l’Arène de type Feu.</ac>"
     )
   }
+
   GrotteDélasuée = {
     description: _INTL(
       "<ac>Une Grotte Chaude baignée d'humidité<br>" \
       "Sa chaleur et son humidité sont un lieu unique a Prisméa.</ac>"
     )
   }
+
   Route4 = {
     description: _INTL(
-      "<ac>Route verdoyante où il fait chaud<br>" \
-      "Sa chaleur sont un lieu où il font bon de se balader.</ac>"
+      "<ac><b>Une route verdoyante baignée de chaleur.</b><br>" \
+      "Son climat agréable en fait un lieu idéal pour se promener.</ac>"
     )
   }
+
+  RelaisAmiral = {
+    description: _INTL(
+      "<ac><b>Un relais chaleureux accueillant les voyageurs.</b><br>" \
+      "Les Dresseurs peuvent y confier leurs Pokémon en toute tranquillité.</ac>"
+    )
+  }
+  
 end

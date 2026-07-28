@@ -184,3 +184,37 @@ HeadbuttHigh,10
     30,PINECO,12,16
     20,COMBEE,13,15
     4,BURMY,12,14
+#-------------------------------
+[033] # Relais
+Land,21
+    20,ZIGZAGOON,15,17
+    12,RATTATA,15,17
+    12,WOOLOO,15,18
+    7,TANDEMAUS,14,18
+    5,CHERUBI,14,17
+LandNight,21
+    20,ZIGZAGOON_1,15,17
+    12,RATTATA_1,15,17
+    9,NYMBLE,12,14
+PokeRadar,100
+    100,MASCHIFF,15,18
+#-------------------------------
+[036] # Relais
+Land,21
+    20,ZIGZAGOON,15,17
+    12,BUDEW,15,17
+    12,BUNEARY,15,18
+    7,LUXIO,15,18
+    5,CHERUBI,14,17
+LandNight,21
+    20,ZIGZAGOON_1,15,17
+    12,YUNGOOS,15,17
+    9,NYMBLE,13,15
+PokeRadar,100
+    100,MASCHIFF,15,18
+HeadbuttLow,20
+    30,SCATTERBUG,5,8
+    5,SKWOVET,15,18
+HeadbuttHigh,10
+    30,SCATTERBUG,5,8
+    12,SKWOVET,15,18

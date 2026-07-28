@@ -196,3 +196,13 @@ Pokemon = MIMIKYU,17
 	IV = 26,29,26,20,26,27
     EV = 0,110,0,0,2,110
     Moves = SHADOWSNEAK,SHADOWCLAW,HONECLAWS,BABYDOLLEYES
+#-------------------------------
+[MONTAGNARD2,Kriss]
+LoseText = Tu m'as découpé ! 
+Pokemon = GEODUDE,16
+Pokemon = ROLYCOLY,17
+#-------------------------------
+[MONTAGNARD2,Prolls]
+LoseText = Me voilà complètement émietté
+Pokemon = GEODUDE,16
+Pokemon = ROLYCOLY,17

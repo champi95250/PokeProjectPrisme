@@ -17,3 +17,5 @@ Point = 17,11,Grotte Délasuée,,,,,,
 Point = 16,12,Grotte Délasuée,,,,,,
 Point = 16,13,Route 4,,,,,,
 Point = 15,13,Route 4,,,,,,
+Point = 14,13,Relais Amiral,,33,33,17,,
+

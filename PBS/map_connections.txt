@@ -1,26 +1,30 @@
 ﻿# Voir la documentation sur le wiki pour savoir comment éditer ce fichier.
 #-------------------------------
+# Bourg-Prisme (1) - Route 1 (9)
+1,West,0,9,East,0
+# Route 2 (14) - Bourg-Prisme (1)
+14,South,126,1,North,0
 # Route001 (8) - Maison Hero Etage (6)
 8,East,0,6,West,28
 # Map Entrainement (7) - Route001 (8)
 7,East,0,8,West,0
+# Route 1 (9) - Rosaville (13)
+9,West,0,13,East,0
+# Route 2 (14) - Route 1 (9)
+14,South,63,9,North,0
 # Rosaville (13) - Route 3 (25)
 13,West,0,25,East,118
+# Route 2 (14) - Rosaville (13)
+14,South,0,13,North,0
 # Route 2 (14) - Route 3 (25)
 14,West,0,25,East,59
+# Clairecour (15) - Route 2 (14)
+15,South,0,14,North,0
 # Clairecour (15) - Route 3 (25)
 15,West,0,25,East,0
 # Caldéon (26) - Route 3 (25)
 26,East,0,25,West,0
-# Route 1 (9) - Rosaville (13)
-9,West,0,13,East,0
-# Route 2 (14) - Rosaville (13)
-14,South,0,13,North,0
-# Bourg-Prisme (1) - Route 1 (9)
-1,West,0,9,East,0
-# Route 2 (14) - Route 1 (9)
-14,South,63,9,North,0
-# Route 2 (14) - Bourg-Prisme (1)
-14,South,126,1,North,0
-# Clairecour (15) - Route 2 (14)
-15,South,0,14,North,0
+# Route 4 (32) - Relais Amiral (33)
+32,West,19,33,East,0
+# Jardin Relais (36) - Relais Amiral (33)
+36,South,0,33,North,1
