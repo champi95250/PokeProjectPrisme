@@ -199,10 +199,16 @@ Pokemon = MIMIKYU,17
 #-------------------------------
 [MONTAGNARD2,Kriss]
 LoseText = Tu m'as découpé ! 
-Pokemon = GEODUDE,16
-Pokemon = ROLYCOLY,17
+Pokemon = ROGGENROLA,16
+Pokemon = NUMEL,17
 #-------------------------------
 [MONTAGNARD2,Prolls]
 LoseText = Me voilà complètement émietté
-Pokemon = GEODUDE,16
-Pokemon = ROLYCOLY,17
+Pokemon = ROGGENROLA,16
+Pokemon = SANDILE,17
+#-------------------------------
+[BIRDKEEPER2,Guy]
+LoseText = Je prend mon billet pour avoir ta force !
+Pokemon = NICKIT,16
+Pokemon = DODUO,16
+Pokemon = VIVILLON_18,17

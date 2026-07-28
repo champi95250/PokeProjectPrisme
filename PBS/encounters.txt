@@ -218,3 +218,6 @@ HeadbuttLow,20
 HeadbuttHigh,10
     30,SCATTERBUG,5,8
     12,SKWOVET,15,18
+OldRod,35
+    44,MAGIKARP,14,16
+    8,SURSKIT,14,16

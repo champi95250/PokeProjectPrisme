@@ -218,6 +218,15 @@ IntroBGM = 013 - Meet kid
 BattleBGM = 030 - Battle 01
 VictoryBGM = 031 - Victory 01
 #-------------------------------
+[BIRDKEEPER2]
+Name = Chaser
+Gender = Male
+BaseMoney = 24
+SkillLevel = 100
+IntroBGM = 013 - Meet kid
+BattleBGM = 030 - Battle 01
+VictoryBGM = 031 - Victory 01
+#-------------------------------
 [TWINK_S1]
 Name = Champion
 Gender = Male
