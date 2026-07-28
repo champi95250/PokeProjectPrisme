@@ -13,12 +13,12 @@ module WeatherConfig
   USE_REAL_TIME = true		# Default: true
 
   # Set to true to have the weather change at midnight.
-  CHANGE_MIDNIGHT = true	# Default: true
+  CHANGE_MIDNIGHT = false	# Default: true
 
   # Define the min and max amount of time (in hours) before the weather changes.
   # Set the same number to not randomize the amount of time before the weather changes.
   CHANGE_TIME_MIN = 1		# Default: 1
-  CHANGE_TIME_MAX = 4		# Default: 4
+  CHANGE_TIME_MAX = 3		# Default: 4
 
   # Set to true to if you want to force the weather to change when interacting with certain events.
   # Use pbForceUpdateWeather in an event to update all zone weathers.
@@ -65,7 +65,8 @@ module WeatherConfig
   WEATHER_SUBSTITUTE = [
 	{:None => :None, :Rain => :Rain, :Storm => :Storm, :Snow => :Rain, :Blizzard => :Storm, :Sandstorm => :None, :HeavyRain => :HeavyRain, :Sun => :Sun, :Fog => :Fog},
 	{:Snow => :Rain, :Snow => :Rain, :Blizzard => :Storm, :Sandstorm => :None},
-	{:Snow => :Rain, :Snow => :Rain, :Blizzard => :HeavyRain, :Sandstorm => :None, :Fog => :Fog}
+	{:Snow => :Rain, :Snow => :Rain, :Blizzard => :HeavyRain, :Sandstorm => :None, :Fog => :Fog},
+  {:None => :None, :Rain => :Rain, :Storm => :Storm, :Snow => :Rain, :Blizzard => :Storm, :Sandstorm => :None, :HeavyRain => :HeavyRain, :Sun => :Sun, :Fog => :Fog},
   ]
 
 #===============================================================================
@@ -95,7 +96,8 @@ module WeatherConfig
   ZONE_MAPS = [
     [1, 9, 13, 14], # La grand route 
     [15,25], # La route falaise
-    [24] # bois serment
+    [24], # bois serment
+    [32]
   ]
 #===============================================================================
 # * Map Display
@@ -107,7 +109,8 @@ module WeatherConfig
     #{"Map Name" => Map ID},
     {"Bourg-Prisme" => 1,"Route 1" => 5,"Rosaville" => 13,"Route 2" => 21},
     {"Claircour" => 15,"Route 3" => 25,"Caldéon" => 26},
-    {"Bois des Serments" => 24}
+    {"Bois des Serments" => 24},
+    {"Route 4" => 32}
   ]
 
   # A hash for the plugin to display the proper weather image on the map.
@@ -135,7 +138,8 @@ module WeatherConfig
   ZONE_WEATHER_SUMMER = [
     [65, 12, 3, 0, 0, 0, 0, 20, 0],  # Grande route
     [68, 10, 2, 0, 0, 0, 0, 25, 0],  # Claircour / Route 3
-    [55, 5, 0, 0, 0, 0, 0, 10, 30]   # Bois des Serments
+    [55, 5, 0, 0, 0, 0, 0, 10, 30],  # Bois des Serments
+    [50, 7, 3, 0, 0, 0, 0, 40, 0]   # Route 4 
   ]
 
   # Probability of weather in autumn.
@@ -143,7 +147,8 @@ module WeatherConfig
   ZONE_WEATHER_AUTUMN = [
     [58, 30, 5, 0, 0, 0, 0, 5, 2], # Grande route
     [63, 25, 5, 0, 0, 0, 0, 10, 2], # Claircour / Route 3
-    [40, 0, 0, 0, 0, 0, 0, 5, 55]  # Bois des Serments
+    [40, 0, 0, 0, 0, 0, 0, 5, 55],  # Bois des Serments
+    [58, 9, 3, 0, 0, 0, 0, 30, 0]   # Route 4 
   ]
 
   # Probability of weather in winter.
@@ -151,7 +156,8 @@ module WeatherConfig
   ZONE_WEATHER_WINTER = [
     [60, 20, 3, 10, 2, 0, 0, 3, 2],   # Grande route
     [58, 12, 3, 10, 2, 0, 0, 5, 2],   # Claircour / Route 3
-    [37, 0, 0, 12, 0, 0, 0, 0, 51]    # Bois des Serments
+    [37, 0, 0, 12, 0, 0, 0, 0, 51],  # Bois des Serments
+    [50, 20, 5, 5, 0, 0, 0, 20, 0]   # Route 4 
   ]
 
   # Probability of weather in spring.
@@ -159,6 +165,7 @@ module WeatherConfig
   ZONE_WEATHER_SPRING = [
     [55, 25, 4, 0, 0, 0, 2, 10, 4],  # Grande route
     [60, 22, 3, 0, 0, 0, 0, 15, 5],  # Claircour / Route 3
-    [40, 15, 2, 0, 0, 0, 0, 5, 38]   # Bois des Serments
+    [40, 15, 2, 0, 0, 0, 0, 5, 38],  # Bois des Serments
+    [55, 15, 5, 0, 0, 0, 0, 25, 0]   # Route 4 
   ]
 end

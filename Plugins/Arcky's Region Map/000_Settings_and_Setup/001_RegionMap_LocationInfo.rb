@@ -82,4 +82,10 @@ module ARMLocationPreview
       "Sa chaleur et son humidité sont un lieu unique a Prisméa.</ac>"
     )
   }
+  Route4 = {
+    description: _INTL(
+      "<ac>Route verdoyante où il fait chaud<br>" \
+      "Sa chaleur sont un lieu où il font bon de se balader.</ac>"
+    )
+  }
 end

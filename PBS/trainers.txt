@@ -175,3 +175,24 @@ Pokemon = ROCKRUFF,16
 LoseText = Epuisant dit donc !
 Pokemon = ROGGENROLA,15
 Pokemon = STUFFUL,16
+#-------------------------------
+[MONTAGNARD2,Pierre]
+LoseText = Il est temps de faire une pause!
+Pokemon = GEODUDE,16
+Pokemon = ROLYCOLY,17
+#------------------------------- BASTIAN VOYAGEUR CLAIRCOUR 
+#--EV=:HP:ATTACK:DEFENSE:SPECIAL_ATTACK:SPECIAL_DEFENSE:SPEED
+[imp_Bastien,Bastien,2]
+LoseText = Mimikyu avait raison ! Tu es fort ! 
+Pokemon = EEVEE,15
+    Gender = male
+    Item = SILKSCARF
+    IV = 30,26,18,11,25,27
+    EV = 50,30,40,0,40,10
+    Moves = QUICKATTACK,BITE,BABYDOLLEYES,SANDATTACK
+Pokemon = MIMIKYU,17
+	Gender = male
+	Item = ORANBERRY
+	IV = 26,29,26,20,26,27
+    EV = 0,110,0,0,2,110
+    Moves = SHADOWSNEAK,SHADOWCLAW,HONECLAWS,BABYDOLLEYES

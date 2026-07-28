@@ -18,7 +18,7 @@ TM	Move	Importance	Placement conseillé
 ----TM10	WORKUP	B	Très tôt, Route 1/2 ou premier dresseur
 ----TM09	BULLETSEED	B	Début, surtout si zone Plante
 TM27	LOWSWEEP	B	1er badge ou route juste après
-TM39	ROCKTOMB	B	Récompense de mini-grotte / 1er badge Roche
+----TM39	ROCKTOMB	B	Récompense de mini-grotte / 1er badge Roche
 ----TM88	PLUCK	B	Route avec oiseaux PICORE
 TM46	THIEF	B	Ville ou route de début, bon mais pas abusé
 ----TM58	ENDURE	C	Objet caché ou PNJ
@@ -44,7 +44,7 @@ Là tu peux commencer à donner des attaques fiables, mais pas encore les gros l
 
 TM	Move	Importance	Placement conseillé
 TM03	WATERPULSE	B	2e ville, route aquatique légère ou arène Eau
-TM34	SHOCKWAVE	B	Après badge 1/2, bonne CT Électrik faible
+----TM34	SHOCKWAVE	B	Après badge 1/2, bonne CT Électrik faible
 TM40	AERIALACE	B	Récompense d’arène Vol ou route haute
 TM83	BULLDOZE	B	Grotte ou arène Sol début/milieu
 TM28	DIG	B/A	Grotte après badge 2, utile mais pas abusé
