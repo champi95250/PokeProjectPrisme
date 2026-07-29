@@ -28,3 +28,7 @@
 32,West,19,33,East,0
 # Jardin Relais (36) - Relais Amiral (33)
 36,South,0,33,North,1
+# Route 5 (37) - Relais Amiral (33)
+37,North,0,33,South,12
+# MAP038 (38) - Route 5 (37)
+38,North,1,37,South,0

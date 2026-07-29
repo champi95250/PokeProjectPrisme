@@ -185,3 +185,16 @@ Name = Jardin Relais
 Outdoor = true
 ShowArea = true
 MapPosition = 0,14,13
+#-------------------------------
+[037]   # Route 5
+Name = Route 5
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,14
+#-------------------------------
+[038]   # MAP038
+Name = Ville Soleil
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,15
+MapSize = 1,11
