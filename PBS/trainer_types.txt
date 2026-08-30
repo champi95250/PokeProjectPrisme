@@ -70,45 +70,45 @@ Name = Gamin
 Gender = Male
 BaseMoney = 15
 SkillLevel = 10
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [GAMIN3]
 Name = Gamin
 Gender = Male
 BaseMoney = 15
 SkillLevel = 10
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [FILETTE]
 Name = Filette
 Gender = Female
 BaseMoney = 22
 SkillLevel = 20
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [CAMPER]
 Name = Camper
 Gender = Male
 BaseMoney = 24
 SkillLevel = 18
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [SCOUT]
 Name = Scout
 Gender = Male
 BaseMoney = 21
 SkillLevel = 10
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [DRESSEUSE01]
 Name = Dresseuse
@@ -116,140 +116,140 @@ Gender = Female
 BaseMoney = 22
 SkillLevel = 50
 IntroBGM = 017 - Mett Super Dresseur
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [ENTRAINEUSE]
 Name = Entraineuse
 Gender = Female
 BaseMoney = 24
 SkillLevel = 100
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [MONTAGNARD]
 Name = Montagnard
 Gender = Male
 BaseMoney = 28
 SkillLevel = 21
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [POKEFAN]
 Name = Pokefan
 Gender = Male
 BaseMoney = 28
 SkillLevel = 21
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [LADY1]
 Name = Canon
 Gender = Female
 BaseMoney = 24
 SkillLevel = 100
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [CANONH]
 Name = Canon
 Gender = Male
 BaseMoney = 26
 SkillLevel = 100
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [INTELLO]
 Name = Intello
 Gender = Female
 BaseMoney = 24
 SkillLevel = 100
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [JARDINIERE]
 Name = Jardinière
 Gender = Female
 BaseMoney = 24
 SkillLevel = 100
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [TWINK]
 Name = Twink
 Gender = Male
 BaseMoney = 23
 SkillLevel = 100
-IntroBGM = trTwink
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [ENTRAINEUR]
 Name = Entraineur
 Gender = Male
 BaseMoney = 24
 SkillLevel = 100
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [ENTRAINEUR2]
 Name = Entraineur
 Gender = Male
 BaseMoney = 24
 SkillLevel = 100
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [MONTAGNARD2]
 Name = Bear
 Gender = Male
 BaseMoney = 24
 SkillLevel = 100
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [BIRDKEEPER2]
 Name = Chaser
 Gender = Male
 BaseMoney = 24
 SkillLevel = 100
-IntroBGM = 013 - Meet kid
-BattleBGM = 030 - Battle 01
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
 [TWINK_S1]
 Name = Champion
 Gender = Male
-BaseMoney = 41
+BaseMoney = 42
 SkillLevel = 100
-IntroBGM = 012 - Gym Leader Meet
-BattleBGM = 010 - Gym Battle
-VictoryBGM = 011 - Victory Gym Leader
+IntroBGM = 016 - Eye Trainer Gym Leader
+BattleBGM = 018 - Gym Leader Battle
+VictoryBGM = 017 - Victory Gym Leader
 #-------------------------------
 [CHAMPION2]
 Name = Champion
 Gender = Male
-BaseMoney = 40
+BaseMoney = 44
 SkillLevel = 100
-IntroBGM = 012 - Gym Leader Meet
-BattleBGM = 010 - Gym Battle
-VictoryBGM = 011 - Victory Gym Leader
+IntroBGM = 016 - Eye Trainer Gym Leader
+BattleBGM = 018 - Gym Leader Battle
+VictoryBGM = 017 - Victory Gym Leader
 #-------------------------------
 [imp_Bastien]
 Name = AVENTURIER
 Gender = Male
 BaseMoney = 30
 SkillLevel = 100
-IntroBGM = 013 - Meet kid
-BattleBGM = BastianTheme
-VictoryBGM = 031 - Victory 01
+IntroBGM = 019 - Eyes Young
+BattleBGM = 020 - Bastien Theme
+VictoryBGM = 008 - Victory! Trainer Battle

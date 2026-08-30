@@ -107,7 +107,7 @@ module WeatherConfig
   # In Map ID you have to put the ID of the map the name corresponds to, like in ZONE_MAPS.
   MAPS_POSITIONS = [
     #{"Map Name" => Map ID},
-    {"Bourg-Prisme" => 1,"Route 1" => 5,"Rosaville" => 13,"Route 2" => 21},
+    {"Bourg-Prisme" => 1,"Route 1" => 9,"Rosaville" => 13,"Route 2" => 14},
     {"Claircour" => 15,"Route 3" => 25,"Caldéon" => 26},
     {"Bois des Serments" => 24},
     {"Route 4" => 32}
@@ -137,35 +137,36 @@ module WeatherConfig
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_SUMMER = [
     [65, 12, 3, 0, 0, 0, 0, 20, 0],  # Grande route
-    [68, 10, 2, 0, 0, 0, 0, 25, 0],  # Claircour / Route 3
-    [55, 5, 0, 0, 0, 0, 0, 10, 30],  # Bois des Serments
+    [63, 10, 2, 0, 0, 0, 0, 25, 0],  # Claircour / Route 3
+    [55, 15, 0, 0, 0, 0, 0, 0, 30],  # Bois des Serments
     [50, 7, 3, 0, 0, 0, 0, 40, 0]   # Route 4 
   ]
 
   # Probability of weather in autumn.
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_AUTUMN = [
-    [58, 30, 5, 0, 0, 0, 0, 5, 2], # Grande route
+    [58, 28, 9, 0, 0, 0, 0, 3, 2], # Grande route
     [63, 25, 5, 0, 0, 0, 0, 10, 2], # Claircour / Route 3
-    [40, 0, 0, 0, 0, 0, 0, 5, 55],  # Bois des Serments
+    [45, 10, 0, 0, 0, 0, 0, 0, 45],  # Bois des Serments
     [58, 9, 3, 0, 0, 0, 0, 30, 0]   # Route 4 
   ]
 
   # Probability of weather in winter.
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_WINTER = [
-    [60, 20, 3, 10, 2, 0, 0, 3, 2],   # Grande route
-    [58, 12, 3, 10, 2, 0, 0, 5, 2],   # Claircour / Route 3
-    [37, 0, 0, 12, 0, 0, 0, 0, 51],  # Bois des Serments
+    #N , Ra,St, Sn, B, S,HR, S, F
+    [50, 26, 15, 0, 0, 0, 0, 2, 7],   # Grande route
+    [60, 20, 14, 0, 0, 0, 0, 4, 2],   # Claircour / Route 3
+    [35, 15, 0, 12, 0, 0, 0, 0, 50],  # Bois des Serments
     [50, 20, 5, 5, 0, 0, 0, 20, 0]   # Route 4 
   ]
 
   # Probability of weather in spring.
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_SPRING = [
-    [55, 25, 4, 0, 0, 0, 2, 10, 4],  # Grande route
+    [60, 20, 4, 0, 0, 0, 0, 11, 5],  # Grande route
     [60, 22, 3, 0, 0, 0, 0, 15, 5],  # Claircour / Route 3
-    [40, 15, 2, 0, 0, 0, 0, 5, 38],  # Bois des Serments
+    [40, 15, 0, 0, 0, 0, 0, 0, 35],  # Bois des Serments
     [55, 15, 5, 0, 0, 0, 0, 25, 0]   # Route 4 
   ]
 end

@@ -18,7 +18,7 @@ module Settings
   RAID_GRAPHICS_PATH = "Graphics/Plugins/Raid Battles/"
   
   #-----------------------------------------------------------------------------
-  # Pastebin URL for online raid distributions. Enter your URL in the string.
+  # Pastebin URL for online raid distributions. Enter your URL as a string.
   #-----------------------------------------------------------------------------
   LIVE_RAID_EVENT_URL = ""
   

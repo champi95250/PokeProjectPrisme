@@ -18,4 +18,7 @@ Point = 16,12,Grotte Délasuée,,,,,,
 Point = 16,13,Route 4,,,,,,
 Point = 15,13,Route 4,,,,,,
 Point = 14,13,Relais Amiral,,33,33,17,,
+Point = 14,14,Route 5,,,,,,
+Point = 14,15,Belécume,Port,38,38,36,,
+Point = 14,16,Belécume,Arène Eau,38,38,36,,
 

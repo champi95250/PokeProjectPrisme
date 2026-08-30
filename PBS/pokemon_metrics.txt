@@ -4765,3 +4765,19 @@ DmaxFrontSprite = 0,0
 ShadowSprite = 0,0,-4
 AnimationSpeed = 1
 SuperShinyHue = 25
+#-------------------------------
+[BOUDEAU]
+BackSprite = -1,15
+FrontSprite = -3,0
+DmaxBackSprite = 0,0
+DmaxFrontSprite = 0,0
+ShadowSprite = 0,0,11
+SuperShinyHue = 235
+#-------------------------------
+[BOUDEGARDE]
+BackSprite = 0,42
+FrontSprite = 0,19
+DmaxBackSprite = 0,0
+DmaxFrontSprite = 0,0
+ShadowSprite = 0,0,-1
+SuperShinyHue = 235

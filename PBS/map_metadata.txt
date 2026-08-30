@@ -192,9 +192,10 @@ Outdoor = true
 ShowArea = true
 MapPosition = 0,14,14
 #-------------------------------
-[038]   # MAP038
-Name = Ville Soleil
+[038]   # Belécume
+Name = Bélécume
 Outdoor = true
 ShowArea = true
+HealingSpot = 38,38,36
 MapPosition = 0,14,15
 MapSize = 1,11

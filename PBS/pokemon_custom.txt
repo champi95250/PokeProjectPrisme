@@ -239,3 +239,57 @@ Habitat = Forest
 Category = Éventail
 Pokedex = Il canalise les âmes égarées dans ses éventails d'acier. Ses mouvements ressemblent à une danse, mais chaque rotation dissimule une attaque fulgurante.
 RaidRanks = 3,4
+#-------------------------------
+#===============================================================================
+[BOUDEAU]
+Name = Boudeau
+Types = WATER,GHOST
+BaseStats = 85,40,40,65,70,48
+GenderRatio = Female50Percent
+GrowthRate = Fluctuating
+BaseExp = 70
+EVs = HP,1
+CatchRate = 125
+Happiness = 50
+Abilities = WATERABSORB,AFTERMATH
+HiddenAbilities = UNBURDEN
+Moves = 1,ASTONISH,1,MINIMIZE,4,WATERGUN,8,GROWL,12,GUST,16,BUBBLEBEAM,20,HEX,24,AQUARING,27,STOCKPILE,27,SWALLOW,27,SPITUP,32,OMINOUSWIND,36,WHIRLPOOL,40,SHADOWBALL,44,BATONPASS,48,HYDROPUMP,52,DESTINYBOND
+TutorMoves = ATTRACT,BRINE,CHILLINGWATER,CONFIDE,ENDURE,FACADE,FLING,FRUSTRATION,GIGAIMPACT,HAZE,HELPINGHAND,HEX,HIDDENPOWER,HYDROPUMP,ICYWIND,MINIMIZE,OMINOUSWIND,PROTECT,RAINDANCE,REST,RETURN,ROUND,SCALD,SECRETPOWER,SHADOWBALL,SLEEPTALK,SNORE,SUBSTITUTE,SURF,SWIFT,TAILWIND,TERABLAST,THUNDER,WATERPULSE,WHIRLPOOL
+EggMoves = CLEARSMOG,DISABLE,HAZE,MEMENTO,PAINSPLIT,TAILWIND,WEATHERBALL
+EggGroups = Amorphous,Water1
+HatchSteps = 7680
+Height = 0.5
+Weight = 2.1
+Color = Blue
+Shape = HeadArms
+Habitat = WatersEdge
+Category = Bouée
+Pokedex = Son corps léger dérive au gré des courants. Le ruban qui recouvre sa bouche reste en place même lorsqu'il plonge sous l'eau.
+Generation = 9
+Evolutions = BOUDEGARDE,Level,28
+#-------------------------------------------------------------------------------
+[BOUDEGARDE]
+Name = Boudegarde
+Types = WATER,GHOST
+BaseStats = 145,65,55,80,105,48
+GenderRatio = Female50Percent
+GrowthRate = Fluctuating
+BaseExp = 174
+EVs = HP,2
+CatchRate = 60
+Happiness = 50
+Abilities = WATERABSORB,AFTERMATH
+HiddenAbilities = UNBURDEN
+Moves = 1,ASTONISH,1,MINIMIZE,1,WATERGUN,1,GROWL,12,GUST,16,BUBBLEBEAM,20,HEX,24,AQUARING,27,STOCKPILE,27,SWALLOW,27,SPITUP,28,OMINOUSWIND,34,WHIRLPOOL,40,SHADOWBALL,46,BATONPASS,52,HYDROPUMP,58,DESTINYBOND,64,HURRICANE
+TutorMoves = ATTRACT,BRINE,CHILLINGWATER,CONFIDE,ENDURE,FACADE,FLING,FRUSTRATION,GIGAIMPACT,HAZE,HELPINGHAND,HEX,HIDDENPOWER,HURRICANE,HYDROPUMP,HYPERBEAM,ICYWIND,MINIMIZE,OMINOUSWIND,PAINSPLIT,PROTECT,RAINDANCE,REST,RETURN,ROUND,SCALD,SECRETPOWER,SHADOWBALL,SLEEPTALK,SNORE,SUBSTITUTE,SURF,SWIFT,TAILWIND,TERABLAST,THUNDER,WATERPULSE,WEATHERBALL,WHIRLPOOL
+EggMoves = CLEARSMOG,DISABLE,HAZE,MEMENTO,PAINSPLIT,TAILWIND,WEATHERBALL
+EggGroups = Amorphous,Water1
+HatchSteps = 7680
+Height = 1.4
+Weight = 15.8
+Color = Blue
+Shape = HeadArms
+Habitat = WatersEdge
+Category = Double Bouée
+Pokedex = Il transporte les naufragés dans les deux ouvertures de son corps. Personne ne sait pourtant où il les conduit lorsque la brume recouvre la mer.
+Generation = 9

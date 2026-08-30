@@ -19,7 +19,8 @@ module PokemonSelections
   STARTER = {
     level: 5,
     min_iv: 20,
-    pokeball: :POKEBALL
+    pokeball: :POKEBALL,
+    gender: 0
   }
 
   SHADOW = {

@@ -75,6 +75,14 @@ Pokemon = EEVEE,9
 	Gender = male
     Moves = SANDATTACK,QUICKATTACK,BITE,SWIFT
     AbilityIndex = 0
+Pokemon = BUNEARY,9
+    Gender = male
+    Moves = QUICKATTACK,DEFENSECURL,BABYDOLLEYES,SWIFT
+    AbilityIndex = 0
+Pokemon = SKITTY,9
+    Gender = male
+    Moves = FAKEOUT,SWIFT,SING,QUICKATTACK
+    AbilityIndex = 0
 Pokemon = LILLIPUP,9
 	Gender = male
     Moves = TACKLE,BITE,SWIFT,GROWL
@@ -124,11 +132,11 @@ LoseText = Je suis en réalité perdu ...
 Pokemon = HOUNDOUR,12
 Pokemon = GROWLITHE,13
 #-------------------------------
-[CANONH,Sacha]
+[ENTRAINEUR,Sacha]
 LoseText = Je crois que je me suis échauffé pour rien !
 Pokemon = PANSEAR,13
 #-------------------------------
-[CANONH,Nino]
+[ENTRAINEUR,Nino]
 LoseText = Tu as éteint ma flamme en plein élan !
 Pokemon = LITLEO,13
 #-------------------------------
@@ -146,6 +154,14 @@ Pokemon = CYNDAQUIL,13
 Pokemon = NUMEL,14
 	Gender = male
     Moves = EMBER,MAGNITUDE,FOCUSENERGY,GROWL
+    AbilityIndex = 0
+Pokemon = SIZZLIPEDE,14
+    Gender = male
+    Moves = EMBER,SMOKESCREEN,WRAP,BITE
+    AbilityIndex = 0
+Pokemon = LITLEO,14
+    Gender = male
+    Moves = EMBER,HEADBUTT,WORKUP,LEER
     AbilityIndex = 0
 Pokemon = GROWLITHE,14
 	Gender = male
@@ -170,6 +186,15 @@ Pokemon = STUFFUL,16
 LoseText = Je me suis peut-être perdu pendant ce combat.
 Pokemon = VOLTARYX,15
 Pokemon = ROCKRUFF,16
+#-------------------------------
+[CANONH,Ben] # TEST CHAMPION
+LoseText = Je me suis peut-être perdu pendant ce combat.
+Pokemon = TIRTOUGA,15
+Pokemon = FLETCHINDER,15
+Pokemon = PIKACHU,15
+Pokemon = DARTRIX,15
+Pokemon = CROAGUNK,15
+Pokemon = CORPHISH,15
 #-------------------------------
 [MONTAGNARD2,Alban]
 LoseText = Epuisant dit donc !

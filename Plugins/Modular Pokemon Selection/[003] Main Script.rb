@@ -10,6 +10,7 @@ class ModularSelection_Scene
     is_shadow = settings[:shadow] ? true : false  # Vérifie si le Pokémon doit être Shadow
     pokemonlist.each do |species|
       pkmn = Pokemon.new(species, level)
+      pkmn.gender = 0
       min_iv = (settings[:min_iv] ? settings[:min_iv] : 0)
       max_iv = (settings[:max_iv] ? settings[:max_iv] : Pokemon::IV_STAT_LIMIT)
       GameData::Stat.each_main do |s|

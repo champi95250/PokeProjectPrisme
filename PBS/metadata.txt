@@ -1,15 +1,15 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [0]
-StartMoney = 2000
+StartMoney = 3000
 StartItemStorage = POTION
-Home = 3,7,5,8
+Home = 6,7,5,2
 StorageCreator = Ben
-WildBattleBGM = Battle wild
-TrainerBattleBGM = Battle trainer
-WildVictoryBGM = Battle victory wild
-TrainerVictoryBGM = Battle victory trainer
-SurfBGM = Surfing
+WildBattleBGM = 005 - Wild Pokemon
+TrainerBattleBGM = 007 - Trainer Battle
+WildVictoryBGM = 006 - Victory! Wild Pokemon
+TrainerVictoryBGM = 008 - Victory! Trainer Battle
+SurfBGM = Surf
 BicycleBGM = Bicycle
 #-------------------------------
 [1]

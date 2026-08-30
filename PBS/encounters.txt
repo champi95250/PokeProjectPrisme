@@ -6,23 +6,47 @@ OldRod,50
 #-------------------------------
 [009] # Route 1
 Land,21
-    20,FLETCHLING,2,4
-    20,GRUBBIN,2,4
-    20,POOCHYENA,2,4
-LandRain,21
-    20,GRUBBIN,2,4
-    20,POOCHYENA,2,4
-    15,LOTAD,3,4
+    40,FLETCHLING,2,4
+    35,GRUBBIN,2,4
+    25,POOCHYENA,2,4
 LandNight,21
-    20,NICKIT,2,4
-    20,VENIPEDE,2,4
-    20,WATTREL,3,4
+    35,NICKIT,2,4
+    35,VENIPEDE,2,4
+    30,HOOTHOOT,3,4
+LandRain,21
+    35,GRUBBIN,2,4
+    30,POOCHYENA,2,4
+    35,LOTAD,3,4
 LandNightRain,21
-    20,NICKIT,2,4
-    20,VENIPEDE,2,4
-    20,LOTAD,2,4
+    30,VENIPEDE,2,4
+    40,LOTAD,3,4
+    30,HOOTHOOT,3,4
+LandStorm,21
+    40,GRUBBIN,2,4
+    35,LOTAD,3,4
+    25,SHINX,4,5
+LandNightStorm,21
+    40,LOTAD,3,4
+    35,HOOTHOOT,3,4
+    25,SHINX,4,5
+LandSun,21
+    40,FLETCHLING,2,4
+    30,GRUBBIN,2,4
+    30,HOPPIP,2,4
+LandNightSun,21
+    30,GRUBBIN,2,4
+    35,VENIPEDE,2,4
+    35,HOPPIP,2,4
+LandFog,21
+    70,POOCHYENA,2,4
+    30,ABRA,4,5
+    25,GRUBBIN,2,4
+LandNightFog,21
+    25,VENIPEDE,2,4
+    30,HOOTHOOT,3,4
+    20,ABRA,4,5
 PokeRadar,100
-    100,SHINX,4,6
+    100,TANDEMAUS,4,6
 #-------------------------------
 [013] # Rosaville
 Land,21
@@ -40,12 +64,36 @@ PokeRadar,100
 [014] # Route 2
 Land,21
     20,LILLIPUP,4,6
-    20,SEWADDLE,5,6
-    20,SPEAROW,4,6
+    15,SEWADDLE,5,6
+    18,FLETCHLING,4,6
 LandNight,21
-    20,HOOTHOOT,4,6
-    20,NICKIT,5,6
+    15,HOOTHOOT,4,6
+    28,NICKIT,5,6
     20,VENIPEDE,4,6
+LandRain,21
+    18,LILLIPUP,4,6
+    20,SEWADDLE,5,6
+    25,LOTAD,4,6
+LandNightRain,21
+    20,HOOTHOOT,4,6
+    25,LOTAD,5,6
+    15,VENIPEDE,4,6
+LandStorm,21
+    10,YAMPER,4,6
+    20,SEWADDLE,5,6
+    22,LOTAD,4,6
+LandNightStorm,21
+    20,HOOTHOOT,4,6
+    22,LOTAD,5,6
+    7,YAMPER,4,6
+LandFog,21
+    50,PURRLOIN,4,6
+    30,ABRA,5,6
+    25,SEWADDLE,4,6
+LandNightFog,21
+    25,VENIPEDE,4,6
+    30,HOOTHOOT,4,6
+    20,ABRA,4,6
 PokeRadar,100
     100,MINCCINO,5,7
 #-------------------------------
@@ -58,7 +106,7 @@ LandNight,21
     11,PURRLOIN,4,6
     3,FRIPICHAT,5,6
 PokeRadar,100
-    100,NICKIT,5,7
+    100,MORPEKO,5,7
 #-------------------------------
 [024] # Bois Serment
 Land,21
@@ -69,22 +117,28 @@ LandNight,21
     18,HOOTHOOT,6,8
     12,MORELULL,5,8
     6,PHANTUMP,7,9
-    2,GASTLY,7,9
+LandRain,21
+    15,SEWADDLE,6,8
+    6,MORELULL,5,8
+    12,DEWPIDER,6,8
+LandNightRain,21
+    18,HOOTHOOT,6,8
+    12,DEWPIDER,6,8
+    6,MORELULL,5,8
+    6,PHANTUMP,7,9
 LandFog,21
     15,MYCIFLOW,6,8
     15,MORELULL,6,8
     12,PHANTUMP,7,9
-    5,MISDREAVUS,7,9
 LandNightFog,21
     11,MYCIFLOW,6,8
-    15,GASTLY,7,9
     13,PHANTUMP,7,9
-    8,MISDREAVUS,7,9
     4,MORELULL,6,8
 PokeRadar,100
-    100,SHUPPET,6,9
+    100,GASTLY,6,9
 OldRod,20
-    100,MAGIKARP,5,8
+    90,MAGIKARP,5,8
+    5,DEWPIDER,4,8
 #-------------------------------
 [025] # ROUTE 3
 Land,21
@@ -221,3 +275,19 @@ HeadbuttHigh,10
 OldRod,35
     44,MAGIKARP,14,16
     8,SURSKIT,14,16
+#-------------------------------
+[037] # Route 5 
+Land,21
+    20,WINGULL,16,18
+    15,YUNGOOS,15,18
+    11,WATTREL,16,18
+    11,CRABRAWLER,16,18
+    4,SANDYGAST,16,18
+LandNight,21
+    15,WINGULL,16,18
+    15,YUNGOOS,15,18
+    8,INKAY,15,19
+    8,FRILLISH,15,19
+    12,SANDYGAST,16,18
+PokeRadar,100
+    100,BOUDEAU,16,18

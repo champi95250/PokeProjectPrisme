@@ -35,7 +35,7 @@ if ARMSettings::ProgressCounter && ARMSettings::ProgressCountItems
     pocket = item.pocket
     move = item.move
     meName = (item.is_key_item?) ? "Key item get" : "Item get"
-    verb = verb ? "obtained" : "found"
+    verb = verb ? "obtenez" : "trouvez"
     bag = $bag.add(item, quantity) ? true : false
     return { item: item, itemname: itemname, quantity: quantity, pocket: pocket, move: move, meName: meName, verb: verb, bag: bag }
   end
@@ -47,26 +47,26 @@ if ARMSettings::ProgressCounter && ARMSettings::ProgressCountItems
     sound = itemInfo[:bag] ? "\\me[#{itemInfo[:meName]}]" : ""
     wait = itemInfo[:bag] ? "\\wtnp[40]" : ""
     if itemInfo[:item] == :DNASPLICERS && itemInfo[:bag]
-      pbMessage("#{sound}" + _INTL("You {1} \\c[1]{2}\\c[0]!", itemInfo[:verb], itemInfo[:itemname]) + "#{wait}")
+      pbMessage("#{sound}" + _INTL("Vous {1} \\c[1]{2}\\c[0]!", itemInfo[:verb], itemInfo[:itemname]) + "#{wait}")
     elsif itemInfo[:item].is_machine?   # TM or HM
       sound = itemInfo[:bag] ? "\\me[Machine get]" : ""
       wait = itemInfo[:bag] ? "\\wtnp[70]" : ""
       if itemInfo[:quantity] > 1
-        pbMessage("#{sound}" + _INTL("You {1} {2} \\c[1]{3} {4}\\c[0]!",
+        pbMessage("#{sound}" + _INTL("Vous {1} {2} \\c[1]{3} {4}\\c[0]!",
                                               itemInfo[:verb], itemInfo[:quantity], itemInfo[:itemname], GameData::Move.get(itemInfo[:move]).name) + "#{wait}")
       else
-        pbMessage("#{sound}" + _INTL("You {1} \\c[1]{2} {3}\\c[0]!",
+        pbMessage("#{sound}" + _INTL("Vous {1} \\c[1]{2} {3}\\c[0]!",
                                               itemInfo[:verb], itemInfo[:itemname], GameData::Move.get(itemInfo[:move]).name) + "#{wait}")
       end
     elsif itemInfo[:quantity] > 1
-      pbMessage("#{sound}" + _INTL("You {1} {2} \\c[1]{3}\\c[0]!", itemInfo[:verb], itemInfo[:quantity], itemInfo[:itemname]) + "#{wait}")
+      pbMessage("#{sound}" + _INTL("Vous {1} {2} \\c[1]{3}\\c[0]!", itemInfo[:verb], itemInfo[:quantity], itemInfo[:itemname]) + "#{wait}")
     elsif itemInfo[:itemname].starts_with_vowel?
-      pbMessage("#{sound}" + _INTL("You {1} an \\c[1]{2}\\c[0]!", itemInfo[:verb], itemInfo[:itemname]) + "#{wait}")
+      pbMessage("#{sound}" + _INTL("Vous {1} \\c[1]{2}\\c[0]!", itemInfo[:verb], itemInfo[:itemname]) + "#{wait}")
     else
-      pbMessage("#{sound}" + _INTL("You {1} a \\c[1]{2}\\c[0]!", itemInfo[:verb], itemInfo[:itemname]) + "#{wait}")
+      pbMessage("#{sound}" + _INTL("Vous {1} \\c[1]{2}\\c[0]!", itemInfo[:verb], itemInfo[:itemname]) + "#{wait}")
     end
     if itemInfo[:bag]
-      pbMessage(_INTL("You put the {1} in\\nyour Bag's <icon=bagPocket{2}>\\c[1]{3}\\c[0] pocket.",
+      pbMessage(_INTL("Vous rangez {1} dans la poche\\n<icon=bagPocket{2}>\\c[1]{3}\\c[0] de votre Sac.",
                     itemInfo[:itemname], itemInfo[:pocket], PokemonBag.pocket_names[itemInfo[:pocket] - 1]))
       countItem(itemInfo)
       return true

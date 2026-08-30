@@ -97,5 +97,20 @@ module ARMLocationPreview
       "Les Dresseurs peuvent y confier leurs Pokémon en toute tranquillité.</ac>"
     )
   }
+
+  Route5 = {
+    description: _INTL(
+      "<ac><b>Une route menant sur vers Belécume.</b><br>" \
+      "Sa plage si agréable en fait un lieu idéal pour se baigner.</ac>"
+    )
+  }
+
+  Belécume = {
+    description: _INTL(
+      "<ac>Une Ile Ville baignée de la mer<br>" \
+      "Sa chaleur attire de nombreux Pokémon et abrite l’Arène de type Eau.</ac>"
+    )
+  }
+
   
 end
