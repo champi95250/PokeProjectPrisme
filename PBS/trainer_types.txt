@@ -227,6 +227,15 @@ IntroBGM = 019 - Eyes Young
 BattleBGM = 007 - Trainer Battle
 VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
+[VOLEUR3]
+Name = Voleur
+Gender = Male
+BaseMoney = 46
+SkillLevel = 100
+IntroBGM = 019 - Eyes Young
+BattleBGM = 032 - Team Z Battle
+VictoryBGM = 008 - Victory! Trainer Battle
+#-------------------------------
 [TWINK_S1]
 Name = Champion
 Gender = Male

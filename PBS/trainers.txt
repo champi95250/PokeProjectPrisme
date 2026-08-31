@@ -237,3 +237,18 @@ LoseText = Je prend mon billet pour avoir ta force !
 Pokemon = NICKIT,16
 Pokemon = DODUO,16
 Pokemon = VIVILLON_18,17
+#-------------------------------
+[VOLEUR3,Gradur]
+LoseText = Putain, mais c'était un super spot ici !
+Pokemon = KROOKODILE,48
+    IV = 20,20,12,25,21,20
+    Moves = EARTHQUAKE,CRUNCH,STONEEDGE,BULKUP
+    Gender = male
+Pokemon = REVAVROOM,48
+    IV = 24,22,20,22,21,12
+    Moves = SHIFTGEAR,IRONHEAD,GUNKSHOT,HIGHHORSEPOWER
+    Gender = male
+Pokemon = GRIMMSNARL,50
+    IV = 31,10,30,20,28,25
+    Moves = THUNDERPUNCH,PLAYROUGH,THUNDERWAVE,SPIRITBREAK
+    Gender = male

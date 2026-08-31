@@ -23,11 +23,10 @@ module PokemonSelections
     gender: 0
   }
 
-  SHADOW = {
-    level: 5,
-    min_iv: 15,
-    pokeball: :POKEBALL,
-    shadow: true
+  VOLEUR = {
+    level: 15,
+    min_iv: 12,
+    pokeball: :POKEBALL
   }
   SHADOW_2 = {
     level: 17,

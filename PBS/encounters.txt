@@ -185,22 +185,22 @@ HeadbuttHigh,10
     12,COMBEE,10,12
 #-------------------------------
 [030] # Grotte Entré 1
-Cave,21
+Cave,7
     25,ROGGENROLA,13,15
     20,WOOBAT,13,15
     15,NUMEL,14,16
     12,WOOPER_1,13,15
     8,SALANDIT,15,16
-    2,MAGBY,16,16
+    3,MAGBY,16,17
 #-------------------------------
 [031] # Grotte Entré 1
-Cave,21
+Cave,7
     25,ROGGENROLA,13,15
     20,WOOBAT,13,15
     15,NUMEL,14,16
     12,WOOPER_1,13,15
     8,SALANDIT,15,16
-    2,MAGBY,16,16
+    3,MAGBY,16,17
 #-------------------------------
 [032] # Route 4
 Land,21
@@ -208,36 +208,36 @@ Land,21
     15,VOLTARYX,14,16
     11,SKIDDO,15,17
     7,DEERLING,14,17
-    5,CHERUBI,13,15
+    5,CHERUBI,13,16
 LandNight,21
     20,SPRITZEE,14,16
     12,DROWZEE,14,16
-    8,NYMBLE,12,14
+    8,NYMBLE,13,16
 OldRod,35
-    44,MAGIKARP,12,15
-    8,SURSKIT,13,15
+    44,MAGIKARP,13,16
+    8,SURSKIT,13,17
 LandSun,21
-    17,BUNEARY,12,16
+    17,BUNEARY,13,17
     15,VOLTARYX,14,16
     10,CHERUBI,14,16
     18,SKIDDO,15,17
     12,DEERLING,14,17
     7,HELIOPTILE,13,16
 LandNightSun,21
-    20,ILLUMISE,12,15
-    20,VOLBEAT,12,15
+    20,ILLUMISE,14,16
+    20,VOLBEAT,14,17
     5,HELIOPTILE,13,16
     5,DROWZEE,14,16
 PokeRadar,100
     100,KAMENKI,14,17
 HeadbuttLow,20
-    30,BURMY,12,14
-    24,COMBEE,11,15
+    30,BURMY,12,15
+    24,COMBEE,12,15
     5,PINECO,13,16
 HeadbuttHigh,10
-    30,PINECO,12,16
-    20,COMBEE,13,15
-    4,BURMY,12,14
+    30,PINECO,12,17
+    20,COMBEE,13,16
+    4,BURMY,13,16
 #-------------------------------
 [033] # Relais
 Land,21

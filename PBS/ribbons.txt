@@ -1,1213 +1,1213 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [HOENNCOOL]
-Name = Cool Ribbon
+Name = Ruban Sang-Froid
 IconPosition = 0
-Description = Hoenn Cool Contest Normal Rank winner!
+Description = Décerné au vainqueur du Concours de Sang-Froid de Hoenn, catégorie Normal !
 Flags = ContestRibbon
 #-------------------------------
 [HOENNCOOLSUPER]
-Name = Cool Ribbon Super
+Name = Ruban Sang-Froid Super
 IconPosition = 1
-Description = Hoenn Cool Contest Super Rank winner!
+Description = Décerné au vainqueur du Concours de Sang-Froid de Hoenn, catégorie Super !
 PreviousRanks = HOENNCOOL
 Flags = ContestRibbon
 #-------------------------------
 [HOENNCOOLHYPER]
-Name = Cool Ribbon Hyper
+Name = Ruban Sang-Froid Hyper
 IconPosition = 2
-Description = Hoenn Cool Contest Hyper Rank winner!
+Description = Décerné au vainqueur du Concours de Sang-Froid de Hoenn, catégorie Hyper !
 PreviousRanks = HOENNCOOL,HOENNCOOLSUPER
 Flags = ContestRibbon
 #-------------------------------
 [HOENNCOOLMASTER]
-Name = Cool Ribbon Master
+Name = Ruban Sang-Froid Master
 IconPosition = 3
-Description = Hoenn Cool Contest Master Rank winner!
+Description = Décerné au vainqueur du Concours de Sang-Froid de Hoenn, catégorie Master !
 PreviousRanks = HOENNCOOL,HOENNCOOLSUPER,HOENNCOOLHYPER
 Flags = ContestRibbon
 #-------------------------------
 [HOENNBEAUTY]
-Name = Beauty Ribbon
+Name = Ruban Beauté
 IconPosition = 4
-Description = Hoenn Beauty Contest Normal Rank winner!
+Description = Décerné au vainqueur du Concours de Beauté de Hoenn, catégorie Normal !
 Flags = ContestRibbon
 #-------------------------------
 [HOENNBEAUTYSUPER]
-Name = Beauty Ribbon Super
+Name = Ruban Beauté Super
 IconPosition = 5
-Description = Hoenn Beauty Contest Super Rank winner!
+Description = Décerné au vainqueur du Concours de Beauté de Hoenn, catégorie Super !
 PreviousRanks = HOENNBEAUTY
 Flags = ContestRibbon
 #-------------------------------
 [HOENNBEAUTYHYPER]
-Name = Beauty Ribbon Hyper
+Name = Ruban Beauté Hyper
 IconPosition = 6
-Description = Hoenn Beauty Contest Hyper Rank winner!
+Description = Décerné au vainqueur du Concours de Beauté de Hoenn, catégorie Hyper !
 PreviousRanks = HOENNBEAUTY,HOENNBEAUTYSUPER
 Flags = ContestRibbon
 #-------------------------------
 [HOENNBEAUTYMASTER]
-Name = Beauty Ribbon Master
+Name = Ruban Beauté Master
 IconPosition = 7
-Description = Hoenn Beauty Contest Master Rank winner!
+Description = Décerné au vainqueur du Concours de Beauté de Hoenn, catégorie Master !
 PreviousRanks = HOENNBEAUTY,HOENNBEAUTYSUPER,HOENNBEAUTYHYPER
 Flags = ContestRibbon
 #-------------------------------
 [HOENNCUTE]
-Name = Cute Ribbon
+Name = Ruban Grâce
 IconPosition = 8
-Description = Hoenn Cute Contest Normal Rank winner!
+Description = Décerné au vainqueur du Concours de Grâce de Hoenn, catégorie Normal !
 Flags = ContestRibbon
 #-------------------------------
 [HOENNCUTESUPER]
-Name = Cute Ribbon Super
+Name = Ruban Grâce Super
 IconPosition = 9
-Description = Hoenn Cute Contest Super Rank winner!
+Description = Décerné au vainqueur du Concours de Grâce de Hoenn, catégorie Super !
 PreviousRanks = HOENNCUTE
 Flags = ContestRibbon
 #-------------------------------
 [HOENNCUTEHYPER]
-Name = Cute Ribbon Hyper
+Name = Ruban Grâce Hyper
 IconPosition = 10
-Description = Hoenn Cute Contest Hyper Rank winner!
+Description = Décerné au vainqueur du Concours de Grâce de Hoenn, catégorie Hyper !
 PreviousRanks = HOENNCUTE,HOENNCUTESUPER
 Flags = ContestRibbon
 #-------------------------------
 [HOENNCUTEMASTER]
-Name = Cute Ribbon Master
+Name = Ruban Grâce Master
 IconPosition = 11
-Description = Hoenn Cute Contest Master Rank winner!
+Description = Décerné au vainqueur du Concours de Grâce de Hoenn, catégorie Master !
 PreviousRanks = HOENNCUTE,HOENNCUTESUPER,HOENNCUTEHYPER
 Flags = ContestRibbon
 #-------------------------------
 [HOENNSMART]
-Name = Smart Ribbon
+Name = Ruban Intelligence
 IconPosition = 12
-Description = Hoenn Smart Contest Normal Rank winner!
+Description = Décerné au vainqueur du Concours de Intelligence de Hoenn, catégorie Normal !
 Flags = ContestRibbon
 #-------------------------------
 [HOENNSMARTSUPER]
-Name = Smart Ribbon Super
+Name = Ruban Intelligence Super
 IconPosition = 13
-Description = Hoenn Smart Contest Super Rank winner!
+Description = Décerné au vainqueur du Concours de Intelligence de Hoenn, catégorie Super !
 PreviousRanks = HOENNSMART
 Flags = ContestRibbon
 #-------------------------------
 [HOENNSMARTHYPER]
-Name = Smart Ribbon Hyper
+Name = Ruban Intelligence Hyper
 IconPosition = 14
-Description = Hoenn Smart Contest Hyper Rank winner!
+Description = Décerné au vainqueur du Concours de Intelligence de Hoenn, catégorie Hyper !
 PreviousRanks = HOENNSMART,HOENNSMARTSUPER
 Flags = ContestRibbon
 #-------------------------------
 [HOENNSMARTMASTER]
-Name = Smart Ribbon Master
+Name = Ruban Intelligence Master
 IconPosition = 15
-Description = Hoenn Smart Contest Master Rank winner!
+Description = Décerné au vainqueur du Concours de Intelligence de Hoenn, catégorie Master !
 PreviousRanks = HOENNSMART,HOENNSMARTSUPER,HOENNSMARTHYPER
 Flags = ContestRibbon
 #-------------------------------
 [HOENNTOUGH]
-Name = Tough Ribbon
+Name = Ruban Robustesse
 IconPosition = 16
-Description = Hoenn Tough Contest Normal Rank winner!
+Description = Décerné au vainqueur du Concours de Robustesse de Hoenn, catégorie Normal !
 Flags = ContestRibbon
 #-------------------------------
 [HOENNTOUGHSUPER]
-Name = Tough Ribbon Super
+Name = Ruban Robustesse Super
 IconPosition = 17
-Description = Hoenn Tough Contest Super Rank winner!
+Description = Décerné au vainqueur du Concours de Robustesse de Hoenn, catégorie Super !
 PreviousRanks = HOENNTOUGH
 Flags = ContestRibbon
 #-------------------------------
 [HOENNTOUGHHYPER]
-Name = Tough Ribbon Hyper
+Name = Ruban Robustesse Hyper
 IconPosition = 18
-Description = Hoenn Tough Contest Hyper Rank winner!
+Description = Décerné au vainqueur du Concours de Robustesse de Hoenn, catégorie Hyper !
 PreviousRanks = HOENNTOUGH,HOENNTOUGHSUPER
 Flags = ContestRibbon
 #-------------------------------
 [HOENNTOUGHMASTER]
-Name = Tough Ribbon Master
+Name = Ruban Robustesse Master
 IconPosition = 19
-Description = Hoenn Tough Contest Master Rank winner!
+Description = Décerné au vainqueur du Concours de Robustesse de Hoenn, catégorie Master !
 PreviousRanks = HOENNTOUGH,HOENNTOUGHSUPER,HOENNTOUGHHYPER
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHCOOL]
-Name = Cool Ribbon
+Name = Ruban Sang-Froid
 IconPosition = 20
-Description = Super Contest Cool Category Normal Rank winner!
+Description = Décerné au vainqueur du Super Concours de Sang-Froid, catégorie Normal !
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHCOOLGREAT]
-Name = Cool Ribbon Great
+Name = Ruban Sang-Froid Méga
 IconPosition = 21
-Description = Super Contest Cool Category Great Rank winner!
+Description = Décerné au vainqueur du Super Concours de Sang-Froid, catégorie Méga !
 PreviousRanks = SINNOHCOOL
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHCOOLULTRA]
-Name = Cool Ribbon Ultra
+Name = Ruban Sang-Froid Ultra
 IconPosition = 22
-Description = Super Contest Cool Category Ultra Rank winner!
+Description = Décerné au vainqueur du Super Concours de Sang-Froid, catégorie Ultra !
 PreviousRanks = SINNOHCOOL,SINNOHCOOLGREAT
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHCOOLMASTER]
-Name = Cool Ribbon Master
+Name = Ruban Sang-Froid Master
 IconPosition = 23
-Description = Super Contest Cool Category Master Rank winner!
+Description = Décerné au vainqueur du Super Concours de Sang-Froid, catégorie Master !
 PreviousRanks = SINNOHCOOL,SINNOHCOOLGREAT,SINNOHCOOLULTRA
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHBEAUTY]
-Name = Beauty Ribbon
+Name = Ruban Beauté
 IconPosition = 24
-Description = Super Contest Beauty Category Normal Rank winner!
+Description = Décerné au vainqueur du Super Concours de Beauté, catégorie Normal !
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHBEAUTYGREAT]
-Name = Beauty Ribbon Great
+Name = Ruban Beauté Méga
 IconPosition = 25
-Description = Super Contest Beauty Category Great Rank winner!
+Description = Décerné au vainqueur du Super Concours de Beauté, catégorie Méga !
 PreviousRanks = SINNOHBEAUTY
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHBEAUTYULTRA]
-Name = Beauty Ribbon Ultra
+Name = Ruban Beauté Ultra
 IconPosition = 26
-Description = Super Contest Beauty Category Ultra Rank winner!
+Description = Décerné au vainqueur du Super Concours de Beauté, catégorie Ultra !
 PreviousRanks = SINNOHBEAUTY,SINNOHBEAUTYGREAT
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHBEAUTYMASTER]
-Name = Beauty Ribbon Master
+Name = Ruban Beauté Master
 IconPosition = 27
-Description = Super Contest Beauty Category Master Rank winner!
+Description = Décerné au vainqueur du Super Concours de Beauté, catégorie Master !
 PreviousRanks = SINNOHBEAUTY,SINNOHBEAUTYGREAT,SINNOHBEAUTYULTRA
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHCUTE]
-Name = Cute Ribbon
+Name = Ruban Grâce
 IconPosition = 28
-Description = Super Contest Cute Category Normal Rank winner!
+Description = Décerné au vainqueur du Super Concours de Grâce, catégorie Normal !
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHCUTEGREAT]
-Name = Cute Ribbon Great
+Name = Ruban Grâce Méga
 IconPosition = 29
-Description = Super Contest Cute Category Great Rank winner!
+Description = Décerné au vainqueur du Super Concours de Grâce, catégorie Méga !
 PreviousRanks = SINNOHCUTE
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHCUTEULTRA]
-Name = Cute Ribbon Ultra
+Name = Ruban Grâce Ultra
 IconPosition = 30
-Description = Super Contest Cute Category Ultra Rank winner!
+Description = Décerné au vainqueur du Super Concours de Grâce, catégorie Ultra !
 PreviousRanks = SINNOHCUTE,SINNOHCUTEGREAT
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHCUTEMASTER]
-Name = Cute Ribbon Master
+Name = Ruban Grâce Master
 IconPosition = 31
-Description = Super Contest Cute Category Master Rank winner!
+Description = Décerné au vainqueur du Super Concours de Grâce, catégorie Master !
 PreviousRanks = SINNOHCUTE,SINNOHCUTEGREAT,SINNOHCUTEULTRA
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHSMART]
-Name = Smart Ribbon
+Name = Ruban Intelligence
 IconPosition = 32
-Description = Super Contest Smart Category Normal Rank winner!
+Description = Décerné au vainqueur du Super Concours de Intelligence, catégorie Normal !
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHSMARTGREAT]
-Name = Smart Ribbon Great
+Name = Ruban Intelligence Méga
 IconPosition = 33
-Description = Super Contest Smart Category Great Rank winner!
+Description = Décerné au vainqueur du Super Concours de Intelligence, catégorie Méga !
 PreviousRanks = SINNOHSMART
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHSMARTULTRA]
-Name = Smart Ribbon Ultra
+Name = Ruban Intelligence Ultra
 IconPosition = 34
-Description = Super Contest Smart Category Ultra Rank winner!
+Description = Décerné au vainqueur du Super Concours de Intelligence, catégorie Ultra !
 PreviousRanks = SINNOHSMART,SINNOHSMARTGREAT
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHSMARTMASTER]
-Name = Smart Ribbon Master
+Name = Ruban Intelligence Master
 IconPosition = 35
-Description = Super Contest Smart Category Master Rank winner!
+Description = Décerné au vainqueur du Super Concours de Intelligence, catégorie Master !
 PreviousRanks = SINNOHSMART,SINNOHSMARTGREAT,SINNOHSMARTULTRA
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHTOUGH]
-Name = Tough Ribbon
+Name = Ruban Robustesse
 IconPosition = 36
-Description = Super Contest Tough Category Normal Rank winner!
+Description = Décerné au vainqueur du Super Concours de Robustesse, catégorie Normal !
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHTOUGHGREAT]
-Name = Tough Ribbon Great
+Name = Ruban Robustesse Méga
 IconPosition = 37
-Description = Super Contest Tough Category Great Rank winner!
+Description = Décerné au vainqueur du Super Concours de Robustesse, catégorie Méga !
 PreviousRanks = SINNOHTOUGH
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHTOUGHULTRA]
-Name = Tough Ribbon Ultra
+Name = Ruban Robustesse Ultra
 IconPosition = 38
-Description = Super Contest Tough Category Ultra Rank winner!
+Description = Décerné au vainqueur du Super Concours de Robustesse, catégorie Ultra !
 PreviousRanks = SINNOHTOUGH,SINNOHTOUGHGREAT
 Flags = ContestRibbon
 #-------------------------------
 [SINNOHTOUGHMASTER]
-Name = Tough Ribbon Master
+Name = Ruban Robustesse Master
 IconPosition = 39
-Description = Super Contest Tough Category Master Rank winner!
+Description = Décerné au vainqueur du Super Concours de Robustesse, catégorie Master !
 PreviousRanks = SINNOHTOUGH,SINNOHTOUGHGREAT,SINNOHTOUGHULTRA
 Flags = ContestRibbon
 #-------------------------------
 [CONTESTMEMORY]
-Name = Contest Memory Ribbon
+Name = Ruban Souvenir Concours
 IconPosition = 40
-Description = A commemorative Ribbon representing all of the Ribbons you collected for contests somewhere long ago.
+Description = Un Ruban commémoratif représentant tous les Rubans de Concours obtenus autrefois dans une contrée lointaine.
 PreviousRanks = HOENNCOOL,HOENNCOOLSUPER,HOENNCOOLHYPER,HOENNCOOLMASTER,HOENNBEAUTY,HOENNBEAUTYSUPER,HOENNBEAUTYHYPER,HOENNBEAUTYMASTER,HOENNCUTE,HOENNCUTESUPER,HOENNCUTEHYPER,HOENNCUTEMASTER,HOENNSMART,HOENNSMARTSUPER,HOENNSMARTHYPER,HOENNSMARTMASTER,HOENNTOUGH,HOENNTOUGHSUPER,HOENNTOUGHHYPER,HOENNTOUGHMASTER,SINNOHCOOL,SINNOHCOOLGREAT,SINNOHCOOLULTRA,SINNOHCOOLMASTER,SINNOHBEAUTY,SINNOHBEAUTYGREAT,SINNOHBEAUTYULTRA,SINNOHBEAUTYMASTER,SINNOHCUTE,SINNOHCUTEGREAT,SINNOHCUTEULTRA,SINNOHCUTEMASTER,SINNOHSMART,SINNOHSMARTGREAT,SINNOHSMARTULTRA,SINNOHSMARTMASTER,SINNOHTOUGH,SINNOHTOUGHGREAT,SINNOHTOUGHULTRA,SINNOHTOUGHMASTER
-Title = the Treasured Memory
+Title = au souvenir précieux
 Flags = ContestRibbon
 #-------------------------------
 [CONTESTMEMORYGOLD]
-Name = Contest Memory Ribbon
+Name = Ruban Souvenir Concours
 IconPosition = 41
-Description = A commemorative Ribbon representing all of the Ribbons you collected for contests somewhere long ago.
+Description = Un Ruban commémoratif représentant tous les Rubans de Concours obtenus autrefois dans une contrée lointaine.
 PreviousRanks = HOENNCOOL,HOENNCOOLSUPER,HOENNCOOLHYPER,HOENNCOOLMASTER,HOENNBEAUTY,HOENNBEAUTYSUPER,HOENNBEAUTYHYPER,HOENNBEAUTYMASTER,HOENNCUTE,HOENNCUTESUPER,HOENNCUTEHYPER,HOENNCUTEMASTER,HOENNSMART,HOENNSMARTSUPER,HOENNSMARTHYPER,HOENNSMARTMASTER,HOENNTOUGH,HOENNTOUGHSUPER,HOENNTOUGHHYPER,HOENNTOUGHMASTER,SINNOHCOOL,SINNOHCOOLGREAT,SINNOHCOOLULTRA,SINNOHCOOLMASTER,SINNOHBEAUTY,SINNOHBEAUTYGREAT,SINNOHBEAUTYULTRA,SINNOHBEAUTYMASTER,SINNOHCUTE,SINNOHCUTEGREAT,SINNOHCUTEULTRA,SINNOHCUTEMASTER,SINNOHSMART,SINNOHSMARTGREAT,SINNOHSMARTULTRA,SINNOHSMARTMASTER,SINNOHTOUGH,SINNOHTOUGHGREAT,SINNOHTOUGHULTRA,SINNOHTOUGHMASTER
-Title = the Treasured Memory
+Title = au souvenir précieux
 Flags = ContestRibbon
 #-------------------------------
 [COOLNESSMASTER]
-Name = Coolness Master Ribbon
+Name = Ruban Maître Sang-Froid
 IconPosition = 42
-Description = A Ribbon awarded to a Pokémon that has perfectly embodied Coolness in Pokémon Contests.
-Title = the Former Star
+Description = Un Ruban décerné à un Pokémon ayant parfaitement incarné la Sang-Froid lors des Concours Pokémon.
+Title = l’ancienne star
 Flags = ContestRibbon
 #-------------------------------
 [BEAUTYMASTER]
-Name = Beauty Master Ribbon
+Name = Ruban Maître Beauté
 IconPosition = 43
-Description = A Ribbon awarded to a Pokémon that has perfectly embodied Beauty in Pokémon Contests.
-Title = the Vintage Beauty
+Description = Un Ruban décerné à un Pokémon ayant parfaitement incarné la Beauté lors des Concours Pokémon.
+Title = la beauté d’antan
 Flags = ContestRibbon
 #-------------------------------
 [CUTENESSMASTER]
-Name = Cuteness Master Ribbon
+Name = Ruban Maître Grâce
 IconPosition = 44
-Description = A Ribbon awarded to a Pokémon that has perfectly embodied Cuteness in Pokémon Contests.
-Title = the Former Idol
+Description = Un Ruban décerné à un Pokémon ayant parfaitement incarné la Grâce lors des Concours Pokémon.
+Title = l’ancienne idole
 Flags = ContestRibbon
 #-------------------------------
 [CLEVERNESSMASTER]
-Name = Cleverness Master Ribbon
+Name = Ruban Maître Intelligence
 IconPosition = 45
-Description = A Ribbon awarded to a Pokémon that has perfectly embodied Cleverness in Pokémon Contests.
-Title = the Historic Genius
+Description = Un Ruban décerné à un Pokémon ayant parfaitement incarné la Intelligence lors des Concours Pokémon.
+Title = le génie historique
 Flags = ContestRibbon
 #-------------------------------
 [TOUGHNESSMASTER]
-Name = Toughness Master Ribbon
+Name = Ruban Maître Robustesse
 IconPosition = 46
-Description = A Ribbon awarded to a Pokémon that has perfectly embodied Toughness in Pokémon Contests.
-Title = the Formerly Buff
+Description = Un Ruban décerné à un Pokémon ayant parfaitement incarné la Robustesse lors des Concours Pokémon.
+Title = l’ancien colosse
 Flags = ContestRibbon
 #-------------------------------
 [CONTESTSTAR]
-Name = Contest Star Ribbon
+Name = Ruban Star des Concours
 IconPosition = 47
-Description = A Ribbon awarded to a Pokémon that has performed superbly in every kind of contest.
-Title = the Shining Star
+Description = Un Ruban décerné à un Pokémon ayant brillé dans toutes les catégories de Concours.
+Title = l’étoile brillante
 PreviousRanks = COOLNESSMASTER,BEAUTYMASTER,CUTENESSMASTER,CLEVERNESSMASTER,TOUGHNESSMASTER
 Flags = ContestRibbon
 #-------------------------------
 [TWINKLINGSTAR]
-Name = Twinkling Star Ribbon
+Name = Ruban Étoile Scintillante
 IconPosition = 48
-Description = A Ribbon awarded to a Pokémon that has perfectly embodied shining brilliance in Super Contest Shows.
-Title = the Twinkling Star
+Description = Un Ruban décerné à un Pokémon ayant incarné un éclat parfait lors des Grands Shows de Concours.
+Title = l’étoile scintillante
 Flags = ContestRibbon
 #-------------------------------
 [CHAMPION]
-Name = Champion Ribbon
+Name = Ruban Champion
 IconPosition = 49
-Description = A Ribbon awarded for clearing the Pokémon League and entering the Hall of Fame somewhere long ago.
-Title = the Champion
+Description = Un Ruban décerné pour avoir vaincu la Ligue Pokémon et rejoint le Panthéon dans une contrée lointaine.
+Title = le Champion
 Flags = LeagueRibbon
 #-------------------------------
 [HOENNCHAMPION]
-Name = Hoenn Champion Ribbon
+Name = Ruban Champion de Hoenn
 IconPosition = 50
-Description = A Ribbon awarded for beating the Hoenn Champion and entering the Hoenn Hall of Fame.
-Title = the Hoenn Champion
+Description = Un Ruban décerné pour avoir vaincu le Champion de Hoenn et rejoint le Panthéon de Hoenn.
+Title = le Champion de Hoenn
 Flags = LeagueRibbon
 #-------------------------------
 [SINNOHCHAMPION]
-Name = Sinnoh Champion Ribbon
+Name = Ruban Champion de Sinnoh
 IconPosition = 51
-Description = A Ribbon awarded for beating the Sinnoh Champion and entering the Sinnoh Hall of Fame.
-Title = the Sinnoh Champion
+Description = Un Ruban décerné pour avoir vaincu le Champion de Sinnoh et rejoint le Panthéon de Sinnoh.
+Title = le Champion de Sinnoh
 Flags = LeagueRibbon
 #-------------------------------
 [KALOSCHAMPION]
-Name = Kalos Champion Ribbon
+Name = Ruban Champion de Kalos
 IconPosition = 52
-Description = A Ribbon awarded for beating the Kalos Champion and entering the Kalos Hall of Fame.
-Title = the Kalos Champion
+Description = Un Ruban décerné pour avoir vaincu le Champion de Kalos et rejoint le Panthéon de Kalos.
+Title = le Champion de Kalos
 Flags = LeagueRibbon
 #-------------------------------
 [ALOLACHAMPION]
-Name = Alola Champion Ribbon
+Name = Ruban Champion d’Alola
 IconPosition = 53
-Description = A Ribbon awarded for beating the Alola Champion and entering the Alola Hall of Fame.
-Title = the Alola Champion
+Description = Un Ruban décerné pour avoir vaincu le Champion de Alola et rejoint le Panthéon de Alola.
+Title = le Champion d’Alola
 Flags = LeagueRibbon
 #-------------------------------
 [GALARCHAMPION]
-Name = Galar Champion Ribbon
+Name = Ruban Champion de Galar
 IconPosition = 54
-Description = A Ribbon awarded for beating the Galar Champion and entering the Galar Hall of Fame.
-Title = the Galar Champion
+Description = Un Ruban décerné pour avoir vaincu le Champion de Galar et rejoint le Panthéon de Galar.
+Title = le Champion de Galar
 Flags = LeagueRibbon
 #-------------------------------
 [PALDEACHAMPION]
-Name = Paldea Champion Ribbon
+Name = Ruban Champion de Paldea
 IconPosition = 55
-Description = A Ribbon awarded for beating the Paldea Champion and entering the Paldea Hall of Fame.
-Title = the Paldea Champion
+Description = Un Ruban décerné pour avoir vaincu le Champion de Paldea et rejoint le Panthéon de Paldea.
+Title = le Champion de Paldea
 Flags = LeagueRibbon
 #-------------------------------
 [WINNING]
-Name = Winning Ribbon
+Name = Ruban Victoire
 IconPosition = 56
-Description = Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 50 challenge.
+Description = Ruban décerné pour avoir remporté le défi niveau 50 de la Tour de Combat de Hoenn.
 Flags = FrontierRibbon
 #-------------------------------
 [VICTORY]
-Name = Victory Ribbon
+Name = Ruban Triomphe
 IconPosition = 57
-Description = Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 100 challenge.
+Description = Ruban décerné pour avoir remporté le défi niveau 100 de la Tour de Combat de Hoenn.
 PreviousRanks = WINNING
 Flags = FrontierRibbon
 #-------------------------------
 [ABILITY]
-Name = Ability Ribbon
+Name = Ruban Habileté
 IconPosition = 58
-Description = A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower.
+Description = Un Ruban décerné pour avoir vaincu le Magnat de la Tour à la Tour de Combat.
 Flags = FrontierRibbon
 #-------------------------------
 [GREATABILITY]
-Name = Great Ability Ribbon
+Name = Ruban Grande Habileté
 IconPosition = 59
-Description = A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower.
+Description = Un Ruban décerné pour avoir vaincu le Magnat de la Tour à la Tour de Combat.
 PreviousRanks = ABILITY
 Flags = FrontierRibbon
 #-------------------------------
 [DOUBLEABILITY]
-Name = Double Ability Ribbon
+Name = Ruban Habileté Duo
 IconPosition = 60
-Description = A Ribbon awarded for completing the Battle Tower Double challenge.
+Description = Un Ruban décerné pour avoir terminé le défi Duo de la Tour de Combat.
 Flags = FrontierRibbon
 #-------------------------------
 [MULTIABILITY]
-Name = Multi Ability Ribbon
+Name = Ruban Habileté Multi
 IconPosition = 61
-Description = A Ribbon awarded for completing the Battle Tower Multi challenge.
+Description = Un Ruban décerné pour avoir terminé le défi Multi de la Tour de Combat.
 PreviousRanks = DOUBLEABILITY
 Flags = FrontierRibbon
 #-------------------------------
 [PAIRABILITY]
-Name = Pair Ability Ribbon
+Name = Ruban Habileté Paire
 IconPosition = 62
-Description = A Ribbon awarded for completing the Battle Tower Link Multi challenge.
+Description = Un Ruban décerné pour avoir terminé le défi Multi en réseau de la Tour de Combat.
 Flags = FrontierRibbon
 #-------------------------------
 [WORLDABILITY]
-Name = World Ability Ribbon
+Name = Ruban Habileté Monde
 IconPosition = 63
-Description = A Ribbon awarded for completing the Wi-Fi Battle Tower challenge.
+Description = Un Ruban décerné pour avoir terminé le défi Wi-Fi de la Tour de Combat.
 Flags = FrontierRibbon
 #-------------------------------
 [BATTLEMEMORY]
-Name = Battle Memory Ribbon
+Name = Ruban Souvenir Combat
 IconPosition = 64
-Description = A commemorative Ribbon representing all of the Ribbons you collected for battling somewhere long ago.
-Title = the Exciting Memory
+Description = Un Ruban commémoratif représentant tous les Rubans de Combat obtenus autrefois dans une contrée lointaine.
+Title = au souvenir palpitant
 PreviousRanks = WINNING,VICTORY,ABILITY,GREATABILITY,DOUBLEABILITY,MULTIABILITY,PAIRABILITY,WORLDABILITY
 Flags = FrontierRibbon
 #-------------------------------
 [BATTLEMEMORYGOLD]
-Name = Battle Memory Ribbon
+Name = Ruban Souvenir Combat
 IconPosition = 65
-Description = A commemorative Ribbon representing all of the Ribbons you collected for battling somewhere long ago.
-Title = the Exciting Memory
+Description = Un Ruban commémoratif représentant tous les Rubans de Combat obtenus autrefois dans une contrée lointaine.
+Title = au souvenir palpitant
 PreviousRanks = WINNING,VICTORY,ABILITY,GREATABILITY,DOUBLEABILITY,MULTIABILITY,PAIRABILITY,WORLDABILITY
 Flags = FrontierRibbon
 #-------------------------------
 [SKILLFULBATTLER]
-Name = Skillful Battler Ribbon
+Name = Ruban Combattant Émérite
 IconPosition = 66
-Description = A Ribbon that can be given to a Pokémon that has achieved victory in difficult battles.
-Title = the Veteran
+Description = Un Ruban décerné à un Pokémon ayant remporté des combats difficiles.
+Title = le vétéran
 Flags = FrontierRibbon
 #-------------------------------
 [EXPERTBATTLER]
-Name = Expert Battler Ribbon
+Name = Ruban Combattant Expert
 IconPosition = 67
-Description = A Ribbon that can be given to a brave Pokémon that has honed its battle skills to an art.
-Title = the Master
+Description = Un Ruban décerné à un courageux Pokémon ayant élevé le combat au rang d’art.
+Title = le maître
 PreviousRanks = SKILLFULBATTLER
 Flags = FrontierRibbon
 #-------------------------------
 [BATTLETREEGREAT]
-Name = Battle Tree Great Ribbon
+Name = Ruban Arbre de Combat Méga
 IconPosition = 68
-Description = A Ribbon awarded for winning against a Battle Legend in the Battle Tree.
-Title = the Tree Victor
+Description = Un Ruban décerné pour avoir vaincu une Légende de Combat à l’Arbre de Combat.
+Title = le vainqueur de l’Arbre
 Flags = FrontierRibbon
 #-------------------------------
 [BATTLETREEMASTER]
-Name = Battle Tree Master Ribbon
+Name = Ruban Arbre de Combat Master
 IconPosition = 69
-Description = A Ribbon awarded for winning against a Battle Legend in super battles in the Battle Tree.
-Title = the Tree Master
+Description = Un Ruban décerné pour avoir vaincu une Légende de Combat en Combat Super à l’Arbre de Combat.
+Title = le maître de l’Arbre
 PreviousRanks = BATTLETREEGREAT
 Flags = FrontierRibbon
 #-------------------------------
 [TOWERMASTER]
-Name = Tower Master Ribbon
+Name = Ruban Maître de la Tour
 IconPosition = 70
-Description = A Ribbon awarded for winning against a champion in the Battle Tower.
-Title = the Tower Master
+Description = Un Ruban décerné pour avoir vaincu un Champion à la Tour de Combat.
+Title = le maître de la Tour
 Flags = FrontierRibbon
 #-------------------------------
 [ARTIST]
-Name = Artist Ribbon
+Name = Ruban Artiste
 IconPosition = 71
-Description = A Ribbon awarded for being chosen as a super sketch model in the Hoenn region.
-Title = the Model for Paintings
+Description = Un Ruban décerné pour avoir été choisi comme modèle d’une superbe œuvre dans la région de Hoenn.
+Title = le modèle des peintres
 Flags = MemorialRibbon
 #-------------------------------
 [EFFORT]
-Name = Effort Ribbon
+Name = Ruban Effort
 IconPosition = 72
-Description = Ribbon awarded for being an exceptionally hard worker.
-Title = the Once Well-Trained
+Description = Ruban décerné à un Pokémon ayant fourni des efforts exceptionnels.
+Title = l’ancien bien entraîné
 Flags = MemorialRibbon
 #-------------------------------
 [ALERT]
-Name = Alert Ribbon
+Name = Ruban Alerte
 IconPosition = 73
-Description = A Ribbon for recalling an invigorating event that created life energy.
-Title = the Once Vigilant
+Description = Un Ruban rappelant un événement revigorant qui lui a insufflé de l’énergie.
+Title = l’ancien vigilant
 Flags = MemorialRibbon
 #-------------------------------
 [SHOCK]
-Name = Shock Ribbon
+Name = Ruban Choc
 IconPosition = 74
-Description = A Ribbon for recalling a thrilling event that made life more exciting.
-Title = the Once Cowardly
+Description = Un Ruban rappelant un événement palpitant qui a pimenté sa vie.
+Title = l’ancien peureux
 Flags = MemorialRibbon
 #-------------------------------
 [DOWNCAST]
-Name = Downcast Ribbon
+Name = Ruban Déprime
 IconPosition = 75
-Description = A Ribbon for recalling feelings of sadness that added spice to life.
-Title = the Once Shaken
+Description = Un Ruban rappelant des sentiments de tristesse qui ont marqué sa vie.
+Title = l’ancien bouleversé
 Flags = MemorialRibbon
 #-------------------------------
 [CARELESS]
-Name = Careless Ribbon
+Name = Ruban Négligence
 IconPosition = 76
-Description = A Ribbon for recalling a careless error that helped steer life decisions.
-Title = the Once Imperfect
+Description = Un Ruban rappelant une erreur d’inattention qui l’a aidé à orienter ses choix.
+Title = l’ancien imparfait
 Flags = MemorialRibbon
 #-------------------------------
 [RELAX]
-Name = Relax Ribbon
+Name = Ruban Détente
 IconPosition = 77
-Description = A Ribbon for recalling a refreshing event that added sparkle to life.
-Title = the Once Well-Rested
+Description = Un Ruban rappelant un événement rafraîchissant qui a illuminé sa vie.
+Title = l’ancien bien reposé
 Flags = MemorialRibbon
 #-------------------------------
 [SNOOZE]
-Name = Snooze Ribbon
+Name = Ruban Sieste
 IconPosition = 78
-Description = A Ribbon for recalling a deep slumber that made life soothing.
-Title = the Once Sleepy
+Description = Un Ruban rappelant un profond sommeil qui lui a apporté de la sérénité.
+Title = l’ancien dormeur
 Flags = MemorialRibbon
 #-------------------------------
 [SMILE]
-Name = Smile Ribbon
+Name = Ruban Sourire
 IconPosition = 79
-Description = A Ribbon for recalling that smiles enrich the quality of life.
-Title = the Once Cheery
+Description = Un Ruban rappelant que les sourires rendent la vie plus belle.
+Title = l’ancien joyeux
 Flags = MemorialRibbon
 #-------------------------------
 [GORGEOUS]
-Name = Gorgeous Ribbon
+Name = Ruban Élégance
 IconPosition = 80
-Description = An extraordinarily gorgeous and extravagant Ribbon.
-Title = the Gorgeous
+Description = Un Ruban extraordinairement somptueux et extravagant.
+Title = le magnifique
 Flags = MemorialRibbon
 #-------------------------------
 [ROYAL]
-Name = Royal Ribbon
+Name = Ruban Royal
 IconPosition = 81
-Description = An incredibly regal Ribbon with an air of nobility.
-Title = the Royal
+Description = Un Ruban incroyablement royal empreint de noblesse.
+Title = le royal
 Flags = MemorialRibbon
 #-------------------------------
 [GORGEOUSROYAL]
-Name = Gorgeous Royal Ribbon
+Name = Ruban Royal Élégance
 IconPosition = 82
-Description = A gorgeous and regal Ribbon that is the peak of fabulous.
-Title = the Gorgeous Royal
+Description = Un Ruban somptueux et royal, au summum du merveilleux.
+Title = le royal magnifique
 PreviousRanks = GORGEOUS,ROYAL
 Flags = MemorialRibbon
 #-------------------------------
 [FOOTPRINT]
-Name = Footprint Ribbon
+Name = Ruban Empreinte
 IconPosition = 83
-Description = A Ribbon awarded to a Pokémon deemed to have a top-quality footprint.
-Title = the Strutter
+Description = Un Ruban décerné à un Pokémon dont l’empreinte est jugée exceptionnelle.
+Title = le fier marcheur
 Flags = MemorialRibbon
 #-------------------------------
 [RECORD]
-Name = Record Ribbon
+Name = Ruban Record
 IconPosition = 84
-Description = A Ribbon awarded for setting an incredible record.
-Title = the Record Holder
+Description = Un Ruban décerné pour avoir établi un record incroyable.
+Title = le détenteur du record
 Flags = MemorialRibbon
 #-------------------------------
 [LEGEND]
-Name = Legend Ribbon
+Name = Ruban Légende
 IconPosition = 85
-Description = A Ribbon awarded for setting a legendary record.
-Title = the Living Legend
+Description = Un Ruban décerné pour avoir établi un record légendaire.
+Title = la légende vivante
 Flags = MemorialRibbon
 #-------------------------------
 [BESTFRIENDS]
-Name = Best Friends Ribbon
+Name = Ruban Meilleurs Amis
 IconPosition = 86
-Description = A Ribbon that can be given to a Pokémon with which you share a close and meaningful bond.
-Title = the Great Friend
+Description = Un Ruban décerné à un Pokémon avec lequel vous partagez un lien profond et précieux.
+Title = le grand ami
 Flags = MemorialRibbon
 #-------------------------------
 [TRAINING]
-Name = Training Ribbon
+Name = Ruban Entraînement
 IconPosition = 87
-Description = A Ribbon that can be given to a Pokémon that has overcome rigorous trials and training.
-Title = the Tried and True
+Description = Un Ruban décerné à un Pokémon ayant surmonté des épreuves et entraînements rigoureux.
+Title = l’endurci
 Flags = MemorialRibbon
 #-------------------------------
 [BATTLEROYALMASTER]
-Name = Battle Royal Master Ribbon
+Name = Ruban Master Bataille Royale
 IconPosition = 88
-Description = A Ribbon that can be given to a Pokémon that has achieved victory in the Battle Royal.
-Title = the Royal Master
+Description = Un Ruban décerné à un Pokémon ayant remporté une Bataille Royale.
+Title = le maître royal
 Flags = FrontierRibbon
 #-------------------------------
 [MASTERRANK]
-Name = Master Rank Ribbon
+Name = Ruban Rang Master
 IconPosition = 89
-Description = A Ribbon awarded for winning against a Trainer in the Master Ball Tier of Ranked Battles.
-Title = the Rank Master
+Description = Un Ruban décerné pour avoir vaincu un Dresseur de la catégorie Master Ball en Combat Classé.
+Title = le maître du classement
 Flags = MemorialRibbon
 #-------------------------------
 [PIONEER]
-Name = Hisui Ribbon
+Name = Ruban Hisui
 IconPosition = 90
-Description = A ribbon awarded to a Pokémon that posed for a photograph in Hisui in the distant past.
-Title = of the Distant Past
+Description = Un Ruban décerné à un Pokémon ayant posé pour une photo à Hisui dans un lointain passé.
+Title = du lointain passé
 Flags = MemorialRibbon
 #-------------------------------
 [LIFETIME]
-Name = Once-in-a-Lifetime Ribbon
+Name = Ruban Exceptionnel
 IconPosition = 91
-Description = A rare ribbon found extremely infrequently on Pokémon obtained in a Surprise Trade.
-Title = the One-in-a-Million
+Description = Un Ruban très rare parfois porté par un Pokémon obtenu via un Échange Magique.
+Title = l’unique parmi un million
 Flags = MemorialRibbon
 #-------------------------------
 [EVENT]
-Name = Event Ribbon
+Name = Ruban Événement
 IconPosition = 92
-Description = A Ribbon awarded for participating in a special Pokémon event.
-Title = the Festive
+Description = Un Ruban décerné pour avoir participé à un événement Pokémon spécial.
+Title = le festif
 Flags = GiftRibbon
 #-------------------------------
 [BIRTHDAY]
-Name = Birthday Ribbon
+Name = Ruban Anniversaire
 IconPosition = 93
-Description = A Ribbon that commemorates a birthday.
-Title = the Best Buddy
+Description = Un Ruban commémorant un anniversaire.
+Title = le meilleur ami
 Flags = GiftRibbon
 #-------------------------------
 [SPECIAL]
-Name = Special Ribbon
+Name = Ruban Spécial
 IconPosition = 94
-Description = A special Ribbon for a special day.
-Title = the Premium
+Description = Un Ruban spécial pour un jour spécial.
+Title = le prestigieux
 Flags = GiftRibbon
 #-------------------------------
 [SOUVENIR]
-Name = Souvenir Ribbon
+Name = Ruban Souvenir
 IconPosition = 95
-Description = A Ribbon for cherishing a special memory.
-Title = the Cherished
+Description = Un Ruban célébrant un souvenir précieux.
+Title = le bien-aimé
 Flags = GiftRibbon
 #-------------------------------
 [NATIONAL]
-Name = National Ribbon
+Name = Ruban National
 IconPosition = 96
-Description = A Ribbon awarded for overcoming all difficult challenges.
-Title = the Triumphant
+Description = Un Ruban décerné pour avoir surmonté toutes sortes d’épreuves difficiles.
+Title = le triomphant
 Flags = GiftRibbon
 #-------------------------------
 [COUNTRY]
-Name = Country Ribbon
+Name = Ruban Pays
 IconPosition = 97
-Description = A Ribbon awarded to a Pokémon League Champion.
-Title = the Victor
+Description = Un Ruban décerné à un Champion de la Ligue Pokémon.
+Title = le vainqueur
 Flags = GiftRibbon
 #-------------------------------
 [BATTLECHAMPION]
-Name = Battle Champion Ribbon
+Name = Ruban Champion de Combat
 IconPosition = 98
-Description = A Ribbon awarded to a Battle Competition Champion.
-Title = the Battle Champion
+Description = Un Ruban décerné au Champion d’une compétition de combat.
+Title = le champion de combat
 Flags = GiftRibbon
 #-------------------------------
 [REGIONALCHAMPION]
-Name = Regional Champion Ribbon
+Name = Ruban Champion Régional
 IconPosition = 99
-Description = A Ribbon awarded to a Regional Champion in the Pokémon World Championships.
-Title = the Regional Champion
+Description = Un Ruban décerné à un Champion régional des Championnats du Monde Pokémon.
+Title = le champion régional
 PreviousRanks = BATTLECHAMPION
 Flags = GiftRibbon
 #-------------------------------
 [EARTH]
-Name = Earth Ribbon
+Name = Ruban Terre
 IconPosition = 100
-Description = A Ribbon awarded for winning one hundred battles in a row.
-Title = the 100x Victorious
+Description = Un Ruban décerné pour avoir remporté cent combats d’affilée.
+Title = aux 100 victoires
 Flags = GiftRibbon
 #-------------------------------
 [WORLD]
-Name = World Ribbon
+Name = Ruban Monde
 IconPosition = 101
-Description = A Ribbon awarded to a Pokémon League Champion.
-Title = the World Conqueror
+Description = Un Ruban décerné à un Champion de la Ligue Pokémon.
+Title = le conquérant du monde
 Flags = GiftRibbon
 #-------------------------------
 [NATIONALCHAMPION]
-Name = National Champion Ribbon
+Name = Ruban Champion National
 IconPosition = 102
-Description = A Ribbon awarded to a National Champion in the Pokémon World Championships.
-Title = the National Champion
+Description = Un Ruban décerné à un Champion national des Championnats du Monde Pokémon.
+Title = le champion national
 Flags = GiftRibbon
 #-------------------------------
 [WORLDCHAMPION]
-Name = World Champion Ribbon
+Name = Ruban Champion du Monde
 IconPosition = 103
-Description = A Ribbon awarded to a World Champion in the Pokémon World Championships.
-Title = the World Champion
+Description = Un Ruban décerné à un Champion du Monde des Championnats du Monde Pokémon.
+Title = le champion du monde
 PreviousRanks = NATIONALCHAMPION
 Flags = GiftRibbon
 #-------------------------------
 [CLASSIC]
-Name = Classic Ribbon
+Name = Ruban Classique
 IconPosition = 104
-Description = A Ribbon that proclaims love for Pokémon.
-Title = the Pokémon Fan
+Description = Un Ruban proclamant l’amour porté aux Pokémon.
+Title = le fan de Pokémon
 Flags = GiftRibbon
 #-------------------------------
 [PREMIER]
-Name = Premier Ribbon
+Name = Ruban Premier
 IconPosition = 105
-Description = A Ribbon awarded for a special holiday.
-Title = the Celebratory
+Description = Un Ruban décerné à l’occasion d’une fête spéciale.
+Title = le célébré
 Flags = GiftRibbon
 #-------------------------------
 [RED]
-Name = Red Ribbon
+Name = Ruban Rouge
 IconPosition = 106
-Description = A commemorative Ribbon obtained in a Mystery Zone.
+Description = Un Ruban commémoratif obtenu dans une Zone Mystère.
 Flags = GiftRibbon
 #-------------------------------
 [GREEN]
-Name = Green Ribbon
+Name = Ruban Vert
 IconPosition = 107
-Description = A commemorative Ribbon obtained in a Mystery Zone.
+Description = Un Ruban commémoratif obtenu dans une Zone Mystère.
 Flags = GiftRibbon
 #-------------------------------
 [BLUE]
-Name = Blue Ribbon
+Name = Ruban Bleu
 IconPosition = 108
-Description = A commemorative Ribbon obtained in a Mystery Zone.
+Description = Un Ruban commémoratif obtenu dans une Zone Mystère.
 Flags = GiftRibbon
 #-------------------------------
 [MARINE]
-Name = Marine Ribbon
+Name = Ruban Marin
 IconPosition = 109
-Description = A commemorative Ribbon obtained in a Mystery Zone.
+Description = Un Ruban commémoratif obtenu dans une Zone Mystère.
 Flags = GiftRibbon
 #-------------------------------
 [LAND]
-Name = Land Ribbon
+Name = Ruban Terrestre
 IconPosition = 110
-Description = A commemorative Ribbon obtained in a Mystery Zone.
+Description = Un Ruban commémoratif obtenu dans une Zone Mystère.
 Flags = GiftRibbon
 #-------------------------------
 [SKY]
-Name = Sky Ribbon
+Name = Ruban Ciel
 IconPosition = 111
-Description = A commemorative Ribbon obtained in a Mystery Zone.
+Description = Un Ruban commémoratif obtenu dans une Zone Mystère.
 Flags = GiftRibbon
 #-------------------------------
 [WISHING]
-Name = Wishing Ribbon
+Name = Ruban Souhait
 IconPosition = 112
-Description = A Ribbon said to make your wish come true.
-Title = the Wish Granter
+Description = Un Ruban dont on dit qu’il exauce les souhaits.
+Title = l’exauceur de souhaits
 Flags = GiftRibbon
 #-------------------------------
 [LUNCHTIMEMARK]
-Name = Lunchtime Mark
+Name = Insigne du Midi
 IconPosition = 113
-Description = A mark for a peckish Pokémon.
-Title = the Peckish
+Description = Un insigne porté par un Pokémon ayant un petit creux.
+Title = le petit creux
 IsMark = true
 Flags = TimeMark
 #-------------------------------
 [SLEEPYTIMEMARK]
-Name = Sleepy-Time Mark
+Name = Insigne du Sommeil
 IconPosition = 114
-Description = A mark for a sleepy Pokémon.
-Title = the Sleepy
+Description = Un insigne porté par un Pokémon somnolent.
+Title = le dormeur
 IsMark = true
 Flags = TimeMark
 #-------------------------------
 [DUSKMARK]
-Name = Dusk Mark
+Name = Insigne du Crépuscule
 IconPosition = 115
-Description = A mark for a dozy Pokémon.
-Title = the Dozy
+Description = Un insigne porté par un Pokémon assoupi.
+Title = le somnolent
 IsMark = true
 Flags = TimeMark
 #-------------------------------
 [DAWNMARK]
-Name = Dawn Mark
+Name = Insigne de l’Aube
 IconPosition = 116
-Description = A mark for an early-riser Pokémon.
-Title = the Early Riser
+Description = Un insigne porté par un Pokémon lève-tôt.
+Title = le lève-tôt
 IsMark = true
 Flags = TimeMark
 #-------------------------------
 [CLOUDYMARK]
-Name = Cloudy Mark
+Name = Insigne Nuageux
 IconPosition = 117
-Description = A mark for a cloud-watching Pokémon.
-Title = the Cloud Watcher
+Description = Un insigne porté par un Pokémon qui observe les nuages.
+Title = l’observateur des nuages
 IsMark = true
 Flags = WeatherMark
 #-------------------------------
 [RAINYMARK]
-Name = Rainy Mark
+Name = Insigne Pluvieux
 IconPosition = 118
-Description = A mark for a sodden Pokémon.
-Title = the Sodden
+Description = Un insigne porté par un Pokémon trempé.
+Title = le trempé
 IsMark = true
 Flags = WeatherMark
 #-------------------------------
 [STORMYMARK]
-Name = Stormy Mark
+Name = Insigne Orageux
 IconPosition = 119
-Description = A mark for a thunderstruck Pokémon.
-Title = the Thunderstruck
+Description = Un insigne porté par un Pokémon foudroyé.
+Title = le foudroyé
 IsMark = true
 Flags = WeatherMark
 #-------------------------------
 [SNOWYMARK]
-Name = Snowy Mark
+Name = Insigne Neigeux
 IconPosition = 120
-Description = A mark for a snow-frolicking Pokémon.
-Title = the Snow Frolicker
+Description = Un insigne porté par un Pokémon qui joue dans la neige.
+Title = le joueur des neiges
 IsMark = true
 Flags = WeatherMark
 #-------------------------------
 [BLIZZARDMARK]
-Name = Blizzard Mark
+Name = Insigne du Blizzard
 IconPosition = 121
-Description = A mark for a shivering Pokémon.
-Title = the Shivering
+Description = Un insigne porté par un Pokémon grelottant.
+Title = le grelottant
 IsMark = true
 Flags = WeatherMark
 #-------------------------------
 [DRYMARK]
-Name = Dry Mark
+Name = Insigne Aride
 IconPosition = 122
-Description = A mark for a parched Pokémon.
-Title = the Parched
+Description = Un insigne porté par un Pokémon assoiffé.
+Title = l’assoiffé
 IsMark = true
 Flags = WeatherMark
 #-------------------------------
 [SANDSTORMMARK]
-Name = Sandstorm Mark
+Name = Insigne Tempête de Sable
 IconPosition = 123
-Description = A mark for a sandswept Pokémon.
-Title = the Sandswept
+Description = Un insigne porté par un Pokémon ensablé.
+Title = l’ensablé
 IsMark = true
 Flags = WeatherMark
 #-------------------------------
 [MISTYMARK]
-Name = Misty Mark
+Name = Insigne Brumeux
 IconPosition = 124
-Description = A mark for a mist-drifter Pokémon.
-Title = the Mist Drifter
+Description = Un insigne porté par un Pokémon qui erre dans la brume.
+Title = l’errant des brumes
 IsMark = true
 Flags = WeatherMark
 #-------------------------------
 [DESTINYMARK]
-Name = Destiny Mark
+Name = Insigne du Destin
 IconPosition = 125
-Description = A mark of a chosen Pokémon.
-Title = the Chosen One
+Description = Un insigne porté par un Pokémon élu.
+Title = l’élu
 IsMark = true
 Flags = EncounterMark
 #-------------------------------
 [FISHINGMARK]
-Name = Fishing Mark
+Name = Insigne de la Pêche
 IconPosition = 126
-Description = A mark for a catch-of-the-day Pokémon.
-Title = the Catch of the Day
+Description = Un insigne porté par un Pokémon qui est la prise du jour.
+Title = la prise du jour
 IsMark = true
 Flags = EncounterMark
 #-------------------------------
 [CURRYMARK]
-Name = Curry Mark
+Name = Insigne du Curry
 IconPosition = 127
-Description = A mark for a curry-connoisseur Pokémon.
-Title = the Curry Connoisseur
+Description = Un insigne porté par un Pokémon amateur de curry.
+Title = le connaisseur de curry
 IsMark = true
 Flags = EncounterMark
 #-------------------------------
 [RAREMARK]
-Name = Rare Mark
+Name = Insigne Rare
 IconPosition = 128
-Description = A mark for a reclusive Pokémon.
-Title = the Recluse
+Description = Un insigne porté par un Pokémon solitaire.
+Title = le solitaire
 IsMark = true
 Flags = RarityMark
 #-------------------------------
 [UNCOMMONMARK]
-Name = Uncommon Mark
+Name = Insigne Sociable
 IconPosition = 129
-Description = A mark for a sociable Pokémon.
-Title = the Sociable
+Description = Un insigne porté par un Pokémon sociable.
+Title = le sociable
 IsMark = true
 Flags = RarityMark
 #-------------------------------
 [ROWDYMARK]
-Name = Rowdy Mark
+Name = Insigne Turbulent
 IconPosition = 130
-Description = A mark for a rowdy Pokémon.
-Title = the Rowdy
+Description = Un insigne porté par un Pokémon turbulent.
+Title = le turbulent
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [ABSENTMINDEDMARK]
-Name = Absent-Minded Mark
+Name = Insigne Tête en l’Air
 IconPosition = 131
-Description = A mark for a spacey Pokémon.
-Title = the Spacey
+Description = Un insigne porté par un Pokémon tête en l’air.
+Title = le tête en l’air
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [JITTERYMARK]
-Name = Jittery Mark
+Name = Insigne Nerveux
 IconPosition = 132
-Description = A mark for an anxious Pokémon.
-Title = the Anxious
+Description = Un insigne porté par un Pokémon anxieux.
+Title = l’anxieux
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [EXCITEDMARK]
-Name = Excited Mark
+Name = Insigne Surexcité
 IconPosition = 133
-Description = A mark for a giddy Pokémon.
-Title = the Giddy
+Description = Un insigne porté par un Pokémon surexcité.
+Title = l’exalté
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [CHARISMATICMARK]
-Name = Charismatic Mark
+Name = Insigne Charismatique
 IconPosition = 134
-Description = A mark for a radiant Pokémon.
-Title = the Radiant
+Description = Un insigne porté par un Pokémon rayonnant.
+Title = le rayonnant
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [CALMNESSMARK]
-Name = Calmness Mark
+Name = Insigne Calme
 IconPosition = 135
-Description = A mark for a serene Pokémon.
-Title = the Serene
+Description = Un insigne porté par un Pokémon serein.
+Title = le serein
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [INTENSEMARK]
-Name = Intense Mark
+Name = Insigne Intense
 IconPosition = 136
-Description = A mark for a feisty Pokémon.
-Title = the Feisty
+Description = Un insigne porté par un Pokémon fougueux.
+Title = le fougueux
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [ZONEDOUTMARK]
-Name = Zoned-Out Mark
+Name = Insigne Rêveur
 IconPosition = 137
-Description = A mark for a daydreaming Pokémon.
-Title = the Daydreamer
+Description = Un insigne porté par un Pokémon rêveur.
+Title = le rêveur
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [JOYFULMARK]
-Name = Joyful Mark
+Name = Insigne Joyeux
 IconPosition = 138
-Description = A mark for a joyful Pokémon.
-Title = the Joyful
+Description = Un insigne porté par un Pokémon joyeux.
+Title = le joyeux
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [ANGRYMARK]
-Name = Angry Mark
+Name = Insigne Furieux
 IconPosition = 139
-Description = A mark for a furious Pokémon.
-Title = the Furious
+Description = Un insigne porté par un Pokémon furieux.
+Title = le furieux
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [SMILEYMARK]
-Name = Smiley Mark
+Name = Insigne Souriant
 IconPosition = 140
-Description = A mark for a beaming Pokémon.
-Title = the Beaming
+Description = Un insigne porté par un Pokémon radieux.
+Title = le radieux
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [TEARYMARK]
-Name = Teary Mark
+Name = Insigne Larmoyant
 IconPosition = 141
-Description = A mark for a teary-eyed Pokémon.
-Title = the Teary-Eyed
+Description = Un insigne porté par un Pokémon larmoyant.
+Title = le larmoyant
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [UPBEATMARK]
-Name = Upbeat Mark
+Name = Insigne Enjoué
 IconPosition = 142
-Description = A mark for a chipper Pokémon.
-Title = the Chipper
+Description = Un insigne porté par un Pokémon enjoué.
+Title = l’enjoué
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [PEEVEDMARK]
-Name = Peeved Mark
+Name = Insigne Grognon
 IconPosition = 143
-Description = A mark for a grumpy Pokémon.
-Title = the Grumpy
+Description = Un insigne porté par un Pokémon grognon.
+Title = le grognon
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [INTELLECTUALMARK]
-Name = Intellectual Mark
+Name = Insigne Intellectuel
 IconPosition = 144
-Description = A mark for a scholarly Pokémon.
-Title = the Scholar
+Description = Un insigne porté par un Pokémon érudit.
+Title = l’érudit
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [FEROCIOUSMARK]
-Name = Ferocious Mark
+Name = Insigne Féroce
 IconPosition = 145
-Description = A mark for a rampaging Pokémon.
-Title = the Rampaging
+Description = Un insigne porté par un Pokémon déchaîné.
+Title = le déchaîné
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [CRAFTYMARK]
-Name = Crafty Mark
+Name = Insigne Rusé
 IconPosition = 146
-Description = A mark for an opportunistic Pokémon.
-Title = the Opportunist
+Description = Un insigne porté par un Pokémon opportuniste.
+Title = l’opportuniste
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [SCOWLINGMARK]
-Name = Scowling Mark
+Name = Insigne Sévère
 IconPosition = 147
-Description = A mark for a stern Pokémon.
-Title = the Stern
+Description = Un insigne porté par un Pokémon sévère.
+Title = le sévère
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [KINDLYMARK]
-Name = Kindly Mark
+Name = Insigne Bienveillant
 IconPosition = 148
-Description = A mark for a kindhearted Pokémon.
-Title = the Kindhearted
+Description = Un insigne porté par un Pokémon bienveillant.
+Title = le bienveillant
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [FLUSTEREDMARK]
-Name = Flustered Mark
+Name = Insigne Déconcerté
 IconPosition = 149
-Description = A mark for an easily flustered Pokémon.
-Title = the Easily Flustered
+Description = Un insigne porté par un Pokémon facilement troublé.
+Title = le facilement troublé
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [PUMPEDUPMARK]
-Name = Pumped-Up Mark
+Name = Insigne Motivé
 IconPosition = 150
-Description = A mark for a driven Pokémon.
-Title = the Driven
+Description = Un insigne porté par un Pokémon déterminé.
+Title = le déterminé
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [ZEROENERGYMARK]
-Name = Zero Energy Mark
+Name = Insigne Apathique
 IconPosition = 151
-Description = A mark for an apathetic Pokémon.
-Title = the Apathetic
+Description = Un insigne porté par un Pokémon apathique.
+Title = l’apathique
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [PRIDEFULMARK]
-Name = Prideful Mark
+Name = Insigne Orgueilleux
 IconPosition = 152
-Description = A mark for an arrogant Pokémon.
-Title = the Arrogant
+Description = Un insigne porté par un Pokémon arrogant.
+Title = l’arrogant
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [UNSUREMARK]
-Name = Unsure Mark
+Name = Insigne Hésitant
 IconPosition = 153
-Description = A mark for an unsure Pokémon.
-Title = the Reluctant
+Description = Un insigne porté par un Pokémon hésitant.
+Title = l’hésitant
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [HUMBLEMARK]
-Name = Humble Mark
+Name = Insigne Humble
 IconPosition = 154
-Description = A mark for a humble Pokémon.
-Title = the Humble
+Description = Un insigne porté par un Pokémon humble.
+Title = l’humble
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [THORNYMARK]
-Name = Thorny Mark
+Name = Insigne Prétentieux
 IconPosition = 155
-Description = A mark for a pompous Pokémon.
-Title = the Pompous
+Description = Un insigne porté par un Pokémon prétentieux.
+Title = le prétentieux
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [VIGORMARK]
-Name = Vigor Mark
+Name = Insigne Vigueur
 IconPosition = 156
-Description = A mark for a lively Pokémon.
-Title = the Lively
+Description = Un insigne porté par un Pokémon plein d’entrain.
+Title = le plein d’entrain
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [SLUMPMARK]
-Name = Slump Mark
+Name = Insigne Épuisé
 IconPosition = 157
-Description = A mark for a worn-out Pokémon.
-Title = the Worn-Out
+Description = Un insigne porté par un Pokémon épuisé.
+Title = l’épuisé
 IsMark = true
 Flags = PersonalityMark
 #-------------------------------
 [JUMBOMARK]
-Name = Jumbo Mark
+Name = Insigne Maxi
 IconPosition = 158
-Description = A mark for a Pokémon that's the largest it can be.
-Title = the Great
+Description = Un insigne porté par un Pokémon ayant la plus grande taille possible.
+Title = le géant
 IsMark = true
 Flags = SizeMark
 #-------------------------------
 [MINIMARK]
-Name = Mini Mark
+Name = Insigne Mini
 IconPosition = 159
-Description = A mark for a Pokémon that's the smallest it can be.
-Title = the Teeny
+Description = Un insigne porté par un Pokémon ayant la plus petite taille possible.
+Title = le minuscule
 IsMark = true
 Flags = SizeMark
 #-------------------------------
 [ITEMFINDERMARK]
-Name = Itemfinder Mark
+Name = Insigne Cherche-Objet
 IconPosition = 160
-Description = A mark for a Pokémon that likes to pick things up.
-Title = the Treasure Hunter
+Description = Un insigne porté par un Pokémon qui aime ramasser des objets.
+Title = le chasseur de trésors
 IsMark = true
 Flags = PartyMark
 #-------------------------------
 [PARTNERMARK]
-Name = Partner Mark
+Name = Insigne Partenaire
 IconPosition = 161
-Description = A mark for a friendly Pokémon.
-Title = the Reliable Partner
+Description = Un insigne porté par un Pokémon amical.
+Title = le partenaire fiable
 IsMark = true
 Flags = PartyMark
 #-------------------------------
 [GOURMANDMARK]
-Name = Gourmand Mark
+Name = Insigne Gourmand
 IconPosition = 162
-Description = A mark for a Pokémon gourmet.
-Title = the Gourmet
+Description = Un insigne porté par un Pokémon gourmet.
+Title = le gourmet
 IsMark = true
 Flags = PartyMark
 #-------------------------------
 [ALPHAMARK]
-Name = Alpha Mark
+Name = Insigne Baron
 IconPosition = 163
-Description = A mark for a Pokémon that was an alpha.
-Title = the Former Alpha
+Description = Un insigne porté par un Pokémon qui était autrefois un Baron.
+Title = l’ancien Baron
 IsMark = true
 Flags = BossMark
 #-------------------------------
 [MIGHTIESTMARK]
-Name = Mightiest Mark
+Name = Insigne Surpuissant
 IconPosition = 164
-Description = A mark for an especially mighty Pokémon.
-Title = the Unrivaled
+Description = Un insigne porté par un Pokémon particulièrement puissant.
+Title = l’inégalé
 IsMark = true
 Flags = BossMark
 #-------------------------------
 [TITANMARK]
-Name = Titan Mark
+Name = Insigne Dominant
 IconPosition = 165
-Description = A mark for a Pokémon that was a Titan.
-Title = the Former Titan
+Description = Un insigne porté par un Pokémon qui était autrefois un Dominant.
+Title = l’ancien Dominant
 IsMark = true
 Flags = BossMark
 #-------------------------------
 [PARTNER]
-Name = Partner Ribbon
+Name = Ruban Partenaire
 IconPosition = 166
-Description = A special Ribbon awarded to a Pokémon that was once partnered with another great Trainer.
+Description = Un Ruban spécial décerné à un Pokémon ayant autrefois accompagné un autre grand Dresseur.
 Flags = MemorialRibbon
-PrefixTitle = /Owner/'s
+PrefixTitle = de /Owner/
 Flags = MemorialRibbon

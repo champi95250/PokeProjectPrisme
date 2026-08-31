@@ -43,90 +43,12 @@ module PokemonSelections
     :EEVEE
 
   ]
-
-  Champi_one = [
-    :MILCERY,
-    :SINISTEA,
-    :SWIRLIX,
-    :FOONGUS,
-    :VANILLITE,
-    :CHERUBI,
-    :COMBEE,
-  ]
-
-  Champi_two = [
-    :SQUIRTLE,
-    :CHARMANDER,
-    :BULBASAUR,
-    :TREECKO,
-    :TORCHIC,
-    :MUDKIP,
-  ]
-
-  Champi_three = [
-    :FLABEBE,
-    :FLABEBE_1,
-    :FLABEBE_2,
-    :FLABEBE_3,
-    :FLABEBE_4,
-  ]
-
-  Dealer_one = [
-    :SPEAROW,
-    :SENTRET,
-    :BUIZEL,
-    :POOCHYENA,
-    :DUCKLETT,
-  ]
-
-  Dealer_two = [
-    :DEWPIDER,
-    :DRILBUR,
-    :CHEWTLE,
-    :SHROODLE,
-    :FOMANTIS,
-  ]
-
-  Dealer_three = [
+  Dealer_route5 = [
+    :PORYGON,
+    :ROTOM,
+    :KLEFKI,
+    :GIMMIGHOUL,
     :VAROOM,
-    :WINGULL,
-    :LITLEO,
-    :EKANS,
-    :BLITZLE,
-  ]
-
-  Dealer_quatre = [
-    :SLIGGOO,
-    :AXEW,
-    :HONEDGE,
-    :PAWNIARD,
-    :CRANIDOS,
-  ]
-  Dealer_cinqe = [
-    :TYPHLOSION_1,
-    :SAMUROTT_1,
-    :DECIDUEYE_1,
-    :ZORUA_1,
-  ]
-  Dealer_fusion = [
-    :FOUINARABRE,
-    :FEUNEVOIR,
-    :MAGNERI,
-    :SONGMA,
-    :TENABRI,
-    :REMOSEED,
-    :CAGRIN,
-    :CRAMALIN,
-  ]
-  Dealer_final = [
-    :TOXEL,
-    :DRAKLOAK,
-    :PUPITAR,
-    :HAUNTER,
-    :KIRLIA,
-    :GABITE,
-    :TRIPULZ,
-    :PIXIO,
   ]
 
   Mythical = [
