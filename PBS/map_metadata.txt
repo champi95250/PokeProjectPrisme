@@ -199,3 +199,7 @@ ShowArea = true
 HealingSpot = 38,38,36
 MapPosition = 0,14,15
 MapSize = 1,11
+#-------------------------------
+[041]   # Arène Eau
+Name = Arène Bélécume
+MapPosition = 0,14,16

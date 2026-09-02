@@ -48,7 +48,7 @@
 
         # true = enabled: Unvisited Locations will be displayed with "???" if not visited.
         # false = disabled.
-        NoUnvistedMapInfo = false
+        NoUnvistedMapInfo = true
 
         # Change this to any text you want for Unvisited Locations.
         UnvisitedMapText = "???"
@@ -225,8 +225,8 @@
       # Set the name for each mode you want to display on the Region Map.
       # Only change what's between the " ". quest and berry are modes that requires a plugin to be installed in order to be activated on the Region Map.
       ModeNames = {
-        :normal => _INTL("Normal Map"),
-        :fly => _INTL("Fly Map"),
+        :normal => _INTL("Carte"),
+        :fly => _INTL("Carte de Vol"),
         :quest => _INTL("Quest Map"), #requires the "Modern Quest System + UI" plugin to use.
         :berry => _INTL("Berry Map"), #requires the "TDW Berry Planting Improvements" plugin by Authorwrigty12 to use.
         :roaming => _INTL("Roaming Map"), #requires the "Roaming Icons" plugin by -FL- to use.
@@ -435,7 +435,7 @@
 
         # Only used when the setting above is set to true.
         # Default text when the location has not been visited yet.
-        UnvisitedMapInfoText = _INTL("No information Available")
+        UnvisitedMapInfoText = _INTL("Aucune information disponible")
 
         # Note: The Location Previews are numbered by the amount of lines they are meant for,
         # If you change this to a higher number then make sure you have a bigger graphic.
@@ -565,102 +565,102 @@
 
         # If you have any custom Encounter Types, you should add them here
         EncounterTypes = {
-          :Land => "Grass",
-          :LandMorning => "Grass (Morning)",
-          :LandDay => "Grass (Day)",
-          :LandAfternoon => "Grass (Afternoon)",
-          :LandEvening => "Grass (Evening)",
-          :LandNight => "Grass (Night)",
+          :Land => "Herbes",
+          :LandMorning => "Herbes (matin)",
+          :LandDay => "Herbes (jour)",
+          :LandAfternoon => "Herbes (après-midi)",
+          :LandEvening => "Herbes (soir)",
+          :LandNight => "Herbes (nuit)",
           :PokeRadar => "Poké Radar",
-          :Cave => "Cave",
-          :CaveMorning => "Cave (Morning)",
-          :CaveDay => "Cave (Day)",
-          :CaveAfternoon => "Cave (Afternoon)",
-          :CaveEvening => "Cave (Evening)",
-          :CaveNight => "Cave (Night)",
-          :Water => "Surfing",
-          :WaterMorning => "Surfing (Morning)",
-          :WaterDay => "Surfing (Day)",
-          :WaterAfternoon => "Surfing (Afternoon)",
-          :WaterEvening => "Surfing (Evening)",
-          :WaterNight => "Surfing (Night)",
-          :OldRod => "Fishing (Old Rod)",
-          :GoodRod => "Fishing (Good Rod)",
-          :SuperRod => "Fishing (Super Rod)",
-          :RockSmash => "Rock Smash",
-          :HeadbuttLow => "Headbutt (Rare)",
-          :HeadbuttHigh => "Headbutt (Common)",
-          :BugContest => "Bug Contest"
+          :Cave => "Grotte",
+          :CaveMorning => "Grotte (matin)",
+          :CaveDay => "Grotte (jour)",
+          :CaveAfternoon => "Grotte (après-midi)",
+          :CaveEvening => "Grotte (soir)",
+          :CaveNight => "Grotte (nuit)",
+          :Water => "Surf",
+          :WaterMorning => "Surf (matin)",
+          :WaterDay => "Surf (jour)",
+          :WaterAfternoon => "Surf (après-midi)",
+          :WaterEvening => "Surf (soir)",
+          :WaterNight => "Surf (nuit)",
+          :OldRod => "Pêche (Canne)",
+          :GoodRod => "Pêche (Super Canne)",
+          :SuperRod => "Pêche (Méga Canne)",
+          :RockSmash => "Éclate-Roc",
+          :HeadbuttLow => "Coup d’Boule (rare)",
+          :HeadbuttHigh => "Coup d’Boule (commun)",
+          :BugContest => "Concours de capture"
         }
         WeatherEncounterNames = {
-          :Rain      => "Rain",
-          :Storm     => "Storm",
-          :Snow      => "Snow",
+          :Rain      => "Pluie",
+          :Storm     => "Orage",
+          :Snow      => "Neige",
           :Blizzard  => "Blizzard",
-          :Sandstorm => "Sandstorm",
-          :HeavyRain => "Heavy Rain",
-          :Sun       => "Sun",
-          :Fog       => "Fog"
+          :Sandstorm => "Tempête de sable",
+          :HeavyRain => "Forte pluie",
+          :Sun       => "Soleil",
+          :Fog       => "Brouillard"
         }
 
         WeatherEncounterNames.each do |weather_id, weather_name|
           # Rencontres dans les herbes
           EncounterTypes[:"Land#{weather_id}"] =
-            "Grass (#{weather_name})"
+            "Herbes (#{weather_name})"
 
           EncounterTypes[:"LandMorning#{weather_id}"] =
-            "Grass (Morning - #{weather_name})"
+            "Herbes (matin - #{weather_name})"
 
           EncounterTypes[:"LandDay#{weather_id}"] =
-            "Grass (Day - #{weather_name})"
+            "Herbes (jour - #{weather_name})"
 
           EncounterTypes[:"LandAfternoon#{weather_id}"] =
-            "Grass (Afternoon - #{weather_name})"
+            "Herbes (après-midi - #{weather_name})"
 
           EncounterTypes[:"LandEvening#{weather_id}"] =
-            "Grass (Evening - #{weather_name})"
+            "Herbes (soir - #{weather_name})"
 
           EncounterTypes[:"LandNight#{weather_id}"] =
-            "Grass (Night - #{weather_name})"
+            "Herbes (nuit - #{weather_name})"
 
           # Rencontres sur l'eau
           EncounterTypes[:"Water#{weather_id}"] =
-            "Surfing (#{weather_name})"
+            "Surf (#{weather_name})"
 
           EncounterTypes[:"WaterMorning#{weather_id}"] =
-            "Surfing (Morning - #{weather_name})"
+            "Surf (matin - #{weather_name})"
 
           EncounterTypes[:"WaterDay#{weather_id}"] =
-            "Surfing (Day - #{weather_name})"
+            "Surf (jour - #{weather_name})"
 
           EncounterTypes[:"WaterAfternoon#{weather_id}"] =
-            "Surfing (Afternoon - #{weather_name})"
+            "Surf (après-midi - #{weather_name})"
 
           EncounterTypes[:"WaterEvening#{weather_id}"] =
-            "Surfing (Evening - #{weather_name})"
+            "Surf (soir - #{weather_name})"
 
           EncounterTypes[:"WaterNight#{weather_id}"] =
-            "Surfing (Night - #{weather_name})"
+            "Surf (nuit - #{weather_name})"
 
           # Pêche
           EncounterTypes[:"OldRod#{weather_id}"] =
-            "Fishing (Old Rod - #{weather_name})"
+            "Pêche (Canne - #{weather_name})"
 
           EncounterTypes[:"GoodRod#{weather_id}"] =
-            "Fishing (Good Rod - #{weather_name})"
+            "Pêche (Super Canne - #{weather_name})"
 
           EncounterTypes[:"SuperRod#{weather_id}"] =
-            "Fishing (Super Rod - #{weather_name})"
+            "Pêche (Méga Canne - #{weather_name})"
 
           # Autres rencontres
           EncounterTypes[:"RockSmash#{weather_id}"] =
-            "Rock Smash (#{weather_name})"
+            "Éclate-Roc (#{weather_name})"
 
           EncounterTypes[:"HeadbuttLow#{weather_id}"] =
-            "Headbutt (Rare - #{weather_name})"
+            "Coup d’Boule (rare - #{weather_name})"
 
           EncounterTypes[:"HeadbuttHigh#{weather_id}"] =
-            "Headbutt (Common - #{weather_name})"
+            "Coup d’Boule (commun - #{weather_name})"
         end
 
         # true = enabled: The mapExtBoxMain will be replaced with for ex. mapExtBoxGrass for the Grass Encounter Type.

@@ -227,6 +227,24 @@ IntroBGM = 019 - Eyes Young
 BattleBGM = 007 - Trainer Battle
 VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
+[BIGDADDY]
+Name = Big Daddy
+Gender = Male
+BaseMoney = 26
+SkillLevel = 100
+IntroBGM = 033 - Eyes Daddy Contact
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
+#-------------------------------
+[SWIMMER]
+Name = Nageur
+Gender = Male
+BaseMoney = 26
+SkillLevel = 100
+IntroBGM = 033 - Eyes Daddy Contact
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
+#-------------------------------
 [VOLEUR3]
 Name = Voleur
 Gender = Male
@@ -246,6 +264,15 @@ BattleBGM = 018 - Gym Leader Battle
 VictoryBGM = 017 - Victory Gym Leader
 #-------------------------------
 [CHAMPION2]
+Name = Champion
+Gender = Male
+BaseMoney = 44
+SkillLevel = 100
+IntroBGM = 016 - Eye Trainer Gym Leader
+BattleBGM = 018 - Gym Leader Battle
+VictoryBGM = 017 - Victory Gym Leader
+#-------------------------------
+[CHAMPION3]
 Name = Champion
 Gender = Male
 BaseMoney = 44

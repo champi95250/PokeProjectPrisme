@@ -69,6 +69,16 @@ def choose_party(party,param,poke_max)
 
       new_team.each { |pkmn| pkmn.calc_stats }
       return new_team
+  elsif param == "ELIE"
+    psyduck = party.find { |pkmn| pkmn.species == :PSYDUCK }
+
+    available_pokemon = party.reject { |pkmn| pkmn == psyduck }
+    selected_pokemon = available_pokemon.sample(poke_max - 1)
+
+    new_team = selected_pokemon + [psyduck]
+
+    new_team.each { |pkmn| pkmn.calc_stats }
+    return new_team
  
   elsif param == "EXEMPLE1"
     #do your thing here

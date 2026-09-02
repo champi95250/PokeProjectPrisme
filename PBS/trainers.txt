@@ -238,17 +238,122 @@ Pokemon = NICKIT,16
 Pokemon = DODUO,16
 Pokemon = VIVILLON_18,17
 #-------------------------------
+[BIGDADDY,Bruno]
+LoseText = Papa vient de boire la tasse.
+Pokemon = STUFFUL,18
+Pokemon = BUIZEL,19
+#-------------------------------
+[BIGDADDY,Paul]
+LoseText = Quoi ?! Battu par toi ! Bruno ne doit jamais l’apprendre !
+Pokemon = MACHOP,18
+Pokemon = SNORLAX,20
+#-------------------------------
 [VOLEUR3,Gradur]
 LoseText = Putain, mais c'était un super spot ici !
-Pokemon = KROOKODILE,48
+Pokemon = KROOKODILE,40
     IV = 20,20,12,25,21,20
     Moves = EARTHQUAKE,CRUNCH,STONEEDGE,BULKUP
     Gender = male
-Pokemon = REVAVROOM,48
+Pokemon = REVAVROOM,40
     IV = 24,22,20,22,21,12
     Moves = SHIFTGEAR,IRONHEAD,GUNKSHOT,HIGHHORSEPOWER
     Gender = male
-Pokemon = GRIMMSNARL,50
+Pokemon = GRIMMSNARL,42
     IV = 31,10,30,20,28,25
     Moves = THUNDERPUNCH,PLAYROUGH,THUNDERWAVE,SPIRITBREAK
     Gender = male
+#-------------------------------
+[SWIMMER,Law]
+LoseText = J’ai complètement bu la tasse !
+Pokemon = BUIZEL,20
+    Gender = male
+    Moves = WATERGUN,QUICKATTACK,GROWL,PURSUIT
+Pokemon = WINGULL,21
+    Gender = male
+    Moves = WATERGUN,WINGATTACK,SUPERSONIC,QUICKATTACK
+#-------------------------------
+[SWIMMER,Noa]
+LoseText = Le courant vient de tourner contre moi !
+Pokemon = FINNEON,20
+    Gender = male
+    Moves = WATERGUN,GUST,ATTRACT,RAINDANCE
+Pokemon = HORSEA,22
+    Gender = male
+    Moves = WATERGUN,TWISTER,SMOKESCREEN,FOCUSENERGY
+#-------------------------------
+[BIGDADDY,Dario]
+LoseText = Je viens de prendre l’eau !
+Pokemon = SPHEAL,21
+    Gender = male
+    Moves = WATERGUN,POWDERSNOW,ICEBALL,ENCORE
+Pokemon = MARILL,22
+    Gender = male
+    Ability = HUGEPOWER
+    Moves = BUBBLEBEAM,AQUAJET,ROLLOUT,CHARM
+#-------------------------------
+[BIGDADDY,Malo]
+LoseText = Tu viens de renverser une véritable montagne de muscles !
+Pokemon = SHELLOS,21
+    Gender = male
+    Moves = WATERPULSE,MUDSLAP,HARDEN,RECOVER
+Pokemon = TYMPOLE,22
+    Gender = male
+    Moves = BUBBLEBEAM,MUDSHOT,ROUND,SUPERSONIC
+#-------------------------------
+[SWIMMER,Enzo]
+LoseText = Gaspard… Tu regardais au moins mon combat ?
+Pokemon = LOTAD,21
+    Gender = male
+    Moves = FAKEOUT,MEGADRAIN,BUBBLEBEAM,RAINDANCE
+Pokemon = CORPHISH,23
+    Gender = male
+    Moves = AQUAJET,BUBBLEBEAM,DOUBLEHIT,KNOCKOFF
+#-------------------------------
+[BIGDADDY,Gaspard]
+LoseText = Enzo ne me laissera jamais oublier ça…
+Pokemon = DEWPIDER,21
+    Gender = male
+    Ability = WATERBUBBLE
+    Moves = BUBBLEBEAM,BUGBITE,BITE,AQUARING
+Pokemon = CHINCHOU,23
+    Gender = male
+    Moves = BUBBLEBEAM,SPARK,CONFUSERAY,THUNDERWAVE
+#------------------------------- ARENE 03 CHAMPION
+[CHAMPION3,Élie]
+LoseText = J’ai voulu faire des vagues mais c’est toi qui m’as fait boire la tasse !
+Pokemon = CROCONAW,23
+    Gender = male
+    Moves = ICEFANG,BITE,WATERPULSE,RAINDANCE
+    AbilityIndex = 0
+    IV = 15,18,18,15,15,15
+    EV = 60,60,50,20,50,40
+Pokemon = BOUDEAU,23
+    Gender = male
+    Moves = AQUARING,SURF,SHADOWBALL,RAINDANCE
+    AbilityIndex = 1
+    IV = 20,15,20,20,20,12
+    EV = 60,20,50,70,60,20
+Pokemon = QUAGSIRE,23
+    Gender = male
+    Moves = MUDSHOT,YAWN,DIVE,RAINDANCE
+    AbilityIndex = 0
+    IV = 22,15,20,20,18,15
+    EV = 90,40,70,20,70,0
+Pokemon = SPHEAL,23
+    Gender = male
+    Moves = WATERPULSE,POWDERSNOW,ROLLOUT,RAINDANCE
+    AbilityIndex = 0
+    IV = 22,18,20,18,19,20
+    EV = 80,0,48,49,72,0
+Pokemon = DRATINI,24
+    Gender = male
+    Moves = THUNDERWAVE,DRAGONTAIL,RAINDANCE,WHIRLPOOL
+    AbilityIndex = 0
+    IV = 15,20,20,20,12,20
+    EV = 60,60,50,20,50,40
+Pokemon = PSYDUCK,26
+    Gender = male
+    Moves = WATERPULSE,HYPNOSIS,DISABLE,ZENHEADBUTT
+    AbilityIndex = 2
+    IV = 26,20,20,24,20,19
+    EV = 100,10,50,50,30,70
