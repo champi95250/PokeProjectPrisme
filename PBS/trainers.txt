@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [GAMIN,Marshall]
 LoseText = C'était trop intense pour moi ...
@@ -319,7 +319,7 @@ Pokemon = CHINCHOU,23
     Gender = male
     Moves = BUBBLEBEAM,SPARK,CONFUSERAY,THUNDERWAVE
 #------------------------------- ARENE 03 CHAMPION
-[CHAMPION3,Élie]
+[CHAMPION3,Yuri]
 LoseText = J’ai voulu faire des vagues mais c’est toi qui m’as fait boire la tasse !
 Pokemon = CROCONAW,23
     Gender = male
