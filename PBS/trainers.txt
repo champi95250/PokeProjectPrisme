@@ -357,3 +357,102 @@ Pokemon = PSYDUCK,26
     AbilityIndex = 2
     IV = 26,20,20,24,20,19
     EV = 100,10,50,50,30,70
+#-------------------------------
+[MONTAGNARD2,Basile]
+LoseText = Finalement, ce sont tes Pokémons qui me donnent le vertige !
+Pokemon = BOLDORE,25
+    Gender = male
+    Moves = ROCKBLAST,HEADBUTT,IRONDEFENSE,MUDSLAP
+    AbilityIndex = 0
+    IV = 15,18,20,12,12,15
+    EV = 30,40,50,10,10,20
+Pokemon = ARON,25
+    Gender = male
+    Moves = METALCLAW,ROCKTOMB,TAKEDOWN,PROTECT
+    AbilityIndex = 1
+    IV = 18,20,22,10,10,18
+    EV = 30,50,60,10,10,20
+#-------------------------------
+[TWINK_05,Maël]
+LoseText = Bon… mon teint est toujours parfait, au moins.
+Pokemon = FLETCHINDER,24
+    Gender = male
+    Moves = PECK,EMBER,QUICKATTACK,AGILITY
+    AbilityIndex = 0
+    IV = 18,18,15,15,15,20
+    EV = 20,35,15,10,10,40
+Pokemon = BUIZEL,24
+    Gender = male
+    Moves = AQUAJET,QUICKATTACK,BITE,SWIFT
+    AbilityIndex = 0
+    IV = 18,20,15,15,15,22
+    EV = 20,45,15,10,10,45
+#-------------------------------
+[FANINSTA,Victor]
+LoseText = Impossible ... Pourtant, j’avais parfaitement reproduit sa technique de combat !
+Pokemon = COMBUSKEN,23
+    Gender = male
+    Moves = DOUBLEKICK,FLAMECHARGE,PECK,SANDATTACK
+    AbilityIndex = 0
+    IV = 18,20,16,17,16,20
+    EV = 20,40,20,20,15,35
+Pokemon = SNORLAX,24
+    Gender = male
+    Moves = BODYSLAM,LICK,YAWN,CHIPAWAY
+    AbilityIndex = 0
+    IV = 22,22,20,15,20,10
+    EV = 50,50,35,10,35,10
+#-------------------------------
+[POKEFAN_F,Bianca]
+LoseText = Nous avons perdu contre cette tenue ?!
+Pokemon = GLAMEOW,23
+    Gender = female
+    Moves = FAKEOUT,FURYSWIPES,CHARM,HYPNOSIS
+    AbilityIndex = 0
+    EV = 12,20,12,7,12,10
+Pokemon = ROSELIA,24
+    Gender = female
+    Moves = MEGADRAIN,VENOSHOCK,LEECHSEED,STUNSPORE
+    AbilityIndex = 0
+    EV = 12,7,12,7,12,10
+#-------------------------------
+[POKEFAN_H,César]
+LoseText = Le bon goût traverse une période difficile…
+Pokemon = FURFROU,23
+    Form = 2
+    Gender = male
+    Moves = HEADBUTT,SANDATTACK,BABYDOLLEYES,BITE
+    AbilityIndex = 0
+    EV = 12,7,12,7,12,10
+Pokemon = KIRLIA,24
+    Gender = male
+    Moves = CONFUSION,DRAININGKISS,MAGICALLEAF,DOUBLETEAM
+    AbilityIndex = 0
+    EV = 12,9,12,7,12,10
+#-------------------------------
+[REPORTER,Émilie]
+LoseText = Une démonstration impressionnante pour notre reportage !
+Pokemon = VOLBEAT,23
+    Gender = male
+    Moves = SIGNALBEAM,QUICKATTACK,CONFUSERAY,MOONLIGHT
+    AbilityIndex = 0
+    EV = 10,12,8,14,9,13
+Pokemon = FURFROU,24
+    Form = 3
+    Gender = female
+    Moves = HEADBUTT,BITE,BABYDOLLEYES,SANDATTACK
+    AbilityIndex = 0
+    EV = 12,8,11,6,8,9
+#-------------------------------
+[CAMERAMAN,Rémi]
+LoseText = C'est dans la boite ! 
+Pokemon = ILLUMISE,23
+    Gender = female
+    Moves = STRUGGLEBUG,CHARM,WISH,ENCORE
+    AbilityIndex = 0
+    EV = 10,7,9,14,13,12
+Pokemon = LOUDRED,24
+    Gender = male
+    Moves = ECHOEDVOICE,BITE,STOMP,HOWL
+    AbilityIndex = 0
+    EV = 16,13,11,14,10,7

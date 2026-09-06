@@ -6,7 +6,7 @@
 #Original BW B2W2 Locations for Signpost
 #===============================================================================
 
-TOWN = ["town", "safari","Clairecour","Caldéon","Rosaville","Bourg-Prisme"]
+TOWN = ["town", "safari","Claircour","Caldéon","Rosaville","Bourg-Prisme"]
 
 CITY = ["city"]
 
@@ -18,7 +18,7 @@ BRIDGE = ["bridge"]
 #Custom Locations for Signpost
 #===============================================================================
 
-FOREST = ["forest" , "grove"]
+FOREST = ["forest" , "grove", "Bois des Serments"]
 
 CAVE = ["cave"]
 

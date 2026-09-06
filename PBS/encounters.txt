@@ -153,6 +153,46 @@ LandNight,21
     7,MURKROW,7,10
 PokeRadar,100
     100,ROCKRUFF,8,10
+LandRain
+    18,LOTAD,7,9
+    15,MAREEP,9,10
+    10,TYMPOLE,8,10
+    8,SKIDDO,8,10
+LandNightRain
+    15,MAREEP,7,9
+    10,ODDISH,8,10
+    7,TYMPOLE,8,10
+    7,MURKROW,7,10
+LandStorm
+    18,LOTAD,7,9
+    15,MAREEP,9,10
+    10,TYMPOLE,8,10
+    5,SKIDDO,8,10
+LandNightStorm
+    15,MAREEP,7,9
+    10,ODDISH,8,10
+    7,TYMPOLE,8,10
+    7,MURKROW,7,10
+LandSun
+    18,FLETCHLING,7,9
+    10,MAREEP,9,10
+    10,LITLEO,8,10
+    7,SKIDDO,8,10
+LandNightSun
+    10,MAREEP,7,9
+    10,ODDISH,8,10
+    7,HOUNDOUR,8,10
+    7,MURKROW,7,10
+LandFog
+    10,PHANTUMP,7,9
+    22,MAREEP,9,10
+    8,INKAY,8,10
+    7,SKIDDO,8,10
+LandNightFog
+    10,MAREEP,7,9
+    10,ODDISH,8,10
+    7,HOUNDOUR,8,10
+    7,MURKROW,7,10
 #-------------------------------
 [026] # Caldéon
 Land,21
@@ -213,9 +253,6 @@ LandNight,21
     20,SPRITZEE,14,16
     12,DROWZEE,14,16
     8,NYMBLE,13,16
-OldRod,35
-    44,MAGIKARP,13,16
-    8,SURSKIT,13,17
 LandSun,21
     17,BUNEARY,13,17
     15,VOLTARYX,14,16
@@ -228,8 +265,39 @@ LandNightSun,21
     20,VOLBEAT,14,17
     5,HELIOPTILE,13,16
     5,DROWZEE,14,16
-PokeRadar,100
-    100,KAMENKI,14,17
+LandRain
+    20,BUNEARY,14,16
+    15,VOLTARYX,14,16
+    11,SKIDDO,15,17
+    7,DEERLING,14,17
+    5,BUIZEL,13,16
+LandNightRain
+    20,SPRITZEE,14,16
+    12,DROWZEE,14,16
+    10,CHEWTLE,13,15
+    8,NYMBLE,13,16
+LandStorm
+    20,BUNEARY,14,16
+    15,VOLTARYX,14,16
+    11,SKIDDO,15,17
+    7,DEERLING,14,17
+    5,BUIZEL,13,16
+LandNightStorm
+    20,SPRITZEE,14,16
+    12,DROWZEE,14,16
+    10,CHEWTLE,13,15
+    8,NYMBLE,13,16
+LandSnow
+    20,BUNEARY,14,16
+    15,VOLTARYX,14,16
+    5,SKIDDO,15,17
+LandNightSnow
+    20,SPRITZEE,14,16
+    12,DROWZEE,14,16
+    5,NYMBLE,13,16
+OldRod,35
+    44,MAGIKARP,13,16
+    8,SURSKIT,13,17
 HeadbuttLow,20
     30,BURMY,12,15
     24,COMBEE,12,15
@@ -238,6 +306,8 @@ HeadbuttHigh,10
     30,PINECO,12,17
     20,COMBEE,13,16
     4,BURMY,13,16
+PokeRadar,100
+    100,KAMENKI,14,17
 #-------------------------------
 [033] # Relais
 Land,21
@@ -291,3 +361,19 @@ LandNight,21
     12,SANDYGAST,16,18
 PokeRadar,100
     100,BOUDEAU,16,18
+#-------------------------------
+[043] # Route 6
+Land,21
+    20,YAMPER,21,24
+    17,PIDOVE,19,21
+    10,MEOWTH,21,24
+    7,DODUO,21,24
+    5,FARFETCHD_1,23,26
+LandNight,21
+    17,STUNKY,21,24
+    16,VENONAT,21,24
+    12,MISDREAVUS,21,24
+    9,NINCADA,20,24
+    5,ABSOL,24,26
+PokeRadar,100
+    100,PHANPY,22,24

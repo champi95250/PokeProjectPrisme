@@ -187,7 +187,7 @@ Name = Twink
 Gender = Male
 BaseMoney = 23
 SkillLevel = 100
-IntroBGM = 019 - Eyes Young
+IntroBGM = 049 - Eyes Twink
 BattleBGM = 007 - Trainer Battle
 VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
@@ -223,7 +223,25 @@ Name = Chaser
 Gender = Male
 BaseMoney = 24
 SkillLevel = 100
+IntroBGM = 035 - Eyes Artist
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
+#-------------------------------
+[TWINK_05]
+Name = Twink
+Gender = Male
+BaseMoney = 24
+SkillLevel = 100
 IntroBGM = 019 - Eyes Young
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
+#-------------------------------
+[FANINSTA]
+Name = Fan
+Gender = Male
+BaseMoney = 30
+SkillLevel = 35
+IntroBGM = 034 - Eyes PokeFan
 BattleBGM = 007 - Trainer Battle
 VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------
@@ -241,7 +259,43 @@ Name = Nageur
 Gender = Male
 BaseMoney = 26
 SkillLevel = 100
-IntroBGM = 033 - Eyes Daddy Contact
+IntroBGM = 050 - Eyes Nageur
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
+#-------------------------------
+[POKEFAN_H]
+Name = Poké Fan
+Gender = Male
+BaseMoney = 37
+SkillLevel = 100
+IntroBGM = 034 - Eyes PokeFan
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
+#-------------------------------
+[POKEFAN_F]
+Name = Poké Fan
+Gender = Female
+BaseMoney = 37
+SkillLevel = 100
+IntroBGM = 034 - Eyes PokeFan
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
+#-------------------------------
+[CAMERAMAN]
+Name = Cameraman
+Gender = Male
+BaseMoney = 35
+SkillLevel = 100
+IntroBGM = 034 - Eyes PokeFan
+BattleBGM = 007 - Trainer Battle
+VictoryBGM = 008 - Victory! Trainer Battle
+#-------------------------------
+[REPORTER]
+Name = Journaliste 
+Gender = Female
+BaseMoney = 38
+SkillLevel = 100
+IntroBGM = 034 - Eyes PokeFan
 BattleBGM = 007 - Trainer Battle
 VictoryBGM = 008 - Victory! Trainer Battle
 #-------------------------------

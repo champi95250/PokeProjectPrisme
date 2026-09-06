@@ -48,7 +48,7 @@ TM03	WATERPULSE	B	2e ville, route aquatique légère ou arène Eau
 TM40	AERIALACE	B	Récompense d’arène Vol ou route haute
 TM83	BULLDOZE	B	Grotte ou arène Sol début/milieu
 TM28	DIG	B/A	Grotte après badge 2, utile mais pas abusé
-TM42	FACADE	B	Ville normale / Claircour
+----TM42	FACADE	B	Ville normale / Claircour
 TM55	BRINE	B	Route côtière début/milieu
 TM57	CHARGEBEAM	B	Alternative faible à Thunderbolt
 TM66	PAYBACK	B	Route sombre / grotte
@@ -57,7 +57,7 @@ TM47	STEELWING	B	Route Vol / pont / zone acier légère
 TM16	LIGHTSCREEN	B	Boutique ou PNJ stratégique
 TM33	REFLECT	B	Avec Light Screen
 TM20	SAFEGUARD	C	PNJ ou boutique
-TM17	PROTECT	A	Début/milieu, mais plutôt boutique chère
+----TM17	PROTECT	A	Début/milieu, mais plutôt boutique chère
 TM44	REST	B	PNJ ou ville calme
 TM82	SLEEPTALK	C/B	À côté de Rest
 TM07	HAIL	C	Zone froide, pas forcément tôt sauf si neige

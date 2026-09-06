@@ -97,7 +97,8 @@ module WeatherConfig
     [1, 9, 13, 14], # La grand route 
     [15,25], # La route falaise
     [24], # bois serment
-    [32]
+    [32,33,43],  #Route 6 a 4 par Relais
+    [37,38] #Plage Belecume
   ]
 #===============================================================================
 # * Map Display
@@ -110,7 +111,8 @@ module WeatherConfig
     {"Bourg-Prisme" => 1,"Route 1" => 9,"Rosaville" => 13,"Route 2" => 14},
     {"Claircour" => 15,"Route 3" => 25,"Caldéon" => 26},
     {"Bois des Serments" => 24},
-    {"Route 4" => 32}
+    {"Route 4" => 32,"Relais Amiral" => 33,"Route 6" => 43},
+    {"Route 5" => 37,"Bélécume" => 37}
   ]
 
   # A hash for the plugin to display the proper weather image on the map.
@@ -135,20 +137,23 @@ module WeatherConfig
 
   # Probability of weather in summer.
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
+  #[None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog],    # Route 6 a 4 par Relais
   ZONE_WEATHER_SUMMER = [
-    [65, 12, 3, 0, 0, 0, 0, 20, 0],  # Grande route
-    [63, 10, 2, 0, 0, 0, 0, 25, 0],  # Claircour / Route 3
-    [55, 15, 0, 0, 0, 0, 0, 0, 30],  # Bois des Serments
-    [50, 7, 3, 0, 0, 0, 0, 40, 0]   # Route 4 
+    [65, 12, 3, 0, 0, 0, 0, 20, 0],   # Grande route
+    [63, 10, 2, 0, 0, 0, 0, 25, 0],   # Claircour / Route 3
+    [55, 15, 0, 0, 0, 0, 0, 0, 30],   # Bois des Serments
+    [50, 7, 3, 0, 0, 0, 0, 40, 0],    # Route 6 a 4 par Relais
+    [50, 2, 0, 0, 0, 0, 0, 48, 0]     # Belecume 
   ]
 
   # Probability of weather in autumn.
   # Order: None, Rain, Storm, Snow, Blizzard, Sandstorm, HeavyRain, Sun/Sunny, Fog
   ZONE_WEATHER_AUTUMN = [
-    [58, 28, 9, 0, 0, 0, 0, 3, 2], # Grande route
-    [63, 25, 5, 0, 0, 0, 0, 10, 2], # Claircour / Route 3
-    [45, 10, 0, 0, 0, 0, 0, 0, 45],  # Bois des Serments
-    [58, 9, 3, 0, 0, 0, 0, 30, 0]   # Route 4 
+    [58, 28, 9, 0, 0, 0, 0, 3, 2],    # Grande route
+    [63, 25, 5, 0, 0, 0, 0, 10, 2],   # Claircour / Route 3
+    [45, 10, 0, 0, 0, 0, 0, 0, 45],   # Bois des Serments
+    [58, 9, 3, 0, 0, 0, 0, 30, 0],    # Route 6 a 4 par Relais
+    [65, 10, 5, 0, 0, 0, 0, 20, 0]    # Belecume 
   ]
 
   # Probability of weather in winter.
@@ -158,7 +163,8 @@ module WeatherConfig
     [50, 26, 15, 0, 0, 0, 0, 2, 7],   # Grande route
     [60, 20, 14, 0, 0, 0, 0, 4, 2],   # Claircour / Route 3
     [35, 15, 0, 12, 0, 0, 0, 0, 50],  # Bois des Serments
-    [50, 20, 5, 5, 0, 0, 0, 20, 0]   # Route 4 
+    [50, 20, 5, 5, 0, 0, 0, 20, 0],   # Route 6 a 4 par Relais
+    [60, 15, 10, 0, 0, 0, 0, 15, 0]   # Belecume 
   ]
 
   # Probability of weather in spring.
@@ -167,6 +173,7 @@ module WeatherConfig
     [60, 20, 4, 0, 0, 0, 0, 11, 5],  # Grande route
     [60, 22, 3, 0, 0, 0, 0, 15, 5],  # Claircour / Route 3
     [40, 15, 0, 0, 0, 0, 0, 0, 35],  # Bois des Serments
-    [55, 15, 5, 0, 0, 0, 0, 25, 0]   # Route 4 
+    [55, 15, 5, 0, 0, 0, 0, 25, 0],  # Route 6 a 4 par Relais 
+    [60, 5, 0, 0, 0, 0, 0, 35, 0]    # Belecume 
   ]
 end
