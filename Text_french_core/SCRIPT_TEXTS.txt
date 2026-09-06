@@ -2843,7 +2843,7 @@ Tous les Pokémon ont été réveillés par la mélodie !
 {1} recovered from fainting!
 {1} s'est remis d'un évanouissement !
 \me[Register phone]Registered {1} in the Pokégear!
-\moi[Enregistrer le téléphone]Enregistré {1} dans le Pokégear !
+\me[Register phone]Enregistré {1} dans le Pokégear !
 There is no phone signal here...
 Il n'y a pas de signal téléphonique ici...
 The Trainer is close by.<<n>>Talk to the Trainer in person!
@@ -2857,13 +2857,13 @@ Impossible de trouver le contact téléphonique indiqué : {1}.
 ......\wt[5] ......
 ......\wt[5] ......
 Click!\wt<<[>>10<<]>><<n>>......\wt<<[>>5<<]>> ......
-Cliquez !\wt<<[>>10<<]>><<n>>......\wt<<[>>5<<]>> ......
+Cliquez!\wt<<[>>10<<]>><<n>>......\wt<<[>>5<<]>> ......
 Let me register you.
 Laisse-moi t'enregistrer.
 Can't use that while on a bicycle.
 Je ne peux pas l'utiliser en vélo.
 The battery has run dry!<<n>>For it to recharge, you need to walk another {1} steps.
-La batterie est épuisée !<<n>>Pour qu'elle se recharge, vous devez parcourir encore {1} pas.
+La batterie est épuisée!<<n>>Pour qu'elle se recharge, vous devez parcourir encore {1}pas.
 The grassy patch remained quiet...
 Le coin herbu est resté calme...
 Pokémon already has mail
@@ -3499,11 +3499,11 @@ Enregistrer les modifications ?
 Exit from the map?
 Sortir de la carte ?
 Would you like to use Fly to go to {1}?
-Voulez-vous utiliser Fly pour accéder à {1} ?
+Voulez-vous utiliser Vol pour accéder à {1}?
 Registered
 Inscrit
 Waiting for a rematch
-En attendant une revanche
+Revanche en attente
 There are no phone numbers stored.
 Aucun numéro de téléphone n'est enregistré.
 Delete
@@ -3511,7 +3511,7 @@ Supprimer
 Sort Contacts
 Trier les contacts
 Are you sure you want to delete {1} from your phone?
- Êtes-vous sûr de vouloir supprimer {1} de votre téléphone ?- »
+Êtes-vous sûr de vouloir supprimer {1} de votre téléphone?-»
 {1} was deleted from your phone contacts.
 {1} a été supprimé de vos contacts téléphoniques.
 How do you want to sort the contacts?
@@ -3905,7 +3905,7 @@ Non merci
 Welcome! How may I help you?
 Bienvenue ! Comment puis-je vous aider ?
 Do come again!
-Reviens !
+Merci de votre visite ! À bientôt !
 Is there anything else I can do for you?
 Est-ce que je peux faire autre chose pour toi ?
 {1} BP
@@ -4515,7 +4515,7 @@ Mec, j'ai perdu !
 Value {1} not defined by a constant in {2}
 Valeur {1} non définie par une constante dans {2}
 LEARNED
-SAVANT
+APPRIS
 Teach which Pokémon?
 Enseigner à quel Pokémon ?
 There's no more room for Pokémon!

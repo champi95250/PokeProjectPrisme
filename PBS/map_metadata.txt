@@ -212,3 +212,7 @@ Outdoor = true
 ShowArea = true
 MapPosition = 0,12,13
 MapSize = 2,11
+#-------------------------------
+[044]   # MAP044
+Outdoor = true
+ShowArea = true

@@ -67,6 +67,7 @@ module WeatherConfig
 	{:Snow => :Rain, :Snow => :Rain, :Blizzard => :Storm, :Sandstorm => :None},
 	{:Snow => :Rain, :Snow => :Rain, :Blizzard => :HeavyRain, :Sandstorm => :None, :Fog => :Fog},
   {:None => :None, :Rain => :Rain, :Storm => :Storm, :Snow => :Rain, :Blizzard => :Storm, :Sandstorm => :None, :HeavyRain => :HeavyRain, :Sun => :Sun, :Fog => :Fog},
+  {:Snow => :Rain,:Blizzard => :Storm,:Sandstorm => :None}# Zone 4 — Route 5 / Bélécume
   ]
 
 #===============================================================================
