@@ -85,7 +85,7 @@ module VMS
   # Whether or not to show the ping in the window title.
   SHOW_PING = true
   # Whether or not to show other players on the region map.
-  SHOW_PLAYERS_ON_REGION_MAP = true
+  SHOW_PLAYERS_ON_REGION_MAP = false
   # Default values for encryption.
   ENCRYPTION_DEFAULTS = {
     "Pokemon" => [:BULBASAUR, 5],
