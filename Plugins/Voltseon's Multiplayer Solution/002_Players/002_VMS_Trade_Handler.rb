@@ -51,7 +51,7 @@ module VMS
         return
       end
       trade_pokemon = party[trade_pokemon_index]
-      choices = [_INTL("Confirm Trade"), _INTL("Check my Pokémon"), _INTL("Check {1}'s Pokémon", player.name), _INTL("Cancel")]
+      choices = [_INTL("Confirmer l'échange"), _INTL("Voir mon Pokémon"), _INTL("Voir le Pokémon de {1}", player.name), _INTL("Annuler")]
       loop do
         choice = VMS.message(_INTL(VMS::TRADE_CONFIRMATION_MESSAGE, pokemon_name, trade_pokemon_name), choices, -1)
         case choice
