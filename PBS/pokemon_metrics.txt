@@ -4781,3 +4781,12 @@ DmaxBackSprite = 0,0
 DmaxFrontSprite = 0,0
 ShadowSprite = 0,0,-1
 SuperShinyHue = 235
+#-------------------------------
+[RACOGNE]
+BackSprite = 0,17
+FrontSprite = -1,13
+DmaxBackSprite = 0,0
+DmaxFrontSprite = 0,0
+ShadowSprite = 0,0,0
+AnimationSpeed = 1
+SuperShinyHue = -180

@@ -213,6 +213,9 @@ ShowArea = true
 MapPosition = 0,12,13
 MapSize = 2,11
 #-------------------------------
-[044]   # MAP044
+[044]   # Prismapolis 
+Name = Prismapolis
 Outdoor = true
 ShowArea = true
+MapPosition = 0,9,12
+MapSize = 3,111111

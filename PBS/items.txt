@@ -5136,8 +5136,8 @@ Move = ROCKCLIMB
 Description = A charging attack that may also leave the foe confused.
 #-------------------------------
 [TM101]
-Name = TM101
-NamePlural = TM101s
+Name = CT101
+NamePlural = CT101s
 Pocket = 4
 Price = 2000
 BPPrice = 32
@@ -5147,8 +5147,8 @@ Move = SWIFT
 Description = Le lanceur envoie des rayons en forme d’étoile qui n’échouent jamais.
 #-------------------------------
 [TM102]
-Name = TM102
-NamePlural = TM102s
+Name = CT102
+NamePlural = CT102s
 Pocket = 4
 Price = 3000
 BPPrice = 32

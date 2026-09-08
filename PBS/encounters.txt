@@ -153,42 +153,42 @@ LandNight,21
     7,MURKROW,7,10
 PokeRadar,100
     100,ROCKRUFF,8,10
-LandRain
+LandRain,21
     18,LOTAD,7,9
     15,MAREEP,9,10
     10,TYMPOLE,8,10
     8,SKIDDO,8,10
-LandNightRain
+LandNightRain,21
     15,MAREEP,7,9
     10,ODDISH,8,10
     7,TYMPOLE,8,10
     7,MURKROW,7,10
-LandStorm
+LandStorm,21
     18,LOTAD,7,9
     15,MAREEP,9,10
     10,TYMPOLE,8,10
     5,SKIDDO,8,10
-LandNightStorm
+LandNightStorm,21
     15,MAREEP,7,9
     10,ODDISH,8,10
     7,TYMPOLE,8,10
     7,MURKROW,7,10
-LandSun
+LandSun,21
     18,FLETCHLING,7,9
     10,MAREEP,9,10
     10,LITLEO,8,10
     7,SKIDDO,8,10
-LandNightSun
+LandNightSun,21
     10,MAREEP,7,9
     10,ODDISH,8,10
     7,HOUNDOUR,8,10
     7,MURKROW,7,10
-LandFog
+LandFog,21
     10,PHANTUMP,7,9
     22,MAREEP,9,10
     8,INKAY,8,10
     7,SKIDDO,8,10
-LandNightFog
+LandNightFog,21
     10,MAREEP,7,9
     10,ODDISH,8,10
     7,HOUNDOUR,8,10
@@ -225,7 +225,7 @@ HeadbuttHigh,10
     12,COMBEE,10,12
 #-------------------------------
 [030] # Grotte Entré 1
-Cave,7
+Cave,6
     25,ROGGENROLA,13,15
     20,WOOBAT,13,15
     15,NUMEL,14,16
@@ -234,7 +234,7 @@ Cave,7
     3,MAGBY,16,17
 #-------------------------------
 [031] # Grotte Entré 1
-Cave,7
+Cave,6
     25,ROGGENROLA,13,15
     20,WOOBAT,13,15
     15,NUMEL,14,16
@@ -265,33 +265,33 @@ LandNightSun,21
     20,VOLBEAT,14,17
     5,HELIOPTILE,13,16
     5,DROWZEE,14,16
-LandRain
+LandRain,21
     20,BUNEARY,14,16
     15,VOLTARYX,14,16
     11,SKIDDO,15,17
     7,DEERLING,14,17
     5,BUIZEL,13,16
-LandNightRain
+LandNightRain,21
     20,SPRITZEE,14,16
     12,DROWZEE,14,16
     10,CHEWTLE,13,15
     8,NYMBLE,13,16
-LandStorm
+LandStorm,21
     20,BUNEARY,14,16
     15,VOLTARYX,14,16
     11,SKIDDO,15,17
     7,DEERLING,14,17
     5,BUIZEL,13,16
-LandNightStorm
+LandNightStorm,21
     20,SPRITZEE,14,16
     12,DROWZEE,14,16
     10,CHEWTLE,13,15
     8,NYMBLE,13,16
-LandSnow
+LandSnow,21
     20,BUNEARY,14,16
     15,VOLTARYX,14,16
     5,SKIDDO,15,17
-LandNightSnow
+LandNightSnow,21
     20,SPRITZEE,14,16
     12,DROWZEE,14,16
     5,NYMBLE,13,16
@@ -375,5 +375,73 @@ LandNight,21
     12,MISDREAVUS,21,24
     9,NINCADA,20,24
     5,ABSOL,24,26
+LandRain,21
+    22,YAMPER,21,24
+    10,PIDOVE,19,21
+    12,VOLBEAT,21,24
+    12,ILLUMISE,21,24
+    5,FARFETCHD_1,23,26
+LandNightRain,21
+    12,STUNKY,21,24
+    15,VENONAT,21,24
+    14,MISDREAVUS,21,24
+    14,NINCADA,20,24
+    10,ABSOL,24,26
+LandStorm,21
+    22,YAMPER,21,24
+    6,PIDOVE,19,21
+    15,PLUSLE,21,24
+    15,MINUN,21,24
+    5,FARFETCHD_1,23,26
+LandNightStorm,21
+    10,STUNKY,21,24
+    10,VENONAT,21,24
+    15,MISDREAVUS,21,24
+    10,NINCADA,20,24
+    8,ABSOL,24,26
+LandSnow,21
+    5,YAMPER,21,24
+    10,VULPIX_1,21,24
+    7,SNOVER,21,24
+    5,SNEASEL,23,26
+LandNightSnow,21
+    8,STUNKY,21,24
+    16,SNEASEL,21,24
+    16,MISDREAVUS,21,24
+    9,VULPIX_1,20,24
+    9,ABSOL,24,26
+    7,SNOVER,21,24
+LandSun,21
+    18,YAMPER,21,24
+    18,PIDOVE,19,21
+    12,MEOWTH,21,24
+    10,KECLEON,21,25
+    9,DODUO,21,24
+    8,FARFETCHD_1,23,26
+LandNightSun,21
+    15,STUNKY,21,24
+    18,VENONAT,21,24
+    12,NINCADA,20,24
+    10,ABSOL,24,26
+    6,MISDREAVUS,21,24
+    6,KECLEON,21,25
 PokeRadar,100
     100,PHANPY,22,24
+#-------------------------------
+[044] # Prismapolis
+Land,21
+    20,TANGELA,23,25
+    15,SMEARGLE,23,25
+    11,PIDOVE,20,23
+    11,TIMBURR,22,24
+    7,VENONAT,23,25
+    4,MAGNEMITE,23,25
+LandNight,21
+    15,TANGELA,23,25
+    15,LIEPARD,23,25
+    12,DRIFLOON,23,25
+    8,VENONAT,23,25
+    8,MAGNEMITE,23,25
+    5,KLEFKI,23,25
+PokeRadar,100
+    100,RACOGNE,22,25

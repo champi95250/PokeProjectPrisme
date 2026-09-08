@@ -84,8 +84,12 @@ module VMS
         return
       end
 
+      original_owner = trade_pokemon.owner
       pbStartTrade(pokemon_index, trade_pokemon, trade_pokemon_name, player.name)
+      received_pokemon = $player.party[pokemon_index]
+      received_pokemon.owner = original_owner if received_pokemon && original_owner
       $game_temp.vms[:state] = [:idle, nil]
+
 
       if Game.save
         VMS.message("\\se[]" + _INTL("{1} saved the game.", $player.name) + "\\me[GUI save game]\\wtnp[30]")

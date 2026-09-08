@@ -96,7 +96,7 @@ module WeatherConfig
   # Each zone may have a different weather than the others.
   ZONE_MAPS = [
     [1, 9, 13, 14], # La grand route 
-    [15,25], # La route falaise
+    [15,25,26], # La route falaise
     [24], # bois serment
     [32,33,43],  #Route 6 a 4 par Relais
     [37,38] #Plage Belecume
@@ -113,7 +113,7 @@ module WeatherConfig
     {"Claircour" => 15,"Route 3" => 25,"Caldéon" => 26},
     {"Bois des Serments" => 24},
     {"Route 4" => 32,"Relais Amiral" => 33,"Route 6" => 43},
-    {"Route 5" => 37,"Bélécume" => 37}
+    {"Route 5" => 37,"Bélécume" => 38}
   ]
 
   # A hash for the plugin to display the proper weather image on the map.
