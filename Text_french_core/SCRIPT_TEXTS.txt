@@ -3715,11 +3715,11 @@ Continuer les opérations Box ?
 Exit from the Box?
 Sortie de la boîte ?
 Shift
-Changement
+Changer
 Place
-Lieu
+Placer
 Store
-Magasin
+Déposer
 Withdraw
 Retirer
 Release

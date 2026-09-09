@@ -1,0 +1,12 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[POPPERS]
+Name = Poppers
+NamePlural = Poppers
+PortionName = flacon de Poppers
+PortionNamePlural = flacons de Poppers
+Pocket = 7
+Price = 900
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Un produit à l'effet bref. Monte la Vitesse, baisse les deux Défenses et augmente l'Exp gagnée durant ce combat.

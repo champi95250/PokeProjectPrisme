@@ -4790,3 +4790,12 @@ DmaxFrontSprite = 0,0
 ShadowSprite = 0,0,0
 AnimationSpeed = 1
 SuperShinyHue = -180
+#-------------------------------
+[RANCLIFF]
+BackSprite = 0,37
+FrontSprite = 0,18
+DmaxBackSprite = 0,0
+DmaxFrontSprite = 0,0
+ShadowSprite = 0,0,0
+AnimationSpeed = 1
+SuperShinyHue = -120
