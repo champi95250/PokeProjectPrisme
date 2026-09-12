@@ -19,6 +19,13 @@ Point = 16,13,Route 4,,,,,,Route8
 Point = 15,13,Route 4,,,,,,Route8
 Point = 14,13,Relais Amiral,,33,33,17,,Size1x1
 Point = 14,14,Route 5,,,,,,Route1
-Point = 14,15,Belécume,Port,38,38,36,,Size1x2
-Point = 14,16,Belécume,Arène Eau,38,38,36,,Size1x2
-
+Point = 14,15,Bélécume,,38,38,36,,Size1x2
+Point = 14,16,Bélécume,Port,38,38,36,,Size1x2
+Point = 13,13,Route 6,,,,,,Route07
+Point = 12,13,Route 6,,,,,,Route07
+Point = 11,12,Prismapolis,Casino,,,,,Size3x2
+Point = 11,13,Prismapolis,,44,53,85,,Size3x2
+Point = 10,12,Prismapolis,Zone Battle,,,,,Size3x2
+Point = 10,13,Prismapolis,Zone Battle,,,,,Size3x2
+Point = 9,12,Prismapolis,,,,,,Size3x2
+Point = 9,13,Prismapolis,,,,,,Size3x2
