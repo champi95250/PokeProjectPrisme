@@ -10,3 +10,12 @@ Price = 900
 BattleUse = OnBattler
 Flags = Fling_30
 Description = Un produit à l'effet bref. Monte la Vitesse, baisse les deux Défenses et augmente l'Exp gagnée durant ce combat.
+#-------------------------------
+[PRISMATICPASS]
+Name = Pass Prismatique
+NamePlural = Pass Prismatiques
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Un laissez-passer remis aux vainqueurs de l'Arène de Prismapolis. Il permet d'accéder au Quartier Prismatique.

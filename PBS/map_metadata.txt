@@ -217,5 +217,5 @@ MapSize = 2,11
 Name = Prismapolis
 Outdoor = true
 ShowArea = true
-MapPosition = 0,9,12
-MapSize = 3,111111
+MapPosition = 0,11,12
+MapSize = 1,11
